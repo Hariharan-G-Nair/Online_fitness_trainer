@@ -1,0 +1,11 @@
+training_type,primary_goal,reps_range,sets_range,intensity_percent_1RM,rest_seconds,tempo,training_frequency_per_week,exercise_type,volume_level,progression_method,suitable_for,equipment_required,example_exercises
+Strength,Maximal force production,1-5,3-6,85-100,180-300,Slow eccentric explosive concentric,3-5,Compound,Moderate,Progressive overload (load),Intermediate/Advanced,Barbell,Squat; Deadlift; Bench Press
+Hypertrophy,Muscle size increase,6-12,3-5,65-80,45-90,Controlled time under tension,4-6,Compound + Isolation,High,Progressive overload (volume),Beginner/Intermediate,Gym machines + free weights,Chest Press; Lateral Raise; Bicep Curl
+Muscular Endurance,Muscle fatigue resistance,15-30,2-4,40-60,30-60,Fast controlled,3-5,Isolation + Light compound,Low to Moderate,Increase reps/time,Beginner,Bodyweight/Dumbbells,Bodyweight Squats; Push-ups; Lunges
+Power,Explosive strength and speed,1-5,3-6,30-60,120-300,Explosive concentric,2-4,Compound ballistic,Low,Velocity-based progression,Advanced,Barbell/Kettlebell,Power Clean; Box Jump; Push Press
+Fat Loss,Calorie expenditure & metabolism,8-20,2-4,50-75,20-60,Moderate pace,4-6,Full-body circuits,Moderate,Density progression,All levels,Minimal/Gym,Kettlebell Swings; Burpees; Mountain Climbers
+Athletic Performance,Speed agility coordination,3-8,3-6,60-85,90-180,Explosive,3-5,Multi-planar compound,Moderate,Skill + load progression,Athletes,Sports equipment,Sprints; Agility Ladder; Medicine Ball Throws
+Rehabilitation,Injury recovery & mobility,12-20,2-3,20-40,30-60,Slow controlled,2-4,Isolation & corrective,Low,Range of motion progression,Injury recovery,Bands/Bodyweight,TheraBand Rows; Glute Bridges; Step-ups
+Functional Training,Daily movement efficiency,8-15,3-4,50-70,45-90,Controlled functional,3-5,Compound multi-joint,Moderate,Movement complexity progression,All levels,Kettlebell/Bands,Farmer’s Carry; Goblet Squat; Turkish Get-Up
+Bodybuilding,Muscle aesthetics & symmetry,8-15,4-6,65-80,30-90,Slow eccentric focus,5-6,Isolation dominant,Very High,Volume + intensity techniques,Intermediate/Advanced,Gym machines,Cable Fly; Preacher Curl; Leg Extension
+Calisthenics,Relative strength & control,5-15,3-5,Bodyweight,60-120,Controlled to explosive,3-5,Bodyweight compound,Moderate,Leverage progression,All levels,,Pull-ups; Dips; Pistol Squats

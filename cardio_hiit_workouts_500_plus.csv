@@ -1,0 +1,521 @@
+workout_name,primary_activity,training_format,intensity_level,equipment_required,primary_goal,typical_duration,work_rest_structure
+Running - Steady State,Running,Steady State,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 11 sec rest
+Running - Steady State,Running,Steady State,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 12 sec rest
+Running - Steady State,Running,Steady State,High,Rower,VO2 Max,13 minutes,23 sec work / 13 sec rest
+Running - Steady State,Running,Steady State,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 14 sec rest
+Running - Intervals,Running,Intervals,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 15 sec rest
+Running - Intervals,Running,Intervals,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 16 sec rest
+Running - Intervals,Running,Intervals,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 17 sec rest
+Running - Intervals,Running,Intervals,Very High,,VO2 Max,18 minutes,28 sec work / 18 sec rest
+Running - HIIT,Running,HIIT,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 19 sec rest
+Running - HIIT,Running,HIIT,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 20 sec rest
+Running - HIIT,Running,HIIT,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 21 sec rest
+Running - HIIT,Running,HIIT,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 22 sec rest
+Running - EMOM,Running,EMOM,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 23 sec rest
+Running - EMOM,Running,EMOM,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 24 sec rest
+Running - EMOM,Running,EMOM,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 25 sec rest
+Running - EMOM,Running,EMOM,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 26 sec rest
+Running - AMRAP,Running,AMRAP,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 27 sec rest
+Running - AMRAP,Running,AMRAP,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 28 sec rest
+Running - AMRAP,Running,AMRAP,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 29 sec rest
+Running - AMRAP,Running,AMRAP,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 30 sec rest
+Running - Circuit,Running,Circuit,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 31 sec rest
+Running - Circuit,Running,Circuit,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 32 sec rest
+Running - Circuit,Running,Circuit,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 33 sec rest
+Running - Circuit,Running,Circuit,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 34 sec rest
+Cycling - Steady State,Cycling,Steady State,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 35 sec rest
+Cycling - Steady State,Cycling,Steady State,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 36 sec rest
+Cycling - Steady State,Cycling,Steady State,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 37 sec rest
+Cycling - Steady State,Cycling,Steady State,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 38 sec rest
+Cycling - Intervals,Cycling,Intervals,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 39 sec rest
+Cycling - Intervals,Cycling,Intervals,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 10 sec rest
+Cycling - Intervals,Cycling,Intervals,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 11 sec rest
+Cycling - Intervals,Cycling,Intervals,Very High,,Athletic Conditioning,42 minutes,52 sec work / 12 sec rest
+Cycling - HIIT,Cycling,HIIT,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 13 sec rest
+Cycling - HIIT,Cycling,HIIT,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 14 sec rest
+Cycling - HIIT,Cycling,HIIT,High,Rower,Fat Loss,45 minutes,55 sec work / 15 sec rest
+Cycling - HIIT,Cycling,HIIT,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 16 sec rest
+Cycling - EMOM,Cycling,EMOM,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 17 sec rest
+Cycling - EMOM,Cycling,EMOM,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 18 sec rest
+Cycling - EMOM,Cycling,EMOM,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 19 sec rest
+Cycling - EMOM,Cycling,EMOM,Very High,,Fat Loss,10 minutes,20 sec work / 20 sec rest
+Cycling - AMRAP,Cycling,AMRAP,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 21 sec rest
+Cycling - AMRAP,Cycling,AMRAP,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 22 sec rest
+Cycling - AMRAP,Cycling,AMRAP,High,Rower,VO2 Max,13 minutes,23 sec work / 23 sec rest
+Cycling - AMRAP,Cycling,AMRAP,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 24 sec rest
+Cycling - Circuit,Cycling,Circuit,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 25 sec rest
+Cycling - Circuit,Cycling,Circuit,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 26 sec rest
+Cycling - Circuit,Cycling,Circuit,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 27 sec rest
+Cycling - Circuit,Cycling,Circuit,Very High,,VO2 Max,18 minutes,28 sec work / 28 sec rest
+Rowing - Steady State,Rowing,Steady State,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 29 sec rest
+Rowing - Steady State,Rowing,Steady State,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 30 sec rest
+Rowing - Steady State,Rowing,Steady State,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 31 sec rest
+Rowing - Steady State,Rowing,Steady State,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 32 sec rest
+Rowing - Intervals,Rowing,Intervals,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 33 sec rest
+Rowing - Intervals,Rowing,Intervals,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 34 sec rest
+Rowing - Intervals,Rowing,Intervals,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 35 sec rest
+Rowing - Intervals,Rowing,Intervals,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 36 sec rest
+Rowing - HIIT,Rowing,HIIT,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 37 sec rest
+Rowing - HIIT,Rowing,HIIT,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 38 sec rest
+Rowing - HIIT,Rowing,HIIT,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 39 sec rest
+Rowing - HIIT,Rowing,HIIT,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 10 sec rest
+Rowing - EMOM,Rowing,EMOM,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 11 sec rest
+Rowing - EMOM,Rowing,EMOM,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 12 sec rest
+Rowing - EMOM,Rowing,EMOM,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 13 sec rest
+Rowing - EMOM,Rowing,EMOM,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 14 sec rest
+Rowing - AMRAP,Rowing,AMRAP,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 15 sec rest
+Rowing - AMRAP,Rowing,AMRAP,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 16 sec rest
+Rowing - AMRAP,Rowing,AMRAP,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 17 sec rest
+Rowing - AMRAP,Rowing,AMRAP,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 18 sec rest
+Rowing - Circuit,Rowing,Circuit,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 19 sec rest
+Rowing - Circuit,Rowing,Circuit,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 20 sec rest
+Rowing - Circuit,Rowing,Circuit,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 21 sec rest
+Rowing - Circuit,Rowing,Circuit,Very High,,Athletic Conditioning,42 minutes,52 sec work / 22 sec rest
+Jump Rope - Steady State,Jump Rope,Steady State,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 23 sec rest
+Jump Rope - Steady State,Jump Rope,Steady State,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 24 sec rest
+Jump Rope - Steady State,Jump Rope,Steady State,High,Rower,Fat Loss,45 minutes,55 sec work / 25 sec rest
+Jump Rope - Steady State,Jump Rope,Steady State,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 26 sec rest
+Jump Rope - Intervals,Jump Rope,Intervals,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 27 sec rest
+Jump Rope - Intervals,Jump Rope,Intervals,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 28 sec rest
+Jump Rope - Intervals,Jump Rope,Intervals,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 29 sec rest
+Jump Rope - Intervals,Jump Rope,Intervals,Very High,,Fat Loss,10 minutes,20 sec work / 30 sec rest
+Jump Rope - HIIT,Jump Rope,HIIT,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 31 sec rest
+Jump Rope - HIIT,Jump Rope,HIIT,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 32 sec rest
+Jump Rope - HIIT,Jump Rope,HIIT,High,Rower,VO2 Max,13 minutes,23 sec work / 33 sec rest
+Jump Rope - HIIT,Jump Rope,HIIT,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 34 sec rest
+Jump Rope - EMOM,Jump Rope,EMOM,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 35 sec rest
+Jump Rope - EMOM,Jump Rope,EMOM,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 36 sec rest
+Jump Rope - EMOM,Jump Rope,EMOM,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 37 sec rest
+Jump Rope - EMOM,Jump Rope,EMOM,Very High,,VO2 Max,18 minutes,28 sec work / 38 sec rest
+Jump Rope - AMRAP,Jump Rope,AMRAP,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 39 sec rest
+Jump Rope - AMRAP,Jump Rope,AMRAP,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 10 sec rest
+Jump Rope - AMRAP,Jump Rope,AMRAP,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 11 sec rest
+Jump Rope - AMRAP,Jump Rope,AMRAP,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 12 sec rest
+Jump Rope - Circuit,Jump Rope,Circuit,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 13 sec rest
+Jump Rope - Circuit,Jump Rope,Circuit,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 14 sec rest
+Jump Rope - Circuit,Jump Rope,Circuit,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 15 sec rest
+Jump Rope - Circuit,Jump Rope,Circuit,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 16 sec rest
+Stair Climbing - Steady State,Stair Climbing,Steady State,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 17 sec rest
+Stair Climbing - Steady State,Stair Climbing,Steady State,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 18 sec rest
+Stair Climbing - Steady State,Stair Climbing,Steady State,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 19 sec rest
+Stair Climbing - Steady State,Stair Climbing,Steady State,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 20 sec rest
+Stair Climbing - Intervals,Stair Climbing,Intervals,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 21 sec rest
+Stair Climbing - Intervals,Stair Climbing,Intervals,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 22 sec rest
+Stair Climbing - Intervals,Stair Climbing,Intervals,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 23 sec rest
+Stair Climbing - Intervals,Stair Climbing,Intervals,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 24 sec rest
+Stair Climbing - HIIT,Stair Climbing,HIIT,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 25 sec rest
+Stair Climbing - HIIT,Stair Climbing,HIIT,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 26 sec rest
+Stair Climbing - HIIT,Stair Climbing,HIIT,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 27 sec rest
+Stair Climbing - HIIT,Stair Climbing,HIIT,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 28 sec rest
+Stair Climbing - EMOM,Stair Climbing,EMOM,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 29 sec rest
+Stair Climbing - EMOM,Stair Climbing,EMOM,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 30 sec rest
+Stair Climbing - EMOM,Stair Climbing,EMOM,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 31 sec rest
+Stair Climbing - EMOM,Stair Climbing,EMOM,Very High,,Athletic Conditioning,42 minutes,52 sec work / 32 sec rest
+Stair Climbing - AMRAP,Stair Climbing,AMRAP,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 33 sec rest
+Stair Climbing - AMRAP,Stair Climbing,AMRAP,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 34 sec rest
+Stair Climbing - AMRAP,Stair Climbing,AMRAP,High,Rower,Fat Loss,45 minutes,55 sec work / 35 sec rest
+Stair Climbing - AMRAP,Stair Climbing,AMRAP,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 36 sec rest
+Stair Climbing - Circuit,Stair Climbing,Circuit,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 37 sec rest
+Stair Climbing - Circuit,Stair Climbing,Circuit,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 38 sec rest
+Stair Climbing - Circuit,Stair Climbing,Circuit,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 39 sec rest
+Stair Climbing - Circuit,Stair Climbing,Circuit,Very High,,Fat Loss,10 minutes,20 sec work / 10 sec rest
+Swimming - Steady State,Swimming,Steady State,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 11 sec rest
+Swimming - Steady State,Swimming,Steady State,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 12 sec rest
+Swimming - Steady State,Swimming,Steady State,High,Rower,VO2 Max,13 minutes,23 sec work / 13 sec rest
+Swimming - Steady State,Swimming,Steady State,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 14 sec rest
+Swimming - Intervals,Swimming,Intervals,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 15 sec rest
+Swimming - Intervals,Swimming,Intervals,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 16 sec rest
+Swimming - Intervals,Swimming,Intervals,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 17 sec rest
+Swimming - Intervals,Swimming,Intervals,Very High,,VO2 Max,18 minutes,28 sec work / 18 sec rest
+Swimming - HIIT,Swimming,HIIT,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 19 sec rest
+Swimming - HIIT,Swimming,HIIT,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 20 sec rest
+Swimming - HIIT,Swimming,HIIT,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 21 sec rest
+Swimming - HIIT,Swimming,HIIT,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 22 sec rest
+Swimming - EMOM,Swimming,EMOM,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 23 sec rest
+Swimming - EMOM,Swimming,EMOM,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 24 sec rest
+Swimming - EMOM,Swimming,EMOM,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 25 sec rest
+Swimming - EMOM,Swimming,EMOM,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 26 sec rest
+Swimming - AMRAP,Swimming,AMRAP,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 27 sec rest
+Swimming - AMRAP,Swimming,AMRAP,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 28 sec rest
+Swimming - AMRAP,Swimming,AMRAP,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 29 sec rest
+Swimming - AMRAP,Swimming,AMRAP,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 30 sec rest
+Swimming - Circuit,Swimming,Circuit,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 31 sec rest
+Swimming - Circuit,Swimming,Circuit,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 32 sec rest
+Swimming - Circuit,Swimming,Circuit,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 33 sec rest
+Swimming - Circuit,Swimming,Circuit,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 34 sec rest
+Elliptical - Steady State,Elliptical,Steady State,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 35 sec rest
+Elliptical - Steady State,Elliptical,Steady State,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 36 sec rest
+Elliptical - Steady State,Elliptical,Steady State,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 37 sec rest
+Elliptical - Steady State,Elliptical,Steady State,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 38 sec rest
+Elliptical - Intervals,Elliptical,Intervals,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 39 sec rest
+Elliptical - Intervals,Elliptical,Intervals,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 10 sec rest
+Elliptical - Intervals,Elliptical,Intervals,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 11 sec rest
+Elliptical - Intervals,Elliptical,Intervals,Very High,,Athletic Conditioning,42 minutes,52 sec work / 12 sec rest
+Elliptical - HIIT,Elliptical,HIIT,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 13 sec rest
+Elliptical - HIIT,Elliptical,HIIT,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 14 sec rest
+Elliptical - HIIT,Elliptical,HIIT,High,Rower,Fat Loss,45 minutes,55 sec work / 15 sec rest
+Elliptical - HIIT,Elliptical,HIIT,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 16 sec rest
+Elliptical - EMOM,Elliptical,EMOM,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 17 sec rest
+Elliptical - EMOM,Elliptical,EMOM,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 18 sec rest
+Elliptical - EMOM,Elliptical,EMOM,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 19 sec rest
+Elliptical - EMOM,Elliptical,EMOM,Very High,,Fat Loss,10 minutes,20 sec work / 20 sec rest
+Elliptical - AMRAP,Elliptical,AMRAP,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 21 sec rest
+Elliptical - AMRAP,Elliptical,AMRAP,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 22 sec rest
+Elliptical - AMRAP,Elliptical,AMRAP,High,Rower,VO2 Max,13 minutes,23 sec work / 23 sec rest
+Elliptical - AMRAP,Elliptical,AMRAP,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 24 sec rest
+Elliptical - Circuit,Elliptical,Circuit,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 25 sec rest
+Elliptical - Circuit,Elliptical,Circuit,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 26 sec rest
+Elliptical - Circuit,Elliptical,Circuit,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 27 sec rest
+Elliptical - Circuit,Elliptical,Circuit,Very High,,VO2 Max,18 minutes,28 sec work / 28 sec rest
+Speed Walking - Steady State,Speed Walking,Steady State,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 29 sec rest
+Speed Walking - Steady State,Speed Walking,Steady State,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 30 sec rest
+Speed Walking - Steady State,Speed Walking,Steady State,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 31 sec rest
+Speed Walking - Steady State,Speed Walking,Steady State,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 32 sec rest
+Speed Walking - Intervals,Speed Walking,Intervals,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 33 sec rest
+Speed Walking - Intervals,Speed Walking,Intervals,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 34 sec rest
+Speed Walking - Intervals,Speed Walking,Intervals,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 35 sec rest
+Speed Walking - Intervals,Speed Walking,Intervals,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 36 sec rest
+Speed Walking - HIIT,Speed Walking,HIIT,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 37 sec rest
+Speed Walking - HIIT,Speed Walking,HIIT,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 38 sec rest
+Speed Walking - HIIT,Speed Walking,HIIT,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 39 sec rest
+Speed Walking - HIIT,Speed Walking,HIIT,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 10 sec rest
+Speed Walking - EMOM,Speed Walking,EMOM,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 11 sec rest
+Speed Walking - EMOM,Speed Walking,EMOM,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 12 sec rest
+Speed Walking - EMOM,Speed Walking,EMOM,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 13 sec rest
+Speed Walking - EMOM,Speed Walking,EMOM,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 14 sec rest
+Speed Walking - AMRAP,Speed Walking,AMRAP,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 15 sec rest
+Speed Walking - AMRAP,Speed Walking,AMRAP,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 16 sec rest
+Speed Walking - AMRAP,Speed Walking,AMRAP,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 17 sec rest
+Speed Walking - AMRAP,Speed Walking,AMRAP,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 18 sec rest
+Speed Walking - Circuit,Speed Walking,Circuit,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 19 sec rest
+Speed Walking - Circuit,Speed Walking,Circuit,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 20 sec rest
+Speed Walking - Circuit,Speed Walking,Circuit,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 21 sec rest
+Speed Walking - Circuit,Speed Walking,Circuit,Very High,,Athletic Conditioning,42 minutes,52 sec work / 22 sec rest
+Mountain Climber - Steady State,Mountain Climber,Steady State,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 23 sec rest
+Mountain Climber - Steady State,Mountain Climber,Steady State,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 24 sec rest
+Mountain Climber - Steady State,Mountain Climber,Steady State,High,Rower,Fat Loss,45 minutes,55 sec work / 25 sec rest
+Mountain Climber - Steady State,Mountain Climber,Steady State,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 26 sec rest
+Mountain Climber - Intervals,Mountain Climber,Intervals,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 27 sec rest
+Mountain Climber - Intervals,Mountain Climber,Intervals,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 28 sec rest
+Mountain Climber - Intervals,Mountain Climber,Intervals,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 29 sec rest
+Mountain Climber - Intervals,Mountain Climber,Intervals,Very High,,Fat Loss,10 minutes,20 sec work / 30 sec rest
+Mountain Climber - HIIT,Mountain Climber,HIIT,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 31 sec rest
+Mountain Climber - HIIT,Mountain Climber,HIIT,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 32 sec rest
+Mountain Climber - HIIT,Mountain Climber,HIIT,High,Rower,VO2 Max,13 minutes,23 sec work / 33 sec rest
+Mountain Climber - HIIT,Mountain Climber,HIIT,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 34 sec rest
+Mountain Climber - EMOM,Mountain Climber,EMOM,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 35 sec rest
+Mountain Climber - EMOM,Mountain Climber,EMOM,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 36 sec rest
+Mountain Climber - EMOM,Mountain Climber,EMOM,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 37 sec rest
+Mountain Climber - EMOM,Mountain Climber,EMOM,Very High,,VO2 Max,18 minutes,28 sec work / 38 sec rest
+Mountain Climber - AMRAP,Mountain Climber,AMRAP,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 39 sec rest
+Mountain Climber - AMRAP,Mountain Climber,AMRAP,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 10 sec rest
+Mountain Climber - AMRAP,Mountain Climber,AMRAP,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 11 sec rest
+Mountain Climber - AMRAP,Mountain Climber,AMRAP,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 12 sec rest
+Mountain Climber - Circuit,Mountain Climber,Circuit,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 13 sec rest
+Mountain Climber - Circuit,Mountain Climber,Circuit,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 14 sec rest
+Mountain Climber - Circuit,Mountain Climber,Circuit,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 15 sec rest
+Mountain Climber - Circuit,Mountain Climber,Circuit,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 16 sec rest
+Shadow Boxing - Steady State,Shadow Boxing,Steady State,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 17 sec rest
+Shadow Boxing - Steady State,Shadow Boxing,Steady State,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 18 sec rest
+Shadow Boxing - Steady State,Shadow Boxing,Steady State,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 19 sec rest
+Shadow Boxing - Steady State,Shadow Boxing,Steady State,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 20 sec rest
+Shadow Boxing - Intervals,Shadow Boxing,Intervals,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 21 sec rest
+Shadow Boxing - Intervals,Shadow Boxing,Intervals,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 22 sec rest
+Shadow Boxing - Intervals,Shadow Boxing,Intervals,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 23 sec rest
+Shadow Boxing - Intervals,Shadow Boxing,Intervals,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 24 sec rest
+Shadow Boxing - HIIT,Shadow Boxing,HIIT,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 25 sec rest
+Shadow Boxing - HIIT,Shadow Boxing,HIIT,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 26 sec rest
+Shadow Boxing - HIIT,Shadow Boxing,HIIT,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 27 sec rest
+Shadow Boxing - HIIT,Shadow Boxing,HIIT,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 28 sec rest
+Shadow Boxing - EMOM,Shadow Boxing,EMOM,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 29 sec rest
+Shadow Boxing - EMOM,Shadow Boxing,EMOM,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 30 sec rest
+Shadow Boxing - EMOM,Shadow Boxing,EMOM,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 31 sec rest
+Shadow Boxing - EMOM,Shadow Boxing,EMOM,Very High,,Athletic Conditioning,42 minutes,52 sec work / 32 sec rest
+Shadow Boxing - AMRAP,Shadow Boxing,AMRAP,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 33 sec rest
+Shadow Boxing - AMRAP,Shadow Boxing,AMRAP,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 34 sec rest
+Shadow Boxing - AMRAP,Shadow Boxing,AMRAP,High,Rower,Fat Loss,45 minutes,55 sec work / 35 sec rest
+Shadow Boxing - AMRAP,Shadow Boxing,AMRAP,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 36 sec rest
+Shadow Boxing - Circuit,Shadow Boxing,Circuit,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 37 sec rest
+Shadow Boxing - Circuit,Shadow Boxing,Circuit,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 38 sec rest
+Shadow Boxing - Circuit,Shadow Boxing,Circuit,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 39 sec rest
+Shadow Boxing - Circuit,Shadow Boxing,Circuit,Very High,,Fat Loss,10 minutes,20 sec work / 10 sec rest
+Battle Ropes - Steady State,Battle Ropes,Steady State,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 11 sec rest
+Battle Ropes - Steady State,Battle Ropes,Steady State,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 12 sec rest
+Battle Ropes - Steady State,Battle Ropes,Steady State,High,Rower,VO2 Max,13 minutes,23 sec work / 13 sec rest
+Battle Ropes - Steady State,Battle Ropes,Steady State,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 14 sec rest
+Battle Ropes - Intervals,Battle Ropes,Intervals,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 15 sec rest
+Battle Ropes - Intervals,Battle Ropes,Intervals,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 16 sec rest
+Battle Ropes - Intervals,Battle Ropes,Intervals,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 17 sec rest
+Battle Ropes - Intervals,Battle Ropes,Intervals,Very High,,VO2 Max,18 minutes,28 sec work / 18 sec rest
+Battle Ropes - HIIT,Battle Ropes,HIIT,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 19 sec rest
+Battle Ropes - HIIT,Battle Ropes,HIIT,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 20 sec rest
+Battle Ropes - HIIT,Battle Ropes,HIIT,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 21 sec rest
+Battle Ropes - HIIT,Battle Ropes,HIIT,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 22 sec rest
+Battle Ropes - EMOM,Battle Ropes,EMOM,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 23 sec rest
+Battle Ropes - EMOM,Battle Ropes,EMOM,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 24 sec rest
+Battle Ropes - EMOM,Battle Ropes,EMOM,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 25 sec rest
+Battle Ropes - EMOM,Battle Ropes,EMOM,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 26 sec rest
+Battle Ropes - AMRAP,Battle Ropes,AMRAP,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 27 sec rest
+Battle Ropes - AMRAP,Battle Ropes,AMRAP,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 28 sec rest
+Battle Ropes - AMRAP,Battle Ropes,AMRAP,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 29 sec rest
+Battle Ropes - AMRAP,Battle Ropes,AMRAP,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 30 sec rest
+Battle Ropes - Circuit,Battle Ropes,Circuit,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 31 sec rest
+Battle Ropes - Circuit,Battle Ropes,Circuit,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 32 sec rest
+Battle Ropes - Circuit,Battle Ropes,Circuit,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 33 sec rest
+Battle Ropes - Circuit,Battle Ropes,Circuit,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 34 sec rest
+Sled Push - Steady State,Sled Push,Steady State,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 35 sec rest
+Sled Push - Steady State,Sled Push,Steady State,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 36 sec rest
+Sled Push - Steady State,Sled Push,Steady State,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 37 sec rest
+Sled Push - Steady State,Sled Push,Steady State,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 38 sec rest
+Sled Push - Intervals,Sled Push,Intervals,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 39 sec rest
+Sled Push - Intervals,Sled Push,Intervals,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 10 sec rest
+Sled Push - Intervals,Sled Push,Intervals,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 11 sec rest
+Sled Push - Intervals,Sled Push,Intervals,Very High,,Athletic Conditioning,42 minutes,52 sec work / 12 sec rest
+Sled Push - HIIT,Sled Push,HIIT,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 13 sec rest
+Sled Push - HIIT,Sled Push,HIIT,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 14 sec rest
+Sled Push - HIIT,Sled Push,HIIT,High,Rower,Fat Loss,45 minutes,55 sec work / 15 sec rest
+Sled Push - HIIT,Sled Push,HIIT,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 16 sec rest
+Sled Push - EMOM,Sled Push,EMOM,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 17 sec rest
+Sled Push - EMOM,Sled Push,EMOM,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 18 sec rest
+Sled Push - EMOM,Sled Push,EMOM,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 19 sec rest
+Sled Push - EMOM,Sled Push,EMOM,Very High,,Fat Loss,10 minutes,20 sec work / 20 sec rest
+Sled Push - AMRAP,Sled Push,AMRAP,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 21 sec rest
+Sled Push - AMRAP,Sled Push,AMRAP,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 22 sec rest
+Sled Push - AMRAP,Sled Push,AMRAP,High,Rower,VO2 Max,13 minutes,23 sec work / 23 sec rest
+Sled Push - AMRAP,Sled Push,AMRAP,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 24 sec rest
+Sled Push - Circuit,Sled Push,Circuit,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 25 sec rest
+Sled Push - Circuit,Sled Push,Circuit,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 26 sec rest
+Sled Push - Circuit,Sled Push,Circuit,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 27 sec rest
+Sled Push - Circuit,Sled Push,Circuit,Very High,,VO2 Max,18 minutes,28 sec work / 28 sec rest
+Treadmill Sprint - Steady State,Treadmill Sprint,Steady State,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 29 sec rest
+Treadmill Sprint - Steady State,Treadmill Sprint,Steady State,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 30 sec rest
+Treadmill Sprint - Steady State,Treadmill Sprint,Steady State,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 31 sec rest
+Treadmill Sprint - Steady State,Treadmill Sprint,Steady State,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 32 sec rest
+Treadmill Sprint - Intervals,Treadmill Sprint,Intervals,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 33 sec rest
+Treadmill Sprint - Intervals,Treadmill Sprint,Intervals,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 34 sec rest
+Treadmill Sprint - Intervals,Treadmill Sprint,Intervals,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 35 sec rest
+Treadmill Sprint - Intervals,Treadmill Sprint,Intervals,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 36 sec rest
+Treadmill Sprint - HIIT,Treadmill Sprint,HIIT,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 37 sec rest
+Treadmill Sprint - HIIT,Treadmill Sprint,HIIT,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 38 sec rest
+Treadmill Sprint - HIIT,Treadmill Sprint,HIIT,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 39 sec rest
+Treadmill Sprint - HIIT,Treadmill Sprint,HIIT,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 10 sec rest
+Treadmill Sprint - EMOM,Treadmill Sprint,EMOM,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 11 sec rest
+Treadmill Sprint - EMOM,Treadmill Sprint,EMOM,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 12 sec rest
+Treadmill Sprint - EMOM,Treadmill Sprint,EMOM,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 13 sec rest
+Treadmill Sprint - EMOM,Treadmill Sprint,EMOM,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 14 sec rest
+Treadmill Sprint - AMRAP,Treadmill Sprint,AMRAP,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 15 sec rest
+Treadmill Sprint - AMRAP,Treadmill Sprint,AMRAP,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 16 sec rest
+Treadmill Sprint - AMRAP,Treadmill Sprint,AMRAP,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 17 sec rest
+Treadmill Sprint - AMRAP,Treadmill Sprint,AMRAP,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 18 sec rest
+Treadmill Sprint - Circuit,Treadmill Sprint,Circuit,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 19 sec rest
+Treadmill Sprint - Circuit,Treadmill Sprint,Circuit,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 20 sec rest
+Treadmill Sprint - Circuit,Treadmill Sprint,Circuit,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 21 sec rest
+Treadmill Sprint - Circuit,Treadmill Sprint,Circuit,Very High,,Athletic Conditioning,42 minutes,52 sec work / 22 sec rest
+Outdoor Sprint - Steady State,Outdoor Sprint,Steady State,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 23 sec rest
+Outdoor Sprint - Steady State,Outdoor Sprint,Steady State,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 24 sec rest
+Outdoor Sprint - Steady State,Outdoor Sprint,Steady State,High,Rower,Fat Loss,45 minutes,55 sec work / 25 sec rest
+Outdoor Sprint - Steady State,Outdoor Sprint,Steady State,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 26 sec rest
+Outdoor Sprint - Intervals,Outdoor Sprint,Intervals,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 27 sec rest
+Outdoor Sprint - Intervals,Outdoor Sprint,Intervals,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 28 sec rest
+Outdoor Sprint - Intervals,Outdoor Sprint,Intervals,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 29 sec rest
+Outdoor Sprint - Intervals,Outdoor Sprint,Intervals,Very High,,Fat Loss,10 minutes,20 sec work / 30 sec rest
+Outdoor Sprint - HIIT,Outdoor Sprint,HIIT,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 31 sec rest
+Outdoor Sprint - HIIT,Outdoor Sprint,HIIT,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 32 sec rest
+Outdoor Sprint - HIIT,Outdoor Sprint,HIIT,High,Rower,VO2 Max,13 minutes,23 sec work / 33 sec rest
+Outdoor Sprint - HIIT,Outdoor Sprint,HIIT,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 34 sec rest
+Outdoor Sprint - EMOM,Outdoor Sprint,EMOM,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 35 sec rest
+Outdoor Sprint - EMOM,Outdoor Sprint,EMOM,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 36 sec rest
+Outdoor Sprint - EMOM,Outdoor Sprint,EMOM,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 37 sec rest
+Outdoor Sprint - EMOM,Outdoor Sprint,EMOM,Very High,,VO2 Max,18 minutes,28 sec work / 38 sec rest
+Outdoor Sprint - AMRAP,Outdoor Sprint,AMRAP,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 39 sec rest
+Outdoor Sprint - AMRAP,Outdoor Sprint,AMRAP,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 10 sec rest
+Outdoor Sprint - AMRAP,Outdoor Sprint,AMRAP,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 11 sec rest
+Outdoor Sprint - AMRAP,Outdoor Sprint,AMRAP,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 12 sec rest
+Outdoor Sprint - Circuit,Outdoor Sprint,Circuit,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 13 sec rest
+Outdoor Sprint - Circuit,Outdoor Sprint,Circuit,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 14 sec rest
+Outdoor Sprint - Circuit,Outdoor Sprint,Circuit,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 15 sec rest
+Outdoor Sprint - Circuit,Outdoor Sprint,Circuit,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 16 sec rest
+Agility Ladder - Steady State,Agility Ladder,Steady State,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 17 sec rest
+Agility Ladder - Steady State,Agility Ladder,Steady State,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 18 sec rest
+Agility Ladder - Steady State,Agility Ladder,Steady State,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 19 sec rest
+Agility Ladder - Steady State,Agility Ladder,Steady State,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 20 sec rest
+Agility Ladder - Intervals,Agility Ladder,Intervals,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 21 sec rest
+Agility Ladder - Intervals,Agility Ladder,Intervals,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 22 sec rest
+Agility Ladder - Intervals,Agility Ladder,Intervals,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 23 sec rest
+Agility Ladder - Intervals,Agility Ladder,Intervals,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 24 sec rest
+Agility Ladder - HIIT,Agility Ladder,HIIT,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 25 sec rest
+Agility Ladder - HIIT,Agility Ladder,HIIT,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 26 sec rest
+Agility Ladder - HIIT,Agility Ladder,HIIT,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 27 sec rest
+Agility Ladder - HIIT,Agility Ladder,HIIT,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 28 sec rest
+Agility Ladder - EMOM,Agility Ladder,EMOM,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 29 sec rest
+Agility Ladder - EMOM,Agility Ladder,EMOM,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 30 sec rest
+Agility Ladder - EMOM,Agility Ladder,EMOM,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 31 sec rest
+Agility Ladder - EMOM,Agility Ladder,EMOM,Very High,,Athletic Conditioning,42 minutes,52 sec work / 32 sec rest
+Agility Ladder - AMRAP,Agility Ladder,AMRAP,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 33 sec rest
+Agility Ladder - AMRAP,Agility Ladder,AMRAP,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 34 sec rest
+Agility Ladder - AMRAP,Agility Ladder,AMRAP,High,Rower,Fat Loss,45 minutes,55 sec work / 35 sec rest
+Agility Ladder - AMRAP,Agility Ladder,AMRAP,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 36 sec rest
+Agility Ladder - Circuit,Agility Ladder,Circuit,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 37 sec rest
+Agility Ladder - Circuit,Agility Ladder,Circuit,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 38 sec rest
+Agility Ladder - Circuit,Agility Ladder,Circuit,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 39 sec rest
+Agility Ladder - Circuit,Agility Ladder,Circuit,Very High,,Fat Loss,10 minutes,20 sec work / 10 sec rest
+Burpees - Steady State,Burpees,Steady State,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 11 sec rest
+Burpees - Steady State,Burpees,Steady State,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 12 sec rest
+Burpees - Steady State,Burpees,Steady State,High,Rower,VO2 Max,13 minutes,23 sec work / 13 sec rest
+Burpees - Steady State,Burpees,Steady State,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 14 sec rest
+Burpees - Intervals,Burpees,Intervals,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 15 sec rest
+Burpees - Intervals,Burpees,Intervals,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 16 sec rest
+Burpees - Intervals,Burpees,Intervals,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 17 sec rest
+Burpees - Intervals,Burpees,Intervals,Very High,,VO2 Max,18 minutes,28 sec work / 18 sec rest
+Burpees - HIIT,Burpees,HIIT,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 19 sec rest
+Burpees - HIIT,Burpees,HIIT,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 20 sec rest
+Burpees - HIIT,Burpees,HIIT,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 21 sec rest
+Burpees - HIIT,Burpees,HIIT,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 22 sec rest
+Burpees - EMOM,Burpees,EMOM,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 23 sec rest
+Burpees - EMOM,Burpees,EMOM,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 24 sec rest
+Burpees - EMOM,Burpees,EMOM,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 25 sec rest
+Burpees - EMOM,Burpees,EMOM,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 26 sec rest
+Burpees - AMRAP,Burpees,AMRAP,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 27 sec rest
+Burpees - AMRAP,Burpees,AMRAP,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 28 sec rest
+Burpees - AMRAP,Burpees,AMRAP,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 29 sec rest
+Burpees - AMRAP,Burpees,AMRAP,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 30 sec rest
+Burpees - Circuit,Burpees,Circuit,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 31 sec rest
+Burpees - Circuit,Burpees,Circuit,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 32 sec rest
+Burpees - Circuit,Burpees,Circuit,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 33 sec rest
+Burpees - Circuit,Burpees,Circuit,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 34 sec rest
+High Knees - Steady State,High Knees,Steady State,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 35 sec rest
+High Knees - Steady State,High Knees,Steady State,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 36 sec rest
+High Knees - Steady State,High Knees,Steady State,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 37 sec rest
+High Knees - Steady State,High Knees,Steady State,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 38 sec rest
+High Knees - Intervals,High Knees,Intervals,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 39 sec rest
+High Knees - Intervals,High Knees,Intervals,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 10 sec rest
+High Knees - Intervals,High Knees,Intervals,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 11 sec rest
+High Knees - Intervals,High Knees,Intervals,Very High,,Athletic Conditioning,42 minutes,52 sec work / 12 sec rest
+High Knees - HIIT,High Knees,HIIT,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 13 sec rest
+High Knees - HIIT,High Knees,HIIT,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 14 sec rest
+High Knees - HIIT,High Knees,HIIT,High,Rower,Fat Loss,45 minutes,55 sec work / 15 sec rest
+High Knees - HIIT,High Knees,HIIT,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 16 sec rest
+High Knees - EMOM,High Knees,EMOM,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 17 sec rest
+High Knees - EMOM,High Knees,EMOM,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 18 sec rest
+High Knees - EMOM,High Knees,EMOM,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 19 sec rest
+High Knees - EMOM,High Knees,EMOM,Very High,,Fat Loss,10 minutes,20 sec work / 20 sec rest
+High Knees - AMRAP,High Knees,AMRAP,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 21 sec rest
+High Knees - AMRAP,High Knees,AMRAP,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 22 sec rest
+High Knees - AMRAP,High Knees,AMRAP,High,Rower,VO2 Max,13 minutes,23 sec work / 23 sec rest
+High Knees - AMRAP,High Knees,AMRAP,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 24 sec rest
+High Knees - Circuit,High Knees,Circuit,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 25 sec rest
+High Knees - Circuit,High Knees,Circuit,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 26 sec rest
+High Knees - Circuit,High Knees,Circuit,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 27 sec rest
+High Knees - Circuit,High Knees,Circuit,Very High,,VO2 Max,18 minutes,28 sec work / 28 sec rest
+Jump Squats - Steady State,Jump Squats,Steady State,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 29 sec rest
+Jump Squats - Steady State,Jump Squats,Steady State,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 30 sec rest
+Jump Squats - Steady State,Jump Squats,Steady State,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 31 sec rest
+Jump Squats - Steady State,Jump Squats,Steady State,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 32 sec rest
+Jump Squats - Intervals,Jump Squats,Intervals,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 33 sec rest
+Jump Squats - Intervals,Jump Squats,Intervals,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 34 sec rest
+Jump Squats - Intervals,Jump Squats,Intervals,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 35 sec rest
+Jump Squats - Intervals,Jump Squats,Intervals,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 36 sec rest
+Jump Squats - HIIT,Jump Squats,HIIT,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 37 sec rest
+Jump Squats - HIIT,Jump Squats,HIIT,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 38 sec rest
+Jump Squats - HIIT,Jump Squats,HIIT,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 39 sec rest
+Jump Squats - HIIT,Jump Squats,HIIT,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 10 sec rest
+Jump Squats - EMOM,Jump Squats,EMOM,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 11 sec rest
+Jump Squats - EMOM,Jump Squats,EMOM,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 12 sec rest
+Jump Squats - EMOM,Jump Squats,EMOM,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 13 sec rest
+Jump Squats - EMOM,Jump Squats,EMOM,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 14 sec rest
+Jump Squats - AMRAP,Jump Squats,AMRAP,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 15 sec rest
+Jump Squats - AMRAP,Jump Squats,AMRAP,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 16 sec rest
+Jump Squats - AMRAP,Jump Squats,AMRAP,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 17 sec rest
+Jump Squats - AMRAP,Jump Squats,AMRAP,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 18 sec rest
+Jump Squats - Circuit,Jump Squats,Circuit,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 19 sec rest
+Jump Squats - Circuit,Jump Squats,Circuit,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 20 sec rest
+Jump Squats - Circuit,Jump Squats,Circuit,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 21 sec rest
+Jump Squats - Circuit,Jump Squats,Circuit,Very High,,Athletic Conditioning,42 minutes,52 sec work / 22 sec rest
+Skater Hops - Steady State,Skater Hops,Steady State,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 23 sec rest
+Skater Hops - Steady State,Skater Hops,Steady State,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 24 sec rest
+Skater Hops - Steady State,Skater Hops,Steady State,High,Rower,Fat Loss,45 minutes,55 sec work / 25 sec rest
+Skater Hops - Steady State,Skater Hops,Steady State,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 26 sec rest
+Skater Hops - Intervals,Skater Hops,Intervals,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 27 sec rest
+Skater Hops - Intervals,Skater Hops,Intervals,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 28 sec rest
+Skater Hops - Intervals,Skater Hops,Intervals,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 29 sec rest
+Skater Hops - Intervals,Skater Hops,Intervals,Very High,,Fat Loss,10 minutes,20 sec work / 30 sec rest
+Skater Hops - HIIT,Skater Hops,HIIT,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 31 sec rest
+Skater Hops - HIIT,Skater Hops,HIIT,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 32 sec rest
+Skater Hops - HIIT,Skater Hops,HIIT,High,Rower,VO2 Max,13 minutes,23 sec work / 33 sec rest
+Skater Hops - HIIT,Skater Hops,HIIT,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 34 sec rest
+Skater Hops - EMOM,Skater Hops,EMOM,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 35 sec rest
+Skater Hops - EMOM,Skater Hops,EMOM,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 36 sec rest
+Skater Hops - EMOM,Skater Hops,EMOM,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 37 sec rest
+Skater Hops - EMOM,Skater Hops,EMOM,Very High,,VO2 Max,18 minutes,28 sec work / 38 sec rest
+Skater Hops - AMRAP,Skater Hops,AMRAP,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 39 sec rest
+Skater Hops - AMRAP,Skater Hops,AMRAP,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 10 sec rest
+Skater Hops - AMRAP,Skater Hops,AMRAP,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 11 sec rest
+Skater Hops - AMRAP,Skater Hops,AMRAP,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 12 sec rest
+Skater Hops - Circuit,Skater Hops,Circuit,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 13 sec rest
+Skater Hops - Circuit,Skater Hops,Circuit,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 14 sec rest
+Skater Hops - Circuit,Skater Hops,Circuit,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 15 sec rest
+Skater Hops - Circuit,Skater Hops,Circuit,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 16 sec rest
+Box Jumps - Steady State,Box Jumps,Steady State,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 17 sec rest
+Box Jumps - Steady State,Box Jumps,Steady State,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 18 sec rest
+Box Jumps - Steady State,Box Jumps,Steady State,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 19 sec rest
+Box Jumps - Steady State,Box Jumps,Steady State,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 20 sec rest
+Box Jumps - Intervals,Box Jumps,Intervals,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 21 sec rest
+Box Jumps - Intervals,Box Jumps,Intervals,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 22 sec rest
+Box Jumps - Intervals,Box Jumps,Intervals,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 23 sec rest
+Box Jumps - Intervals,Box Jumps,Intervals,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 24 sec rest
+Box Jumps - HIIT,Box Jumps,HIIT,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 25 sec rest
+Box Jumps - HIIT,Box Jumps,HIIT,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 26 sec rest
+Box Jumps - HIIT,Box Jumps,HIIT,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 27 sec rest
+Box Jumps - HIIT,Box Jumps,HIIT,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 28 sec rest
+Box Jumps - EMOM,Box Jumps,EMOM,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 29 sec rest
+Box Jumps - EMOM,Box Jumps,EMOM,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 30 sec rest
+Box Jumps - EMOM,Box Jumps,EMOM,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 31 sec rest
+Box Jumps - EMOM,Box Jumps,EMOM,Very High,,Athletic Conditioning,42 minutes,52 sec work / 32 sec rest
+Box Jumps - AMRAP,Box Jumps,AMRAP,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 33 sec rest
+Box Jumps - AMRAP,Box Jumps,AMRAP,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 34 sec rest
+Box Jumps - AMRAP,Box Jumps,AMRAP,High,Rower,Fat Loss,45 minutes,55 sec work / 35 sec rest
+Box Jumps - AMRAP,Box Jumps,AMRAP,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 36 sec rest
+Box Jumps - Circuit,Box Jumps,Circuit,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 37 sec rest
+Box Jumps - Circuit,Box Jumps,Circuit,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 38 sec rest
+Box Jumps - Circuit,Box Jumps,Circuit,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 39 sec rest
+Box Jumps - Circuit,Box Jumps,Circuit,Very High,,Fat Loss,10 minutes,20 sec work / 10 sec rest
+Bear Crawl - Steady State,Bear Crawl,Steady State,Low,Treadmill,Cardiovascular Endurance,11 minutes,21 sec work / 11 sec rest
+Bear Crawl - Steady State,Bear Crawl,Steady State,Moderate,Bike,Athletic Conditioning,12 minutes,22 sec work / 12 sec rest
+Bear Crawl - Steady State,Bear Crawl,Steady State,High,Rower,VO2 Max,13 minutes,23 sec work / 13 sec rest
+Bear Crawl - Steady State,Bear Crawl,Steady State,Very High,Kettlebell,Metabolic Conditioning,14 minutes,24 sec work / 14 sec rest
+Bear Crawl - Intervals,Bear Crawl,Intervals,Low,Dumbbell,Fat Loss,15 minutes,25 sec work / 15 sec rest
+Bear Crawl - Intervals,Bear Crawl,Intervals,Moderate,Medicine Ball,Cardiovascular Endurance,16 minutes,26 sec work / 16 sec rest
+Bear Crawl - Intervals,Bear Crawl,Intervals,High,Battle Rope,Athletic Conditioning,17 minutes,27 sec work / 17 sec rest
+Bear Crawl - Intervals,Bear Crawl,Intervals,Very High,,VO2 Max,18 minutes,28 sec work / 18 sec rest
+Bear Crawl - HIIT,Bear Crawl,HIIT,Low,Treadmill,Metabolic Conditioning,19 minutes,29 sec work / 19 sec rest
+Bear Crawl - HIIT,Bear Crawl,HIIT,Moderate,Bike,Fat Loss,20 minutes,30 sec work / 20 sec rest
+Bear Crawl - HIIT,Bear Crawl,HIIT,High,Rower,Cardiovascular Endurance,21 minutes,31 sec work / 21 sec rest
+Bear Crawl - HIIT,Bear Crawl,HIIT,Very High,Kettlebell,Athletic Conditioning,22 minutes,32 sec work / 22 sec rest
+Bear Crawl - EMOM,Bear Crawl,EMOM,Low,Dumbbell,VO2 Max,23 minutes,33 sec work / 23 sec rest
+Bear Crawl - EMOM,Bear Crawl,EMOM,Moderate,Medicine Ball,Metabolic Conditioning,24 minutes,34 sec work / 24 sec rest
+Bear Crawl - EMOM,Bear Crawl,EMOM,High,Battle Rope,Fat Loss,25 minutes,35 sec work / 25 sec rest
+Bear Crawl - EMOM,Bear Crawl,EMOM,Very High,,Cardiovascular Endurance,26 minutes,36 sec work / 26 sec rest
+Bear Crawl - AMRAP,Bear Crawl,AMRAP,Low,Treadmill,Athletic Conditioning,27 minutes,37 sec work / 27 sec rest
+Bear Crawl - AMRAP,Bear Crawl,AMRAP,Moderate,Bike,VO2 Max,28 minutes,38 sec work / 28 sec rest
+Bear Crawl - AMRAP,Bear Crawl,AMRAP,High,Rower,Metabolic Conditioning,29 minutes,39 sec work / 29 sec rest
+Bear Crawl - AMRAP,Bear Crawl,AMRAP,Very High,Kettlebell,Fat Loss,30 minutes,40 sec work / 30 sec rest
+Bear Crawl - Circuit,Bear Crawl,Circuit,Low,Dumbbell,Cardiovascular Endurance,31 minutes,41 sec work / 31 sec rest
+Bear Crawl - Circuit,Bear Crawl,Circuit,Moderate,Medicine Ball,Athletic Conditioning,32 minutes,42 sec work / 32 sec rest
+Bear Crawl - Circuit,Bear Crawl,Circuit,High,Battle Rope,VO2 Max,33 minutes,43 sec work / 33 sec rest
+Bear Crawl - Circuit,Bear Crawl,Circuit,Very High,,Metabolic Conditioning,34 minutes,44 sec work / 34 sec rest
+Farmer Carry - Steady State,Farmer Carry,Steady State,Low,Treadmill,Fat Loss,35 minutes,45 sec work / 35 sec rest
+Farmer Carry - Steady State,Farmer Carry,Steady State,Moderate,Bike,Cardiovascular Endurance,36 minutes,46 sec work / 36 sec rest
+Farmer Carry - Steady State,Farmer Carry,Steady State,High,Rower,Athletic Conditioning,37 minutes,47 sec work / 37 sec rest
+Farmer Carry - Steady State,Farmer Carry,Steady State,Very High,Kettlebell,VO2 Max,38 minutes,48 sec work / 38 sec rest
+Farmer Carry - Intervals,Farmer Carry,Intervals,Low,Dumbbell,Metabolic Conditioning,39 minutes,49 sec work / 39 sec rest
+Farmer Carry - Intervals,Farmer Carry,Intervals,Moderate,Medicine Ball,Fat Loss,40 minutes,50 sec work / 10 sec rest
+Farmer Carry - Intervals,Farmer Carry,Intervals,High,Battle Rope,Cardiovascular Endurance,41 minutes,51 sec work / 11 sec rest
+Farmer Carry - Intervals,Farmer Carry,Intervals,Very High,,Athletic Conditioning,42 minutes,52 sec work / 12 sec rest
+Farmer Carry - HIIT,Farmer Carry,HIIT,Low,Treadmill,VO2 Max,43 minutes,53 sec work / 13 sec rest
+Farmer Carry - HIIT,Farmer Carry,HIIT,Moderate,Bike,Metabolic Conditioning,44 minutes,54 sec work / 14 sec rest
+Farmer Carry - HIIT,Farmer Carry,HIIT,High,Rower,Fat Loss,45 minutes,55 sec work / 15 sec rest
+Farmer Carry - HIIT,Farmer Carry,HIIT,Very High,Kettlebell,Cardiovascular Endurance,46 minutes,56 sec work / 16 sec rest
+Farmer Carry - EMOM,Farmer Carry,EMOM,Low,Dumbbell,Athletic Conditioning,47 minutes,57 sec work / 17 sec rest
+Farmer Carry - EMOM,Farmer Carry,EMOM,Moderate,Medicine Ball,VO2 Max,48 minutes,58 sec work / 18 sec rest
+Farmer Carry - EMOM,Farmer Carry,EMOM,High,Battle Rope,Metabolic Conditioning,49 minutes,59 sec work / 19 sec rest
+Farmer Carry - EMOM,Farmer Carry,EMOM,Very High,,Fat Loss,10 minutes,20 sec work / 20 sec rest

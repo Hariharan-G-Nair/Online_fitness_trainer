@@ -1,0 +1,1201 @@
+Gender,Age,Height_cm,Weight_kg,Body_Type,Goal,Daily_Calories,Protein_g,Carbs_g,Fats_g,Breakfast,Lunch,Dinner,Snacks
+Male,19,167,65,Ectomorph,Lean Bulk,2009,130,251,55,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Male,19,155,63,Ectomorph,Fat Loss,1854,122,231,51,Poha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,18,160,94,Mesomorph,Maintenance,2369,159,296,65,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,40,172,88,Mesomorph,Lean Bulk,2740,169,342,76,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,54,162,95,Ectomorph,Lean Bulk,2266,196,283,62,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Peanut Chaat
+Female,47,190,73,Ectomorph,Maintenance,2527,125,315,70,Vegetable Upma,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,28,179,74,Mesomorph,Fat Loss,2940,128,367,81,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Female,43,167,54,Ectomorph,Fat Loss,2444,93,305,67,Paneer Paratha,Curd Rice,Fish Curry with Rice,Roasted Chana
+Female,26,165,97,Endomorph,Fat Loss,2338,198,292,64,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,26,182,81,Ectomorph,Lean Bulk,2024,137,253,56,Oats with Milk,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,42,188,79,Endomorph,Maintenance,2933,167,366,81,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,25,168,77,Ectomorph,Maintenance,1806,167,225,50,Vegetable Upma,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Male,37,190,82,Endomorph,Lean Bulk,2113,149,264,58,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Female,49,151,57,Mesomorph,Maintenance,2290,93,286,63,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,52,158,58,Endomorph,Maintenance,2925,98,365,81,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,37,175,92,Endomorph,Maintenance,2697,196,337,74,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,39,151,87,Endomorph,Lean Bulk,2251,139,281,62,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Female,22,182,65,Mesomorph,Fat Loss,2794,112,349,77,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,48,176,62,Ectomorph,Lean Bulk,2682,112,335,74,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,43,171,56,Ectomorph,Lean Bulk,2189,107,273,60,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,33,154,78,Endomorph,Lean Bulk,1903,155,237,52,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Male,44,181,80,Ectomorph,Maintenance,1920,135,240,53,Idli & Sambar,Curd Rice,Khichdi,Peanut Chaat
+Female,45,185,92,Endomorph,Maintenance,2117,157,264,58,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Male,38,153,53,Endomorph,Maintenance,2829,114,353,78,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,29,154,88,Ectomorph,Fat Loss,2281,162,285,63,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Male,23,176,92,Endomorph,Fat Loss,2870,164,358,79,Vegetable Upma,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,43,158,92,Endomorph,Maintenance,2736,164,342,76,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Male,22,184,63,Endomorph,Maintenance,2071,136,258,57,Idli & Sambar,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Male,46,184,95,Mesomorph,Fat Loss,2883,152,360,80,Poha,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Female,25,156,97,Endomorph,Lean Bulk,2357,171,294,65,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,34,153,55,Endomorph,Maintenance,2366,89,295,65,Vegetable Upma,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,53,177,85,Ectomorph,Lean Bulk,1954,184,244,54,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Male,45,158,52,Mesomorph,Maintenance,1881,111,235,52,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,27,165,60,Ectomorph,Maintenance,1850,102,231,51,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,24,174,52,Mesomorph,Lean Bulk,2208,108,276,61,Paneer Paratha,Rajma Chawal,Khichdi,Roasted Chana
+Male,19,162,75,Mesomorph,Maintenance,1942,163,242,53,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,19,157,66,Ectomorph,Fat Loss,2343,107,292,65,Poha,Curd Rice,Khichdi,Boiled Eggs
+Female,50,157,74,Endomorph,Lean Bulk,2321,120,290,64,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Male,41,177,54,Endomorph,Maintenance,2442,107,305,67,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Female,38,175,94,Mesomorph,Fat Loss,2060,161,257,57,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,43,185,50,Mesomorph,Maintenance,2230,92,278,61,Poha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,46,163,82,Mesomorph,Fat Loss,2147,163,268,59,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Male,33,169,64,Ectomorph,Lean Bulk,1850,104,231,51,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,54,162,95,Endomorph,Maintenance,2812,174,351,78,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,29,183,79,Ectomorph,Fat Loss,2310,169,288,64,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,46,189,96,Endomorph,Maintenance,2922,179,365,81,Oats with Milk,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,35,183,81,Endomorph,Lean Bulk,2362,150,295,65,Vegetable Upma,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Female,52,155,58,Ectomorph,Lean Bulk,2584,116,323,71,Oats with Milk,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Female,52,179,76,Ectomorph,Lean Bulk,2660,139,332,73,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Female,18,172,69,Mesomorph,Maintenance,2902,141,362,80,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Male,35,177,81,Ectomorph,Maintenance,2488,162,311,69,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,43,187,86,Endomorph,Lean Bulk,1971,170,246,54,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,42,170,63,Mesomorph,Maintenance,2491,129,311,69,Paneer Paratha,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,48,151,97,Endomorph,Lean Bulk,2516,168,314,69,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Male,19,189,59,Ectomorph,Lean Bulk,2769,118,346,76,Poha,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Female,28,188,88,Endomorph,Fat Loss,2034,181,254,56,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,37,186,93,Mesomorph,Maintenance,2206,153,275,61,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Male,54,152,72,Endomorph,Maintenance,2558,118,319,71,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,45,173,90,Mesomorph,Fat Loss,2113,167,264,58,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Female,47,177,96,Endomorph,Maintenance,2460,202,307,68,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,54,189,92,Mesomorph,Maintenance,1858,174,232,51,Vegetable Upma,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Female,34,171,67,Endomorph,Fat Loss,2365,129,295,65,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,49,185,98,Ectomorph,Fat Loss,2775,194,346,77,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,32,175,94,Ectomorph,Maintenance,2991,171,373,83,Poha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,40,179,67,Mesomorph,Maintenance,2272,112,284,63,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,30,163,97,Mesomorph,Maintenance,2874,189,359,79,Idli & Sambar,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,29,169,50,Endomorph,Fat Loss,2059,88,257,57,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Female,24,150,86,Mesomorph,Maintenance,2780,160,347,77,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,22,175,81,Ectomorph,Fat Loss,1909,136,238,53,Poha,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Male,53,176,88,Endomorph,Fat Loss,2262,181,282,62,Paneer Paratha,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Female,37,186,89,Ectomorph,Fat Loss,2003,193,250,55,Oats with Milk,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,33,161,85,Ectomorph,Lean Bulk,1805,156,225,50,Poha,Curd Rice,Khichdi,Fruit Bowl
+Male,36,168,94,Mesomorph,Lean Bulk,2278,202,284,63,Poha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,27,167,59,Ectomorph,Lean Bulk,2139,122,267,59,Poha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Male,47,169,94,Mesomorph,Maintenance,2824,180,353,78,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Female,38,188,66,Ectomorph,Lean Bulk,2268,143,283,63,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Male,29,180,83,Endomorph,Maintenance,2369,141,296,65,Poha,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Female,40,176,71,Mesomorph,Fat Loss,2014,150,251,55,Vegetable Upma,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Female,53,152,79,Ectomorph,Maintenance,2316,141,289,64,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,44,153,62,Endomorph,Maintenance,2820,122,352,78,Idli & Sambar,Chicken Curry with Rice,Khichdi,Protein Shake
+Male,36,178,94,Mesomorph,Lean Bulk,1859,205,232,51,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,53,176,55,Ectomorph,Lean Bulk,2745,119,343,76,Oats with Milk,Curd Rice,Khichdi,Protein Shake
+Female,44,180,80,Ectomorph,Maintenance,2928,134,366,81,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,35,176,71,Endomorph,Maintenance,1805,125,225,50,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,46,184,80,Mesomorph,Maintenance,2930,164,366,81,Paneer Paratha,Curd Rice,Khichdi,Roasted Chana
+Male,54,174,64,Mesomorph,Lean Bulk,2451,130,306,68,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,26,182,87,Mesomorph,Lean Bulk,2701,144,337,75,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,22,180,100,Mesomorph,Maintenance,2614,198,326,72,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Female,52,152,89,Ectomorph,Lean Bulk,2388,195,298,66,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,28,169,51,Ectomorph,Maintenance,1914,90,239,53,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,54,161,60,Ectomorph,Lean Bulk,2583,118,322,71,Oats with Milk,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Male,47,190,66,Mesomorph,Maintenance,1819,141,227,50,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,46,172,87,Mesomorph,Fat Loss,2668,175,333,74,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Peanut Chaat
+Female,24,165,74,Endomorph,Maintenance,2977,131,372,82,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,54,153,88,Endomorph,Maintenance,2386,181,298,66,Oats with Milk,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,34,158,90,Ectomorph,Fat Loss,1880,160,235,52,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Male,23,168,70,Endomorph,Maintenance,2159,120,269,59,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Female,28,166,80,Mesomorph,Fat Loss,2493,166,311,69,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Female,53,173,55,Mesomorph,Lean Bulk,2341,105,292,65,Paneer Paratha,Rajma Chawal,Khichdi,Protein Shake
+Female,41,156,93,Ectomorph,Maintenance,1851,183,231,51,Poha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,47,169,91,Mesomorph,Lean Bulk,2086,148,260,57,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Male,33,184,58,Mesomorph,Maintenance,2559,116,319,71,Poha,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Female,24,181,89,Mesomorph,Maintenance,1867,179,233,51,Oats with Milk,Curd Rice,Fish Curry with Rice,Roasted Chana
+Female,24,173,84,Endomorph,Maintenance,1924,154,240,53,Oats with Milk,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,19,153,100,Mesomorph,Lean Bulk,2057,207,257,57,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,32,171,99,Ectomorph,Fat Loss,1805,174,225,50,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Male,25,151,58,Ectomorph,Maintenance,2287,113,285,63,Idli & Sambar,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,44,183,57,Endomorph,Lean Bulk,2775,106,346,77,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Female,50,164,89,Ectomorph,Fat Loss,2867,158,358,79,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Female,24,181,95,Mesomorph,Lean Bulk,1965,170,245,54,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Female,42,188,83,Mesomorph,Maintenance,2835,162,354,78,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,46,164,76,Mesomorph,Maintenance,2616,140,327,72,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Female,41,159,93,Mesomorph,Lean Bulk,1986,195,248,55,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,53,153,87,Endomorph,Fat Loss,2475,174,309,68,Paneer Paratha,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Female,37,172,56,Endomorph,Fat Loss,2235,94,279,62,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,25,167,86,Ectomorph,Maintenance,2948,187,368,81,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Female,19,161,67,Endomorph,Maintenance,2495,121,311,69,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,27,190,51,Ectomorph,Fat Loss,2886,88,360,80,Paneer Paratha,Curd Rice,Khichdi,Roasted Chana
+Female,37,170,99,Endomorph,Fat Loss,1973,210,246,54,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,35,178,92,Mesomorph,Maintenance,2705,170,338,75,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Female,25,168,93,Endomorph,Fat Loss,2796,178,349,77,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,18,163,69,Ectomorph,Lean Bulk,2323,122,290,64,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,26,174,84,Endomorph,Lean Bulk,2824,162,353,78,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Female,19,179,54,Mesomorph,Fat Loss,2679,104,334,74,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Male,38,160,89,Mesomorph,Fat Loss,2541,147,317,70,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Female,51,155,75,Mesomorph,Fat Loss,2495,129,311,69,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,40,172,96,Endomorph,Lean Bulk,2283,159,285,63,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Male,22,161,99,Endomorph,Maintenance,2750,203,343,76,Poha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,38,159,78,Ectomorph,Maintenance,2705,154,338,75,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Male,37,179,78,Ectomorph,Lean Bulk,2555,163,319,70,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Female,47,187,85,Endomorph,Lean Bulk,2721,182,340,75,Poha,Chicken Curry with Rice,Khichdi,Protein Shake
+Female,50,159,53,Mesomorph,Lean Bulk,2503,116,312,69,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Male,46,178,83,Endomorph,Fat Loss,2125,150,265,59,Vegetable Upma,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,39,154,71,Ectomorph,Fat Loss,2591,125,323,71,Poha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,40,169,91,Endomorph,Fat Loss,2602,152,325,72,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,26,183,55,Endomorph,Fat Loss,2667,104,333,74,Idli & Sambar,Rajma Chawal,Khichdi,Roasted Chana
+Male,39,181,62,Ectomorph,Lean Bulk,2117,102,264,58,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,39,189,58,Endomorph,Maintenance,2115,98,264,58,Poha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,41,165,78,Endomorph,Maintenance,2719,135,339,75,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,54,178,79,Mesomorph,Maintenance,2829,151,353,78,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Female,21,180,73,Endomorph,Lean Bulk,2856,154,357,79,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Female,50,159,77,Ectomorph,Lean Bulk,2723,164,340,75,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Female,33,174,55,Mesomorph,Lean Bulk,1857,98,232,51,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Male,36,180,94,Ectomorph,Fat Loss,2760,175,345,76,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,27,185,96,Endomorph,Fat Loss,2666,160,333,74,Vegetable Upma,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,33,176,90,Endomorph,Maintenance,1928,149,241,53,Paneer Paratha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Male,27,168,77,Ectomorph,Fat Loss,2522,134,315,70,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,22,183,84,Endomorph,Fat Loss,2934,135,366,81,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Female,19,172,100,Ectomorph,Maintenance,2293,203,286,63,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,40,184,71,Endomorph,Lean Bulk,2751,155,343,76,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,20,168,62,Ectomorph,Lean Bulk,1885,110,235,52,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,34,152,98,Endomorph,Lean Bulk,2385,177,298,66,Idli & Sambar,Rajma Chawal,Khichdi,Fruit Bowl
+Female,45,175,97,Mesomorph,Maintenance,2494,211,311,69,Paneer Paratha,Curd Rice,Khichdi,Protein Shake
+Female,23,177,55,Mesomorph,Fat Loss,2169,106,271,60,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,37,178,88,Endomorph,Maintenance,2141,177,267,59,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,35,190,100,Ectomorph,Lean Bulk,2631,181,328,73,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,20,158,54,Ectomorph,Fat Loss,2550,98,318,70,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,41,173,78,Ectomorph,Fat Loss,2081,149,260,57,Paneer Paratha,Rajma Chawal,Khichdi,Roasted Chana
+Male,19,161,81,Endomorph,Maintenance,2950,135,368,81,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Female,49,162,57,Ectomorph,Lean Bulk,2725,97,340,75,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Male,53,184,68,Mesomorph,Lean Bulk,2156,141,269,59,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Male,33,181,51,Mesomorph,Fat Loss,2972,92,371,82,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,37,175,95,Endomorph,Maintenance,2876,175,359,79,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Female,22,178,79,Endomorph,Fat Loss,2505,132,313,69,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Female,50,153,57,Endomorph,Lean Bulk,2422,96,302,67,Vegetable Upma,Chicken Curry with Rice,Khichdi,Protein Shake
+Female,23,166,62,Endomorph,Fat Loss,2362,103,295,65,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Male,55,187,59,Ectomorph,Fat Loss,2491,124,311,69,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,54,166,91,Ectomorph,Fat Loss,2653,179,331,73,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,48,165,93,Mesomorph,Maintenance,2728,152,341,75,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,47,163,71,Endomorph,Lean Bulk,2440,150,305,67,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,50,185,56,Mesomorph,Lean Bulk,2755,93,344,76,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,36,174,89,Mesomorph,Lean Bulk,2127,185,265,59,Poha,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Female,50,179,81,Mesomorph,Maintenance,1847,133,230,51,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,55,172,53,Ectomorph,Maintenance,2813,103,351,78,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Male,45,158,66,Endomorph,Maintenance,2625,120,328,72,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Male,41,185,68,Ectomorph,Maintenance,2832,127,354,78,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,26,156,75,Mesomorph,Maintenance,2942,162,367,81,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,50,152,52,Ectomorph,Lean Bulk,2482,108,310,68,Poha,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Male,38,189,70,Ectomorph,Maintenance,2412,136,301,67,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Female,48,151,73,Mesomorph,Fat Loss,2024,159,253,56,Poha,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Female,34,187,86,Ectomorph,Fat Loss,1905,167,238,52,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,33,152,86,Endomorph,Lean Bulk,2190,138,273,60,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,44,182,99,Endomorph,Maintenance,1927,200,240,53,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,51,174,70,Ectomorph,Maintenance,2891,126,361,80,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,33,167,85,Mesomorph,Lean Bulk,2409,175,301,66,Oats with Milk,Curd Rice,Khichdi,Peanut Chaat
+Female,53,167,68,Ectomorph,Fat Loss,2912,124,364,80,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Male,36,155,72,Mesomorph,Fat Loss,2325,147,290,64,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,26,156,89,Endomorph,Fat Loss,2290,155,286,63,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,44,171,95,Mesomorph,Lean Bulk,2081,152,260,57,Poha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,30,168,70,Mesomorph,Fat Loss,1921,150,240,53,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Male,29,176,61,Ectomorph,Maintenance,2814,104,351,78,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,39,168,79,Endomorph,Fat Loss,2873,149,359,79,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,25,171,60,Endomorph,Maintenance,2326,121,290,64,Idli & Sambar,Rajma Chawal,Khichdi,Protein Shake
+Male,29,189,90,Mesomorph,Maintenance,2855,161,356,79,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Female,38,165,50,Mesomorph,Maintenance,2282,93,285,63,Vegetable Upma,Rajma Chawal,Khichdi,Protein Shake
+Male,34,173,94,Ectomorph,Lean Bulk,2042,176,255,56,Oats with Milk,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,36,173,89,Ectomorph,Lean Bulk,2073,167,259,57,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,52,163,98,Ectomorph,Fat Loss,1967,187,245,54,Poha,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,21,185,82,Ectomorph,Fat Loss,2899,138,362,80,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Male,55,181,55,Endomorph,Maintenance,1913,102,239,53,Poha,Curd Rice,Fish Curry with Rice,Protein Shake
+Male,53,179,93,Mesomorph,Fat Loss,1844,170,230,51,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,45,172,94,Ectomorph,Fat Loss,1923,203,240,53,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,29,158,99,Endomorph,Fat Loss,2660,180,332,73,Paneer Paratha,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,52,158,91,Mesomorph,Lean Bulk,2165,199,270,60,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Male,19,169,79,Endomorph,Fat Loss,2915,146,364,80,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,27,167,62,Endomorph,Lean Bulk,1865,129,233,51,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Male,22,156,88,Ectomorph,Maintenance,1899,153,237,52,Idli & Sambar,Curd Rice,Fish Curry with Rice,Roasted Chana
+Male,21,158,82,Mesomorph,Lean Bulk,2979,146,372,82,Poha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Male,51,164,76,Mesomorph,Maintenance,1924,146,240,53,Poha,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Female,21,172,91,Endomorph,Maintenance,2874,163,359,79,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,29,184,80,Ectomorph,Lean Bulk,2415,169,301,67,Oats with Milk,Curd Rice,Roti & Paneer Curry,Protein Shake
+Female,44,185,83,Ectomorph,Maintenance,2297,145,287,63,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,52,162,53,Mesomorph,Maintenance,1880,112,235,52,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Female,31,171,69,Ectomorph,Lean Bulk,2189,150,273,60,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Male,43,165,85,Mesomorph,Maintenance,2579,159,322,71,Vegetable Upma,Rajma Chawal,Khichdi,Boiled Eggs
+Female,47,156,96,Mesomorph,Maintenance,2216,174,277,61,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,19,166,85,Endomorph,Fat Loss,2655,151,331,73,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Peanut Chaat
+Male,49,185,91,Endomorph,Maintenance,2327,187,290,64,Paneer Paratha,Curd Rice,Fish Curry with Rice,Roasted Chana
+Female,28,158,96,Endomorph,Maintenance,2176,206,272,60,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,21,150,76,Ectomorph,Fat Loss,2273,124,284,63,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,41,153,89,Endomorph,Fat Loss,2789,177,348,77,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Female,18,151,83,Endomorph,Maintenance,2897,181,362,80,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,24,183,59,Ectomorph,Lean Bulk,2878,103,359,79,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Female,43,179,86,Ectomorph,Fat Loss,2262,153,282,62,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Female,42,185,80,Ectomorph,Fat Loss,1819,161,227,50,Idli & Sambar,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,51,152,64,Ectomorph,Fat Loss,2960,120,370,82,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Male,29,170,51,Ectomorph,Fat Loss,2095,104,261,58,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Male,54,174,93,Endomorph,Maintenance,2586,190,323,71,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Male,24,177,64,Ectomorph,Maintenance,2612,139,326,72,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,32,172,85,Mesomorph,Maintenance,2180,170,272,60,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Male,22,155,67,Ectomorph,Maintenance,2115,136,264,58,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Male,37,178,73,Mesomorph,Lean Bulk,2071,120,258,57,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,24,151,55,Mesomorph,Fat Loss,1990,107,248,55,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,42,155,96,Endomorph,Lean Bulk,2971,183,371,82,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,35,181,59,Ectomorph,Lean Bulk,2690,104,336,74,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,33,190,81,Endomorph,Fat Loss,2200,151,275,61,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Female,42,171,78,Mesomorph,Maintenance,2078,138,259,57,Poha,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Male,43,170,68,Endomorph,Fat Loss,2805,148,350,77,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Female,41,157,86,Ectomorph,Fat Loss,2917,146,364,81,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Roasted Chana
+Female,36,154,100,Mesomorph,Fat Loss,2822,168,352,78,Vegetable Upma,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,42,154,78,Endomorph,Maintenance,2992,143,374,83,Poha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,52,188,90,Ectomorph,Lean Bulk,2308,179,288,64,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Female,39,177,56,Ectomorph,Lean Bulk,2329,97,291,64,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,46,173,75,Mesomorph,Fat Loss,2824,126,353,78,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,23,157,96,Ectomorph,Maintenance,2438,173,304,67,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Female,24,178,96,Endomorph,Maintenance,2453,157,306,68,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,28,165,83,Ectomorph,Fat Loss,2127,149,265,59,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,29,190,92,Mesomorph,Maintenance,1859,187,232,51,Oats with Milk,Curd Rice,Vegetable Stir Fry,Peanut Chaat
+Female,18,163,63,Mesomorph,Fat Loss,1928,122,241,53,Poha,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Male,47,157,66,Endomorph,Maintenance,2880,143,360,80,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,55,157,72,Mesomorph,Maintenance,2153,150,269,59,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Male,38,157,65,Mesomorph,Lean Bulk,2174,118,271,60,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,54,174,77,Ectomorph,Maintenance,2900,155,362,80,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,26,161,70,Mesomorph,Fat Loss,1909,148,238,53,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,53,182,91,Mesomorph,Maintenance,2807,168,350,77,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,32,168,52,Mesomorph,Lean Bulk,2901,92,362,80,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,54,157,67,Endomorph,Maintenance,2910,140,363,80,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Female,24,165,69,Ectomorph,Maintenance,2338,124,292,64,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,55,172,95,Endomorph,Fat Loss,2676,161,334,74,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,52,167,88,Endomorph,Lean Bulk,2462,192,307,68,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Male,26,176,53,Mesomorph,Fat Loss,2059,107,257,57,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,43,181,59,Endomorph,Fat Loss,2350,116,293,65,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,50,167,94,Mesomorph,Maintenance,2799,168,349,77,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,52,175,63,Mesomorph,Lean Bulk,2813,110,351,78,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,54,181,100,Mesomorph,Fat Loss,1899,162,237,52,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Female,47,150,77,Ectomorph,Fat Loss,2070,163,258,57,Vegetable Upma,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Female,34,155,73,Endomorph,Fat Loss,2138,119,267,59,Vegetable Upma,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,18,163,80,Ectomorph,Lean Bulk,2263,152,282,62,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,45,158,80,Ectomorph,Lean Bulk,2584,132,323,71,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Female,26,174,99,Ectomorph,Fat Loss,2092,162,261,58,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,40,163,90,Endomorph,Lean Bulk,2643,177,330,73,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Male,25,187,96,Mesomorph,Maintenance,2679,171,334,74,Oats with Milk,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,53,188,88,Endomorph,Fat Loss,2383,181,297,66,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Male,43,168,91,Ectomorph,Lean Bulk,2813,166,351,78,Oats with Milk,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,41,170,58,Mesomorph,Fat Loss,2661,105,332,73,Oats with Milk,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,18,166,63,Ectomorph,Lean Bulk,2615,119,326,72,Poha,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,52,184,89,Ectomorph,Maintenance,1971,158,246,54,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Female,43,187,90,Endomorph,Fat Loss,1935,160,241,53,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Male,45,157,79,Endomorph,Fat Loss,1912,141,239,53,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Male,28,181,72,Endomorph,Fat Loss,2330,122,291,64,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Female,45,167,83,Ectomorph,Maintenance,2980,164,372,82,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,49,186,60,Mesomorph,Lean Bulk,2322,123,290,64,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Male,20,150,65,Ectomorph,Maintenance,2545,118,318,70,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,32,170,65,Mesomorph,Fat Loss,2455,114,306,68,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Male,29,164,83,Ectomorph,Maintenance,1941,176,242,53,Vegetable Upma,Rajma Chawal,Khichdi,Fruit Bowl
+Female,18,173,62,Mesomorph,Fat Loss,2422,126,302,67,Oats with Milk,Curd Rice,Khichdi,Protein Shake
+Female,30,184,98,Ectomorph,Lean Bulk,1813,211,226,50,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Male,39,150,98,Endomorph,Maintenance,2429,162,303,67,Poha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Male,27,167,55,Ectomorph,Lean Bulk,2864,101,358,79,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Protein Shake
+Male,50,158,90,Mesomorph,Lean Bulk,2962,147,370,82,Oats with Milk,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Female,43,170,70,Mesomorph,Maintenance,2278,115,284,63,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,24,160,78,Mesomorph,Maintenance,2632,130,329,73,Vegetable Upma,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Female,34,157,55,Ectomorph,Fat Loss,2423,115,302,67,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Male,23,165,72,Mesomorph,Fat Loss,1900,144,237,52,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Peanut Chaat
+Female,53,185,65,Ectomorph,Maintenance,2008,135,251,55,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,26,162,75,Mesomorph,Fat Loss,1972,146,246,54,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,46,158,55,Mesomorph,Lean Bulk,1887,119,235,52,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,49,151,74,Endomorph,Maintenance,2153,134,269,59,Oats with Milk,Rajma Chawal,Khichdi,Peanut Chaat
+Male,20,189,89,Endomorph,Lean Bulk,2404,169,300,66,Poha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,42,158,76,Ectomorph,Fat Loss,2876,132,359,79,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Female,52,181,72,Endomorph,Fat Loss,2458,131,307,68,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Male,19,167,53,Mesomorph,Fat Loss,2532,109,316,70,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Male,35,184,100,Endomorph,Lean Bulk,2249,194,281,62,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Male,55,170,97,Endomorph,Maintenance,1857,196,232,51,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,49,184,69,Ectomorph,Maintenance,1877,114,234,52,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Female,18,171,89,Ectomorph,Lean Bulk,2497,180,312,69,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Male,25,183,73,Ectomorph,Maintenance,2610,142,326,72,Vegetable Upma,Rajma Chawal,Khichdi,Roasted Chana
+Male,45,190,81,Endomorph,Maintenance,2156,163,269,59,Poha,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,42,169,96,Endomorph,Maintenance,2060,163,257,57,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,29,188,70,Endomorph,Lean Bulk,2958,116,369,82,Paneer Paratha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,40,170,60,Endomorph,Lean Bulk,2487,112,310,69,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,34,156,96,Ectomorph,Lean Bulk,2590,178,323,71,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,40,184,74,Ectomorph,Maintenance,2983,147,372,82,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,36,151,70,Mesomorph,Lean Bulk,1951,126,243,54,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,39,188,89,Mesomorph,Fat Loss,1863,165,232,51,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,24,171,63,Ectomorph,Maintenance,2934,128,366,81,Poha,Rajma Chawal,Khichdi,Boiled Eggs
+Male,24,153,75,Endomorph,Fat Loss,2805,126,350,77,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Female,48,162,56,Ectomorph,Lean Bulk,2149,111,268,59,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,48,181,92,Mesomorph,Lean Bulk,2914,168,364,80,Vegetable Upma,Curd Rice,Khichdi,Roasted Chana
+Female,20,166,78,Mesomorph,Maintenance,2263,163,282,62,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Male,40,184,76,Endomorph,Lean Bulk,2933,124,366,81,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,54,165,80,Mesomorph,Lean Bulk,2608,171,326,72,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,25,178,61,Ectomorph,Lean Bulk,2194,102,274,60,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Roasted Chana
+Male,34,170,96,Ectomorph,Lean Bulk,2594,185,324,72,Poha,Rajma Chawal,Khichdi,Protein Shake
+Female,18,189,87,Endomorph,Maintenance,2030,160,253,56,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,24,186,99,Ectomorph,Maintenance,2896,210,362,80,Paneer Paratha,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Female,20,161,67,Mesomorph,Lean Bulk,2622,108,327,72,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Peanut Chaat
+Female,41,151,71,Mesomorph,Maintenance,2374,149,296,65,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,38,167,96,Mesomorph,Fat Loss,1982,164,247,55,Oats with Milk,Curd Rice,Fish Curry with Rice,Protein Shake
+Female,21,182,100,Ectomorph,Lean Bulk,2437,202,304,67,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Male,29,162,62,Ectomorph,Lean Bulk,1867,116,233,51,Vegetable Upma,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Female,50,175,90,Ectomorph,Fat Loss,1862,157,232,51,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,55,185,72,Mesomorph,Lean Bulk,2329,147,291,64,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Male,28,186,99,Ectomorph,Lean Bulk,2261,198,282,62,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,48,158,91,Ectomorph,Fat Loss,1817,157,227,50,Poha,Rajma Chawal,Khichdi,Peanut Chaat
+Female,40,179,66,Ectomorph,Maintenance,2418,132,302,67,Poha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,50,173,85,Endomorph,Fat Loss,2378,151,297,66,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,38,167,66,Endomorph,Fat Loss,2411,113,301,66,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,38,158,96,Ectomorph,Fat Loss,2818,211,352,78,Vegetable Upma,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,55,186,62,Mesomorph,Fat Loss,2255,124,281,62,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Male,53,161,68,Ectomorph,Maintenance,2062,139,257,57,Poha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,40,164,97,Mesomorph,Maintenance,2478,176,309,68,Poha,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Female,21,190,87,Endomorph,Fat Loss,1945,163,243,54,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,44,153,59,Ectomorph,Lean Bulk,2501,108,312,69,Poha,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,23,181,71,Endomorph,Lean Bulk,2441,140,305,67,Idli & Sambar,Curd Rice,Khichdi,Roasted Chana
+Male,54,160,81,Ectomorph,Lean Bulk,2688,160,336,74,Paneer Paratha,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,20,184,62,Endomorph,Maintenance,1828,132,228,50,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Male,32,172,69,Ectomorph,Lean Bulk,2585,131,323,71,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Female,36,179,96,Endomorph,Fat Loss,2873,173,359,79,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,28,175,51,Ectomorph,Lean Bulk,2068,88,258,57,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,41,152,74,Endomorph,Maintenance,2895,146,361,80,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,25,176,78,Mesomorph,Lean Bulk,2920,136,365,81,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,24,183,67,Endomorph,Fat Loss,2080,124,260,57,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Female,25,156,81,Ectomorph,Fat Loss,2209,167,276,61,Poha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,28,152,85,Mesomorph,Lean Bulk,2784,152,348,77,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Female,27,155,99,Endomorph,Lean Bulk,2007,212,250,55,Oats with Milk,Curd Rice,Khichdi,Boiled Eggs
+Female,21,156,61,Ectomorph,Maintenance,2537,126,317,70,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,18,158,92,Endomorph,Lean Bulk,2473,166,309,68,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Female,39,161,57,Mesomorph,Maintenance,2734,100,341,75,Paneer Paratha,Curd Rice,Fish Curry with Rice,Roasted Chana
+Male,26,153,60,Ectomorph,Maintenance,2788,124,348,77,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,19,158,80,Mesomorph,Lean Bulk,2642,149,330,73,Idli & Sambar,Rajma Chawal,Khichdi,Fruit Bowl
+Male,39,183,83,Endomorph,Fat Loss,1995,154,249,55,Oats with Milk,Curd Rice,Khichdi,Peanut Chaat
+Male,53,189,53,Ectomorph,Fat Loss,2121,100,265,58,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,38,165,71,Mesomorph,Lean Bulk,2838,123,354,78,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,46,186,78,Ectomorph,Maintenance,2715,139,339,75,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Female,20,185,85,Ectomorph,Lean Bulk,2423,181,302,67,Poha,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Female,21,164,79,Mesomorph,Fat Loss,2768,160,346,76,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,18,171,72,Endomorph,Maintenance,2921,137,365,81,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,44,156,66,Endomorph,Lean Bulk,2184,110,273,60,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Female,24,176,52,Endomorph,Fat Loss,2052,107,256,57,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,49,150,83,Endomorph,Lean Bulk,2933,179,366,81,Poha,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Male,26,156,74,Endomorph,Fat Loss,2459,140,307,68,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Female,43,171,68,Mesomorph,Lean Bulk,2082,125,260,57,Poha,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Male,30,163,89,Endomorph,Maintenance,2507,191,313,69,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,25,172,85,Mesomorph,Fat Loss,2968,184,371,82,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Male,51,156,51,Mesomorph,Lean Bulk,1908,102,238,53,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,27,153,94,Mesomorph,Lean Bulk,2908,152,363,80,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Male,53,174,65,Endomorph,Fat Loss,2389,131,298,66,Idli & Sambar,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Female,53,153,50,Endomorph,Maintenance,2215,98,276,61,Paneer Paratha,Chicken Curry with Rice,Khichdi,Protein Shake
+Male,30,168,78,Ectomorph,Fat Loss,1952,133,244,54,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Male,45,167,85,Mesomorph,Lean Bulk,2129,165,266,59,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,20,159,70,Endomorph,Lean Bulk,2416,132,302,67,Poha,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Female,51,164,61,Endomorph,Lean Bulk,2834,103,354,78,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Female,32,163,92,Mesomorph,Maintenance,2538,163,317,70,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,25,172,78,Ectomorph,Fat Loss,2299,169,287,63,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Female,52,168,51,Endomorph,Maintenance,2853,106,356,79,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,38,182,55,Ectomorph,Lean Bulk,2901,105,362,80,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,31,184,94,Endomorph,Maintenance,1947,192,243,54,Oats with Milk,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,23,154,53,Ectomorph,Maintenance,2942,87,367,81,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Female,43,177,70,Ectomorph,Maintenance,2042,134,255,56,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,40,182,56,Mesomorph,Fat Loss,2417,109,302,67,Vegetable Upma,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,48,160,84,Ectomorph,Lean Bulk,2600,174,325,72,Poha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,18,185,85,Ectomorph,Lean Bulk,1885,136,235,52,Poha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,37,163,97,Endomorph,Fat Loss,2504,167,313,69,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,34,162,57,Ectomorph,Fat Loss,2961,120,370,82,Poha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,22,166,56,Ectomorph,Fat Loss,2989,105,373,83,Vegetable Upma,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Male,36,189,54,Ectomorph,Maintenance,2795,101,349,77,Poha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Female,38,177,60,Ectomorph,Maintenance,2304,124,288,64,Paneer Paratha,Rajma Chawal,Khichdi,Roasted Chana
+Female,48,179,78,Mesomorph,Maintenance,2797,150,349,77,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Male,52,162,66,Endomorph,Fat Loss,1956,134,244,54,Idli & Sambar,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,55,163,52,Endomorph,Maintenance,2913,111,364,80,Poha,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,32,187,96,Mesomorph,Lean Bulk,2751,182,343,76,Idli & Sambar,Curd Rice,Khichdi,Protein Shake
+Male,33,189,93,Ectomorph,Fat Loss,2087,173,260,57,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Female,40,152,64,Mesomorph,Lean Bulk,1928,112,241,53,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,42,180,79,Ectomorph,Lean Bulk,2463,131,307,68,Poha,Rajma Chawal,Khichdi,Protein Shake
+Male,42,174,73,Endomorph,Fat Loss,1959,139,244,54,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,40,181,100,Mesomorph,Fat Loss,1813,190,226,50,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,50,167,63,Ectomorph,Lean Bulk,2122,114,265,58,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Male,48,180,80,Ectomorph,Fat Loss,2130,159,266,59,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Male,54,187,60,Ectomorph,Fat Loss,2849,97,356,79,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,29,183,75,Endomorph,Fat Loss,1838,159,229,51,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Female,48,160,64,Mesomorph,Fat Loss,2092,132,261,58,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Male,39,179,88,Endomorph,Lean Bulk,2270,160,283,63,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Female,27,188,56,Ectomorph,Maintenance,1879,119,234,52,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Fruit Bowl
+Female,26,188,84,Ectomorph,Fat Loss,2683,160,335,74,Vegetable Upma,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Male,48,174,72,Endomorph,Fat Loss,2979,119,372,82,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Male,36,188,84,Mesomorph,Maintenance,2187,134,273,60,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Male,42,163,94,Mesomorph,Maintenance,2541,156,317,70,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Female,54,173,89,Mesomorph,Fat Loss,2613,182,326,72,Paneer Paratha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,41,185,85,Mesomorph,Maintenance,2428,165,303,67,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,28,156,63,Endomorph,Maintenance,2493,131,311,69,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,23,159,80,Endomorph,Maintenance,1980,131,247,55,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,42,175,89,Endomorph,Fat Loss,2386,180,298,66,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Female,18,162,92,Endomorph,Maintenance,2198,149,274,61,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,20,173,65,Endomorph,Lean Bulk,2122,107,265,58,Vegetable Upma,Curd Rice,Khichdi,Peanut Chaat
+Female,55,162,83,Ectomorph,Fat Loss,1940,178,242,53,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Female,40,167,64,Endomorph,Lean Bulk,2731,138,341,75,Poha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Female,50,156,85,Ectomorph,Fat Loss,2402,153,300,66,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Female,46,174,86,Mesomorph,Lean Bulk,2495,187,311,69,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,25,166,54,Mesomorph,Fat Loss,2251,108,281,62,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,34,165,68,Ectomorph,Maintenance,2500,111,312,69,Oats with Milk,Curd Rice,Khichdi,Boiled Eggs
+Male,54,167,61,Endomorph,Fat Loss,2189,115,273,60,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,32,162,65,Endomorph,Maintenance,2119,134,264,58,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Male,52,152,80,Mesomorph,Fat Loss,2445,151,305,67,Poha,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,43,164,98,Endomorph,Lean Bulk,1910,187,238,53,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,43,161,79,Ectomorph,Fat Loss,2861,148,357,79,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,38,173,89,Mesomorph,Lean Bulk,2923,156,365,81,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,29,181,77,Ectomorph,Maintenance,2562,140,320,71,Paneer Paratha,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Male,54,164,56,Endomorph,Maintenance,2282,108,285,63,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,18,161,76,Mesomorph,Lean Bulk,2858,145,357,79,Vegetable Upma,Curd Rice,Khichdi,Boiled Eggs
+Male,43,156,94,Ectomorph,Lean Bulk,2241,196,280,62,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Female,41,173,85,Endomorph,Maintenance,2504,137,313,69,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,36,172,70,Endomorph,Fat Loss,2798,144,349,77,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Female,47,190,59,Ectomorph,Fat Loss,2490,109,311,69,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Male,28,171,64,Mesomorph,Maintenance,2396,129,299,66,Poha,Curd Rice,Khichdi,Peanut Chaat
+Female,55,183,78,Mesomorph,Lean Bulk,2176,164,272,60,Oats with Milk,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,28,175,56,Ectomorph,Lean Bulk,2769,108,346,76,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,34,189,59,Ectomorph,Fat Loss,2598,105,324,72,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Male,51,160,51,Ectomorph,Fat Loss,2530,107,316,70,Vegetable Upma,Curd Rice,Fish Curry with Rice,Protein Shake
+Female,53,178,58,Endomorph,Fat Loss,2162,113,270,60,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,40,180,84,Ectomorph,Lean Bulk,2704,149,338,75,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Male,18,183,98,Ectomorph,Maintenance,2387,184,298,66,Idli & Sambar,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,45,168,88,Ectomorph,Lean Bulk,2922,160,365,81,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,28,174,74,Ectomorph,Maintenance,1962,137,245,54,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,52,167,76,Ectomorph,Lean Bulk,2173,127,271,60,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Peanut Chaat
+Female,49,162,70,Ectomorph,Lean Bulk,1901,152,237,52,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,26,178,96,Ectomorph,Lean Bulk,1984,162,248,55,Paneer Paratha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,49,173,79,Endomorph,Lean Bulk,2476,130,309,68,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,52,180,61,Ectomorph,Maintenance,2581,127,322,71,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Male,20,162,79,Endomorph,Lean Bulk,2867,157,358,79,Oats with Milk,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Female,28,190,96,Ectomorph,Fat Loss,2925,183,365,81,Vegetable Upma,Curd Rice,Khichdi,Roasted Chana
+Female,21,163,57,Ectomorph,Fat Loss,2689,102,336,74,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Female,33,150,52,Endomorph,Fat Loss,2773,104,346,77,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Male,49,155,93,Endomorph,Maintenance,1922,152,240,53,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Female,32,170,85,Endomorph,Maintenance,2698,173,337,74,Idli & Sambar,Curd Rice,Khichdi,Roasted Chana
+Female,20,181,95,Mesomorph,Fat Loss,2403,182,300,66,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Female,38,179,67,Endomorph,Fat Loss,2128,109,266,59,Oats with Milk,Curd Rice,Khichdi,Boiled Eggs
+Female,47,150,99,Endomorph,Fat Loss,2576,201,322,71,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Male,38,154,92,Endomorph,Maintenance,2188,176,273,60,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Female,38,176,91,Mesomorph,Lean Bulk,1997,174,249,55,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,30,156,81,Ectomorph,Lean Bulk,1865,157,233,51,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,21,173,64,Endomorph,Fat Loss,1945,102,243,54,Oats with Milk,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Male,41,185,97,Mesomorph,Maintenance,1919,203,239,53,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Fruit Bowl
+Female,22,163,83,Ectomorph,Lean Bulk,2273,159,284,63,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Male,53,185,76,Endomorph,Lean Bulk,2980,137,372,82,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,53,175,82,Mesomorph,Fat Loss,2123,157,265,58,Poha,Curd Rice,Khichdi,Boiled Eggs
+Female,41,176,98,Endomorph,Maintenance,2462,192,307,68,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,41,178,78,Mesomorph,Lean Bulk,1870,170,233,51,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,18,169,64,Ectomorph,Maintenance,1844,132,230,51,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,24,152,79,Mesomorph,Lean Bulk,2083,138,260,57,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,23,186,75,Endomorph,Lean Bulk,1958,152,244,54,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Male,37,152,96,Endomorph,Maintenance,1960,198,245,54,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Male,32,188,50,Endomorph,Fat Loss,2583,81,322,71,Poha,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Male,38,182,94,Ectomorph,Lean Bulk,1903,188,237,52,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,32,177,68,Mesomorph,Lean Bulk,2070,122,258,57,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,34,155,75,Endomorph,Maintenance,2067,154,258,57,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,54,162,85,Endomorph,Fat Loss,2873,148,359,79,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,25,176,77,Mesomorph,Maintenance,2190,138,273,60,Poha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Female,46,189,59,Mesomorph,Lean Bulk,2278,101,284,63,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Male,33,189,59,Mesomorph,Lean Bulk,2503,118,312,69,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Male,39,163,97,Endomorph,Lean Bulk,2217,187,277,61,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,19,174,87,Endomorph,Fat Loss,1889,152,236,52,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Female,21,179,91,Ectomorph,Lean Bulk,2595,181,324,72,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,32,174,82,Endomorph,Lean Bulk,2446,155,305,67,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Male,50,179,85,Endomorph,Lean Bulk,1881,148,235,52,Poha,Rajma Chawal,Khichdi,Peanut Chaat
+Female,28,151,72,Endomorph,Maintenance,2527,142,315,70,Oats with Milk,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Female,42,151,85,Mesomorph,Lean Bulk,2110,153,263,58,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Peanut Chaat
+Male,44,165,86,Ectomorph,Maintenance,2439,184,304,67,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Male,26,187,84,Endomorph,Lean Bulk,2082,149,260,57,Poha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,38,154,85,Endomorph,Fat Loss,2042,145,255,56,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,37,178,97,Endomorph,Fat Loss,2360,164,295,65,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,35,188,86,Endomorph,Lean Bulk,2275,149,284,63,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Male,50,188,80,Endomorph,Fat Loss,2565,136,320,71,Paneer Paratha,Curd Rice,Fish Curry with Rice,Roasted Chana
+Male,30,164,52,Mesomorph,Lean Bulk,2352,112,294,65,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,46,189,81,Endomorph,Maintenance,2737,172,342,76,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Protein Shake
+Female,38,175,89,Endomorph,Fat Loss,2898,170,362,80,Idli & Sambar,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,20,165,83,Endomorph,Maintenance,1880,160,235,52,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Female,43,169,99,Mesomorph,Maintenance,2140,183,267,59,Poha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,46,155,96,Endomorph,Lean Bulk,2168,198,271,60,Poha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,46,151,61,Mesomorph,Fat Loss,2213,129,276,61,Idli & Sambar,Rajma Chawal,Khichdi,Roasted Chana
+Male,23,157,95,Mesomorph,Fat Loss,2543,156,317,70,Paneer Paratha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Female,53,174,52,Ectomorph,Maintenance,2958,110,369,82,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,44,169,69,Endomorph,Maintenance,2391,136,298,66,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,18,179,81,Mesomorph,Fat Loss,1811,159,226,50,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Female,47,176,78,Ectomorph,Fat Loss,1813,136,226,50,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,21,161,59,Ectomorph,Fat Loss,2514,95,314,69,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,23,153,56,Mesomorph,Lean Bulk,2130,112,266,59,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,47,187,73,Ectomorph,Lean Bulk,2412,130,301,67,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Male,36,180,58,Ectomorph,Fat Loss,2362,104,295,65,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Male,24,186,96,Endomorph,Fat Loss,1979,181,247,54,Poha,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,34,183,86,Endomorph,Maintenance,2065,169,258,57,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,32,168,62,Ectomorph,Lean Bulk,1849,116,231,51,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,20,171,72,Endomorph,Fat Loss,2234,115,279,62,Oats with Milk,Rajma Chawal,Khichdi,Fruit Bowl
+Female,37,182,85,Mesomorph,Lean Bulk,2033,170,254,56,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,29,162,71,Mesomorph,Fat Loss,2781,152,347,77,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Female,52,171,79,Mesomorph,Fat Loss,1914,165,239,53,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Male,31,186,93,Mesomorph,Maintenance,1935,202,241,53,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,54,188,74,Ectomorph,Fat Loss,2039,156,254,56,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Female,23,181,65,Mesomorph,Maintenance,2419,112,302,67,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Male,30,155,78,Endomorph,Lean Bulk,2788,167,348,77,Oats with Milk,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,38,159,99,Ectomorph,Fat Loss,2071,170,258,57,Idli & Sambar,Curd Rice,Fish Curry with Rice,Protein Shake
+Male,18,169,52,Endomorph,Fat Loss,1978,93,247,54,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Male,54,169,90,Ectomorph,Maintenance,2210,154,276,61,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Male,35,159,60,Mesomorph,Lean Bulk,1831,130,228,50,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Female,53,170,67,Ectomorph,Fat Loss,2380,130,297,66,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,52,178,53,Ectomorph,Lean Bulk,2764,113,345,76,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,45,175,61,Endomorph,Fat Loss,2713,120,339,75,Vegetable Upma,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Male,47,186,58,Ectomorph,Fat Loss,2759,96,344,76,Vegetable Upma,Curd Rice,Fish Curry with Rice,Roasted Chana
+Male,27,189,66,Mesomorph,Maintenance,2175,133,271,60,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Male,22,180,57,Mesomorph,Maintenance,2744,120,343,76,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,50,156,75,Endomorph,Lean Bulk,2467,145,308,68,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,55,176,65,Endomorph,Lean Bulk,2922,110,365,81,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,55,177,100,Mesomorph,Fat Loss,2500,192,312,69,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,25,187,88,Mesomorph,Maintenance,2936,145,367,81,Paneer Paratha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Male,24,188,99,Mesomorph,Maintenance,2812,196,351,78,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,27,159,78,Endomorph,Maintenance,2598,153,324,72,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,54,169,77,Endomorph,Maintenance,1982,150,247,55,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,21,173,85,Ectomorph,Lean Bulk,2946,177,368,81,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Male,45,187,75,Endomorph,Maintenance,2583,138,322,71,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Female,26,162,85,Mesomorph,Maintenance,2654,143,331,73,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Male,27,181,92,Mesomorph,Lean Bulk,1973,154,246,54,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Peanut Chaat
+Male,47,182,77,Endomorph,Maintenance,2587,139,323,71,Oats with Milk,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,33,182,67,Mesomorph,Fat Loss,2980,121,372,82,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,55,180,94,Ectomorph,Lean Bulk,2878,205,359,79,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,33,180,90,Endomorph,Fat Loss,1959,180,244,54,Poha,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Male,39,184,99,Ectomorph,Maintenance,2729,188,341,75,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,36,168,60,Ectomorph,Fat Loss,2422,122,302,67,Poha,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Male,54,153,92,Mesomorph,Fat Loss,1855,163,231,51,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Female,34,158,89,Mesomorph,Maintenance,2326,143,290,64,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Male,46,173,61,Mesomorph,Fat Loss,2283,115,285,63,Poha,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Male,27,181,98,Mesomorph,Maintenance,2287,195,285,63,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Male,34,157,53,Ectomorph,Maintenance,2616,99,327,72,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,48,166,59,Endomorph,Maintenance,1824,104,228,50,Paneer Paratha,Curd Rice,Khichdi,Protein Shake
+Male,24,184,90,Mesomorph,Maintenance,2358,162,294,65,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,47,165,96,Endomorph,Fat Loss,2199,183,274,61,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Male,22,150,76,Ectomorph,Fat Loss,2012,152,251,55,Vegetable Upma,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Male,20,151,89,Ectomorph,Lean Bulk,2244,193,280,62,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Protein Shake
+Male,42,186,61,Ectomorph,Fat Loss,2177,106,272,60,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Female,38,166,60,Ectomorph,Maintenance,1927,109,240,53,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Male,46,154,81,Ectomorph,Fat Loss,2604,138,325,72,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,31,189,91,Ectomorph,Maintenance,2330,151,291,64,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,19,181,59,Endomorph,Fat Loss,1801,127,225,50,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,54,150,82,Endomorph,Maintenance,2779,152,347,77,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Female,48,157,86,Endomorph,Maintenance,2482,172,310,68,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,23,179,98,Mesomorph,Fat Loss,2215,167,276,61,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,24,190,94,Mesomorph,Maintenance,1973,200,246,54,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,19,187,65,Mesomorph,Maintenance,1929,134,241,53,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Peanut Chaat
+Male,20,171,53,Mesomorph,Fat Loss,1887,97,235,52,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,55,164,54,Ectomorph,Fat Loss,2089,102,261,58,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,26,150,61,Endomorph,Lean Bulk,2429,127,303,67,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Male,24,157,81,Endomorph,Fat Loss,2251,132,281,62,Oats with Milk,Curd Rice,Khichdi,Peanut Chaat
+Female,25,186,84,Ectomorph,Maintenance,2236,172,279,62,Poha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,35,159,98,Mesomorph,Lean Bulk,2557,189,319,71,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,24,190,89,Mesomorph,Lean Bulk,1832,189,229,50,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Male,55,168,76,Endomorph,Maintenance,2059,131,257,57,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,29,189,94,Ectomorph,Fat Loss,2168,190,271,60,Poha,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Female,18,185,65,Ectomorph,Lean Bulk,2885,142,360,80,Poha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,47,190,92,Ectomorph,Maintenance,1908,157,238,53,Oats with Milk,Curd Rice,Fish Curry with Rice,Roasted Chana
+Male,20,153,91,Mesomorph,Maintenance,2229,169,278,61,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Male,21,184,61,Ectomorph,Lean Bulk,2793,116,349,77,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Female,44,162,97,Endomorph,Maintenance,2271,200,283,63,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,30,174,64,Ectomorph,Maintenance,2998,121,374,83,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Female,29,174,73,Ectomorph,Maintenance,2197,144,274,61,Vegetable Upma,Chicken Curry with Rice,Khichdi,Roasted Chana
+Male,54,153,67,Ectomorph,Lean Bulk,2753,125,344,76,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Male,28,186,85,Ectomorph,Lean Bulk,2643,179,330,73,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,35,150,96,Mesomorph,Fat Loss,2305,167,288,64,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Male,54,150,76,Ectomorph,Lean Bulk,2763,155,345,76,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Female,48,156,78,Mesomorph,Lean Bulk,1970,150,246,54,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,36,165,91,Ectomorph,Lean Bulk,2782,182,347,77,Oats with Milk,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,47,179,99,Ectomorph,Fat Loss,2630,169,328,73,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,39,183,52,Mesomorph,Maintenance,2352,104,294,65,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,39,153,82,Endomorph,Maintenance,1905,136,238,52,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,41,161,91,Endomorph,Fat Loss,1937,176,242,53,Oats with Milk,Chicken Curry with Rice,Khichdi,Roasted Chana
+Male,48,187,94,Ectomorph,Fat Loss,2261,168,282,62,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,22,173,72,Mesomorph,Maintenance,2826,137,353,78,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,46,189,73,Endomorph,Fat Loss,1934,125,241,53,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,36,154,56,Ectomorph,Maintenance,2029,113,253,56,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Male,36,176,93,Endomorph,Lean Bulk,2770,168,346,76,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Male,19,164,83,Endomorph,Maintenance,2643,161,330,73,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,47,169,86,Ectomorph,Maintenance,2151,178,268,59,Oats with Milk,Curd Rice,Khichdi,Boiled Eggs
+Male,27,172,68,Mesomorph,Lean Bulk,2129,137,266,59,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,33,157,52,Mesomorph,Fat Loss,2059,96,257,57,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Male,38,172,59,Mesomorph,Maintenance,2905,128,363,80,Poha,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Female,49,159,79,Mesomorph,Lean Bulk,1808,172,226,50,Poha,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Female,36,186,92,Ectomorph,Fat Loss,2705,165,338,75,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,37,151,75,Endomorph,Lean Bulk,2713,136,339,75,Vegetable Upma,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,35,162,51,Ectomorph,Fat Loss,2712,102,339,75,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,38,188,88,Endomorph,Lean Bulk,2539,161,317,70,Paneer Paratha,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,36,172,72,Mesomorph,Maintenance,2948,118,368,81,Paneer Paratha,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,45,176,58,Endomorph,Fat Loss,1976,97,247,54,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,55,174,55,Ectomorph,Maintenance,2359,101,294,65,Poha,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Male,29,174,68,Endomorph,Maintenance,1886,142,235,52,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,32,151,100,Ectomorph,Lean Bulk,2337,178,292,64,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,49,165,51,Ectomorph,Maintenance,2809,112,351,78,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Female,54,177,66,Endomorph,Fat Loss,2774,144,346,77,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,34,160,87,Ectomorph,Lean Bulk,2454,163,306,68,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Female,41,176,90,Mesomorph,Lean Bulk,2393,159,299,66,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Male,28,184,70,Mesomorph,Fat Loss,2416,123,302,67,Vegetable Upma,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Protein Shake
+Female,27,150,58,Endomorph,Maintenance,2563,119,320,71,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Male,27,182,64,Ectomorph,Fat Loss,2876,134,359,79,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,25,158,51,Mesomorph,Maintenance,2438,102,304,67,Oats with Milk,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,29,169,51,Endomorph,Lean Bulk,2255,85,281,62,Oats with Milk,Chicken Curry with Rice,Khichdi,Roasted Chana
+Male,26,155,77,Endomorph,Lean Bulk,1959,124,244,54,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,20,182,87,Ectomorph,Maintenance,2043,186,255,56,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Male,25,188,63,Endomorph,Lean Bulk,2178,126,272,60,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Female,40,160,82,Endomorph,Fat Loss,2295,156,286,63,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,30,168,60,Endomorph,Lean Bulk,2002,129,250,55,Poha,Curd Rice,Khichdi,Protein Shake
+Male,46,156,61,Mesomorph,Maintenance,2668,105,333,74,Oats with Milk,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,47,157,83,Ectomorph,Maintenance,2539,167,317,70,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,25,174,68,Mesomorph,Fat Loss,2438,136,304,67,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,45,162,54,Mesomorph,Fat Loss,2552,92,319,70,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,25,159,75,Mesomorph,Fat Loss,2008,153,251,55,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Female,30,188,75,Ectomorph,Lean Bulk,2669,152,333,74,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,40,180,92,Endomorph,Maintenance,2792,175,349,77,Oats with Milk,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Female,49,181,64,Endomorph,Lean Bulk,1860,106,232,51,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,42,188,93,Mesomorph,Lean Bulk,2420,183,302,67,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Female,30,168,92,Mesomorph,Maintenance,2833,161,354,78,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Fruit Bowl
+Male,45,157,74,Mesomorph,Maintenance,2570,138,321,71,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,28,181,77,Ectomorph,Maintenance,2596,145,324,72,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,48,185,60,Endomorph,Lean Bulk,2601,105,325,72,Poha,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,38,153,51,Endomorph,Lean Bulk,2062,107,257,57,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Female,24,177,72,Mesomorph,Maintenance,2519,117,314,69,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,22,169,57,Mesomorph,Lean Bulk,1840,109,230,51,Idli & Sambar,Curd Rice,Fish Curry with Rice,Protein Shake
+Female,35,151,94,Mesomorph,Fat Loss,1845,205,230,51,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,49,156,94,Endomorph,Lean Bulk,2488,178,311,69,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,45,162,81,Endomorph,Lean Bulk,2897,140,362,80,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,32,189,97,Ectomorph,Fat Loss,2984,160,373,82,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Female,45,163,72,Ectomorph,Fat Loss,2418,137,302,67,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,44,175,66,Endomorph,Fat Loss,2728,132,341,75,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,54,181,63,Endomorph,Fat Loss,2757,110,344,76,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Male,51,162,73,Mesomorph,Lean Bulk,2292,123,286,63,Vegetable Upma,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,31,176,67,Mesomorph,Fat Loss,2128,117,266,59,Poha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,27,162,51,Ectomorph,Maintenance,2750,96,343,76,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,35,158,51,Mesomorph,Maintenance,2927,86,365,81,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,38,188,69,Ectomorph,Maintenance,2544,138,318,70,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,54,182,57,Endomorph,Fat Loss,2988,123,373,83,Poha,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Male,25,170,71,Endomorph,Fat Loss,2598,147,324,72,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,29,163,67,Mesomorph,Maintenance,2320,141,290,64,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,38,184,77,Mesomorph,Fat Loss,2304,167,288,64,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Female,19,188,52,Endomorph,Fat Loss,1911,104,238,53,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,41,157,84,Ectomorph,Maintenance,2595,134,324,72,Paneer Paratha,Rajma Chawal,Khichdi,Fruit Bowl
+Male,37,163,60,Mesomorph,Fat Loss,2449,127,306,68,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Female,48,176,71,Endomorph,Maintenance,2005,148,250,55,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Female,53,170,79,Endomorph,Lean Bulk,1906,156,238,52,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,30,190,69,Mesomorph,Fat Loss,1968,114,246,54,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Female,38,178,80,Endomorph,Lean Bulk,2333,136,291,64,Poha,Rajma Chawal,Khichdi,Roasted Chana
+Male,44,173,61,Mesomorph,Maintenance,2968,105,371,82,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,47,162,66,Endomorph,Lean Bulk,1901,121,237,52,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,41,160,86,Ectomorph,Lean Bulk,2876,160,359,79,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,30,167,68,Endomorph,Maintenance,2582,114,322,71,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Boiled Eggs
+Male,44,161,76,Ectomorph,Lean Bulk,2394,166,299,66,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,55,179,55,Ectomorph,Maintenance,2072,116,259,57,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,22,156,85,Ectomorph,Lean Bulk,2481,183,310,68,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,18,166,82,Endomorph,Maintenance,2419,179,302,67,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,34,160,82,Mesomorph,Maintenance,2758,137,344,76,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,25,170,52,Ectomorph,Maintenance,2375,106,296,65,Paneer Paratha,Rajma Chawal,Khichdi,Protein Shake
+Female,51,170,77,Ectomorph,Maintenance,2806,158,350,77,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Male,27,153,64,Ectomorph,Lean Bulk,2763,112,345,76,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Male,46,172,95,Endomorph,Maintenance,2737,180,342,76,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Male,36,161,60,Endomorph,Fat Loss,2358,116,294,65,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Male,44,154,65,Mesomorph,Fat Loss,1993,138,249,55,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Female,55,156,70,Ectomorph,Lean Bulk,1966,131,245,54,Paneer Paratha,Curd Rice,Khichdi,Protein Shake
+Male,39,152,91,Endomorph,Maintenance,2465,197,308,68,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,38,153,97,Ectomorph,Fat Loss,2581,160,322,71,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,19,163,60,Mesomorph,Maintenance,2383,119,297,66,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,37,188,58,Mesomorph,Fat Loss,1996,121,249,55,Poha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,48,167,86,Endomorph,Maintenance,1984,176,248,55,Vegetable Upma,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,23,152,82,Mesomorph,Maintenance,2259,163,282,62,Oats with Milk,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,36,179,77,Ectomorph,Maintenance,2415,130,301,67,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Female,36,186,53,Endomorph,Lean Bulk,1892,101,236,52,Poha,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Female,54,166,72,Mesomorph,Fat Loss,1967,148,245,54,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Roasted Chana
+Male,43,152,55,Mesomorph,Fat Loss,2409,98,301,66,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,29,163,61,Ectomorph,Fat Loss,2331,129,291,64,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Male,43,157,50,Ectomorph,Fat Loss,2777,93,347,77,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Female,43,169,55,Ectomorph,Lean Bulk,1828,94,228,50,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,27,165,77,Endomorph,Fat Loss,2190,127,273,60,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Male,25,160,59,Endomorph,Fat Loss,2711,128,338,75,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Male,30,168,86,Mesomorph,Lean Bulk,2483,138,310,68,Paneer Paratha,Curd Rice,Fish Curry with Rice,Protein Shake
+Female,20,181,75,Mesomorph,Fat Loss,2799,130,349,77,Idli & Sambar,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,53,154,67,Endomorph,Maintenance,2769,111,346,76,Poha,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Male,28,168,96,Ectomorph,Maintenance,2504,178,313,69,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,26,168,96,Endomorph,Maintenance,2653,201,331,73,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Male,36,155,92,Mesomorph,Lean Bulk,2154,158,269,59,Poha,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Female,37,165,63,Endomorph,Lean Bulk,1837,114,229,51,Vegetable Upma,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Male,22,171,77,Ectomorph,Fat Loss,2264,128,283,62,Oats with Milk,Curd Rice,Khichdi,Boiled Eggs
+Female,20,185,67,Ectomorph,Fat Loss,2855,131,356,79,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,24,189,89,Ectomorph,Fat Loss,1885,169,235,52,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Male,36,178,98,Endomorph,Maintenance,2003,165,250,55,Vegetable Upma,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Male,46,176,99,Ectomorph,Lean Bulk,2770,178,346,76,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,44,173,90,Endomorph,Lean Bulk,2110,184,263,58,Poha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,44,176,79,Endomorph,Fat Loss,2540,171,317,70,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,23,171,70,Mesomorph,Lean Bulk,2688,114,336,74,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Female,44,175,93,Endomorph,Fat Loss,2423,189,302,67,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Male,43,178,91,Ectomorph,Fat Loss,2705,183,338,75,Paneer Paratha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,52,171,74,Endomorph,Fat Loss,2058,141,257,57,Poha,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Female,51,171,98,Endomorph,Lean Bulk,1847,158,230,51,Poha,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Female,45,182,57,Endomorph,Lean Bulk,2563,100,320,71,Poha,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Male,46,169,86,Endomorph,Lean Bulk,2728,155,341,75,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Male,40,169,68,Endomorph,Fat Loss,2973,136,371,82,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Female,51,187,62,Mesomorph,Maintenance,2000,104,250,55,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,45,158,80,Ectomorph,Maintenance,1959,145,244,54,Poha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,34,187,81,Endomorph,Maintenance,2701,163,337,75,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,49,179,58,Endomorph,Fat Loss,2883,96,360,80,Oats with Milk,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Male,53,173,57,Endomorph,Maintenance,2025,95,253,56,Poha,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,25,173,69,Mesomorph,Maintenance,2402,130,300,66,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,37,168,63,Ectomorph,Fat Loss,2801,100,350,77,Poha,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Female,48,186,69,Endomorph,Maintenance,2491,142,311,69,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Female,46,178,59,Endomorph,Maintenance,1982,122,247,55,Poha,Curd Rice,Fish Curry with Rice,Roasted Chana
+Female,39,184,52,Endomorph,Maintenance,2368,103,296,65,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Male,53,155,62,Endomorph,Fat Loss,2981,127,372,82,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Male,25,184,61,Ectomorph,Maintenance,2221,106,277,61,Poha,Curd Rice,Roti & Paneer Curry,Protein Shake
+Female,43,187,52,Mesomorph,Lean Bulk,2496,96,312,69,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,34,155,57,Ectomorph,Fat Loss,2144,100,268,59,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Female,44,160,53,Endomorph,Maintenance,2171,85,271,60,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Female,27,176,70,Mesomorph,Maintenance,2047,114,255,56,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Female,50,182,74,Ectomorph,Maintenance,1924,132,240,53,Poha,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Male,44,190,64,Ectomorph,Maintenance,2934,139,366,81,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Female,54,176,78,Ectomorph,Fat Loss,2824,134,353,78,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,52,177,85,Mesomorph,Lean Bulk,1802,177,225,50,Poha,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Male,48,167,88,Mesomorph,Fat Loss,2578,193,322,71,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Male,28,184,86,Ectomorph,Maintenance,1983,157,247,55,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,31,189,82,Mesomorph,Fat Loss,2501,162,312,69,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,31,179,88,Mesomorph,Lean Bulk,2073,174,259,57,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Male,29,176,85,Endomorph,Fat Loss,2801,174,350,77,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Protein Shake
+Male,46,157,72,Mesomorph,Fat Loss,2533,131,316,70,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,46,150,64,Endomorph,Lean Bulk,2375,128,296,65,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,32,164,81,Mesomorph,Lean Bulk,2374,153,296,65,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,25,167,86,Endomorph,Maintenance,2149,166,268,59,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,55,158,97,Ectomorph,Lean Bulk,2331,209,291,64,Oats with Milk,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,52,189,66,Endomorph,Fat Loss,2729,105,341,75,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,35,157,93,Endomorph,Maintenance,2814,168,351,78,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,52,178,70,Ectomorph,Maintenance,2198,126,274,61,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,33,162,60,Mesomorph,Maintenance,1928,118,241,53,Idli & Sambar,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,55,190,71,Mesomorph,Lean Bulk,2020,133,252,56,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Male,22,188,89,Mesomorph,Lean Bulk,2714,173,339,75,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Female,22,158,53,Mesomorph,Lean Bulk,2417,104,302,67,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,36,174,75,Ectomorph,Fat Loss,2641,130,330,73,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,47,177,89,Endomorph,Lean Bulk,2495,177,311,69,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Male,24,156,50,Endomorph,Fat Loss,1938,97,242,53,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Female,40,176,80,Endomorph,Fat Loss,2710,136,338,75,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Roasted Chana
+Female,55,177,82,Endomorph,Maintenance,2437,159,304,67,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,39,168,73,Ectomorph,Fat Loss,2096,119,262,58,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,30,162,90,Ectomorph,Lean Bulk,2499,154,312,69,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,37,176,71,Ectomorph,Lean Bulk,2730,150,341,75,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,32,179,89,Ectomorph,Lean Bulk,2784,181,348,77,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,18,173,50,Ectomorph,Maintenance,1861,96,232,51,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,20,151,62,Ectomorph,Maintenance,2156,107,269,59,Vegetable Upma,Chicken Curry with Rice,Khichdi,Protein Shake
+Male,29,162,51,Ectomorph,Maintenance,2007,82,250,55,Oats with Milk,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,37,179,65,Mesomorph,Maintenance,2150,140,268,59,Poha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,26,162,62,Endomorph,Maintenance,2566,111,320,71,Paneer Paratha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,52,168,100,Ectomorph,Maintenance,2306,163,288,64,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,31,155,100,Mesomorph,Fat Loss,1932,170,241,53,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Peanut Chaat
+Female,29,170,95,Mesomorph,Fat Loss,2789,192,348,77,Paneer Paratha,Curd Rice,Khichdi,Protein Shake
+Female,55,152,63,Ectomorph,Lean Bulk,2725,133,340,75,Paneer Paratha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,54,160,73,Mesomorph,Fat Loss,1973,122,246,54,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,32,187,52,Mesomorph,Fat Loss,2488,96,311,69,Paneer Paratha,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Female,38,167,74,Ectomorph,Lean Bulk,2704,128,338,75,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Male,35,164,56,Ectomorph,Lean Bulk,2537,90,317,70,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,37,167,62,Endomorph,Fat Loss,2082,136,260,57,Poha,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Female,40,175,75,Endomorph,Fat Loss,1824,141,228,50,Poha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,31,180,64,Endomorph,Fat Loss,2931,131,366,81,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Male,45,176,63,Mesomorph,Maintenance,2943,101,367,81,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Boiled Eggs
+Male,49,172,71,Ectomorph,Maintenance,2671,142,333,74,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Male,54,152,58,Ectomorph,Maintenance,2963,114,370,82,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Female,31,175,54,Endomorph,Maintenance,2185,101,273,60,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,28,156,93,Endomorph,Lean Bulk,1865,194,233,51,Poha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,22,174,68,Ectomorph,Lean Bulk,2396,135,299,66,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,28,170,76,Mesomorph,Lean Bulk,2026,127,253,56,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Male,26,163,69,Mesomorph,Fat Loss,2772,116,346,77,Poha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Female,35,162,50,Ectomorph,Maintenance,1931,104,241,53,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,47,179,86,Ectomorph,Fat Loss,1986,152,248,55,Paneer Paratha,Rajma Chawal,Khichdi,Peanut Chaat
+Male,44,165,61,Endomorph,Fat Loss,2684,114,335,74,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Male,33,160,67,Endomorph,Fat Loss,2397,133,299,66,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Male,41,154,98,Ectomorph,Fat Loss,2467,180,308,68,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Male,47,151,54,Endomorph,Fat Loss,2745,98,343,76,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,34,157,95,Ectomorph,Maintenance,2750,179,343,76,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Female,26,180,67,Ectomorph,Lean Bulk,1836,131,229,51,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Female,28,154,92,Ectomorph,Fat Loss,2359,155,294,65,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,46,153,90,Endomorph,Fat Loss,2010,165,251,55,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Protein Shake
+Male,21,174,99,Ectomorph,Lean Bulk,2567,212,320,71,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,18,171,62,Endomorph,Fat Loss,1929,107,241,53,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,50,156,70,Mesomorph,Fat Loss,2188,138,273,60,Poha,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Male,31,156,72,Mesomorph,Lean Bulk,1830,132,228,50,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Roasted Chana
+Female,32,154,92,Mesomorph,Fat Loss,2555,149,319,70,Oats with Milk,Curd Rice,Khichdi,Protein Shake
+Female,24,184,100,Endomorph,Lean Bulk,2315,217,289,64,Poha,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,29,190,98,Endomorph,Maintenance,2787,160,348,77,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Female,50,190,97,Ectomorph,Fat Loss,1827,168,228,50,Poha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Female,33,189,55,Ectomorph,Lean Bulk,2567,104,320,71,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,33,188,78,Endomorph,Maintenance,2074,137,259,57,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,32,171,71,Ectomorph,Lean Bulk,2904,115,363,80,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,29,178,90,Ectomorph,Lean Bulk,2806,147,350,77,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,23,161,87,Endomorph,Lean Bulk,2283,165,285,63,Paneer Paratha,Curd Rice,Khichdi,Roasted Chana
+Male,33,177,61,Endomorph,Lean Bulk,2420,108,302,67,Paneer Paratha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Male,41,175,74,Ectomorph,Maintenance,2703,137,337,75,Poha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,42,177,55,Mesomorph,Fat Loss,2900,93,362,80,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Female,47,168,74,Endomorph,Fat Loss,2784,121,348,77,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,18,150,82,Endomorph,Fat Loss,2566,155,320,71,Paneer Paratha,Curd Rice,Khichdi,Peanut Chaat
+Female,37,187,54,Mesomorph,Lean Bulk,2054,98,256,57,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,40,182,95,Mesomorph,Fat Loss,2554,191,319,70,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,20,173,90,Endomorph,Fat Loss,1857,181,232,51,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,34,165,88,Endomorph,Fat Loss,2130,141,266,59,Idli & Sambar,Curd Rice,Fish Curry with Rice,Protein Shake
+Male,51,162,77,Ectomorph,Maintenance,2317,155,289,64,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,44,155,56,Endomorph,Fat Loss,2505,116,313,69,Vegetable Upma,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Male,28,181,50,Ectomorph,Lean Bulk,2655,95,331,73,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,29,158,62,Mesomorph,Lean Bulk,2829,134,353,78,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Male,21,161,98,Ectomorph,Maintenance,2637,182,329,73,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Female,23,174,57,Mesomorph,Lean Bulk,2500,92,312,69,Oats with Milk,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Male,21,167,98,Ectomorph,Fat Loss,2992,203,374,83,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Male,42,188,83,Mesomorph,Maintenance,2769,170,346,76,Poha,Curd Rice,Khichdi,Boiled Eggs
+Female,38,165,73,Endomorph,Maintenance,2575,143,321,71,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Female,43,158,51,Endomorph,Lean Bulk,2886,90,360,80,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,50,176,92,Ectomorph,Lean Bulk,2459,148,307,68,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,49,175,97,Endomorph,Lean Bulk,2513,180,314,69,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,27,183,86,Endomorph,Fat Loss,1865,144,233,51,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,46,157,80,Endomorph,Fat Loss,2293,139,286,63,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Male,28,170,74,Mesomorph,Lean Bulk,2327,147,290,64,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,39,164,86,Endomorph,Lean Bulk,2502,157,312,69,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,34,157,68,Ectomorph,Lean Bulk,1982,122,247,55,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,26,170,74,Endomorph,Fat Loss,1803,132,225,50,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,38,173,93,Ectomorph,Fat Loss,2254,154,281,62,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,36,164,81,Endomorph,Maintenance,2101,158,262,58,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,50,157,67,Endomorph,Fat Loss,2779,132,347,77,Oats with Milk,Curd Rice,Khichdi,Peanut Chaat
+Male,39,159,95,Ectomorph,Fat Loss,2260,191,282,62,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,28,151,85,Mesomorph,Maintenance,2665,170,333,74,Vegetable Upma,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Female,36,162,94,Endomorph,Maintenance,1999,157,249,55,Poha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,54,158,78,Endomorph,Maintenance,2396,166,299,66,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,54,156,93,Ectomorph,Maintenance,2674,186,334,74,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,29,153,57,Endomorph,Fat Loss,2493,111,311,69,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,33,175,81,Mesomorph,Fat Loss,2153,161,269,59,Paneer Paratha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Female,46,173,50,Ectomorph,Lean Bulk,1969,83,246,54,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,35,156,100,Endomorph,Lean Bulk,2586,189,323,71,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,38,154,95,Endomorph,Lean Bulk,2630,198,328,73,Idli & Sambar,Curd Rice,Vegetable Stir Fry,Protein Shake
+Female,22,183,87,Endomorph,Fat Loss,2054,178,256,57,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Male,18,185,78,Mesomorph,Lean Bulk,1880,130,235,52,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,20,155,57,Endomorph,Maintenance,2544,124,318,70,Oats with Milk,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Female,20,183,100,Mesomorph,Fat Loss,2893,186,361,80,Poha,Curd Rice,Khichdi,Protein Shake
+Female,52,182,63,Endomorph,Lean Bulk,1891,109,236,52,Oats with Milk,Chicken Curry with Rice,Khichdi,Roasted Chana
+Male,53,163,87,Mesomorph,Maintenance,2063,177,257,57,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,42,160,75,Mesomorph,Lean Bulk,2320,150,290,64,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Female,30,173,86,Endomorph,Fat Loss,2847,168,355,79,Paneer Paratha,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,19,188,65,Ectomorph,Maintenance,2055,124,256,57,Poha,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,41,171,99,Mesomorph,Lean Bulk,2262,174,282,62,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,25,161,83,Endomorph,Maintenance,2802,137,350,77,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Female,24,153,60,Mesomorph,Maintenance,2170,108,271,60,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Female,55,158,66,Ectomorph,Fat Loss,2851,133,356,79,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Female,21,190,73,Endomorph,Lean Bulk,2656,147,332,73,Oats with Milk,Curd Rice,Khichdi,Peanut Chaat
+Female,35,177,83,Endomorph,Lean Bulk,2425,164,303,67,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Boiled Eggs
+Male,23,154,96,Ectomorph,Lean Bulk,2138,186,267,59,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,45,182,96,Ectomorph,Maintenance,2819,183,352,78,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,18,177,94,Endomorph,Fat Loss,2506,164,313,69,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,28,183,64,Ectomorph,Lean Bulk,2551,134,318,70,Poha,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Female,42,160,73,Ectomorph,Maintenance,2311,153,288,64,Idli & Sambar,Rajma Chawal,Khichdi,Peanut Chaat
+Female,34,163,50,Endomorph,Fat Loss,2964,91,370,82,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,21,172,50,Endomorph,Maintenance,2472,88,309,68,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Female,40,150,56,Mesomorph,Maintenance,2204,92,275,61,Poha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,18,159,99,Endomorph,Maintenance,2263,186,282,62,Vegetable Upma,Rajma Chawal,Khichdi,Peanut Chaat
+Male,52,167,56,Mesomorph,Fat Loss,2699,95,337,74,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Male,25,162,68,Ectomorph,Lean Bulk,2608,125,326,72,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Female,35,157,76,Mesomorph,Fat Loss,2814,158,351,78,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,26,157,56,Ectomorph,Lean Bulk,2118,101,264,58,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,18,177,80,Mesomorph,Maintenance,2795,131,349,77,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Male,33,167,99,Ectomorph,Maintenance,2306,197,288,64,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,30,187,90,Endomorph,Lean Bulk,2269,150,283,63,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Male,45,151,89,Ectomorph,Lean Bulk,1904,162,238,52,Poha,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Female,45,180,53,Endomorph,Maintenance,1905,94,238,52,Vegetable Upma,Rajma Chawal,Khichdi,Boiled Eggs
+Female,33,170,53,Ectomorph,Lean Bulk,1801,86,225,50,Vegetable Upma,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,24,177,61,Mesomorph,Maintenance,2544,109,318,70,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Protein Shake
+Male,39,173,97,Mesomorph,Fat Loss,2883,190,360,80,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Female,23,156,58,Endomorph,Fat Loss,2046,94,255,56,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,52,189,71,Mesomorph,Fat Loss,2771,155,346,76,Oats with Milk,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Male,30,176,85,Endomorph,Maintenance,2947,185,368,81,Vegetable Upma,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Male,48,176,83,Endomorph,Lean Bulk,2141,162,267,59,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Male,30,175,81,Endomorph,Fat Loss,2851,176,356,79,Oats with Milk,Curd Rice,Vegetable Stir Fry,Peanut Chaat
+Female,43,188,67,Ectomorph,Lean Bulk,1807,113,225,50,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,50,183,66,Mesomorph,Lean Bulk,2406,133,300,66,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Roasted Chana
+Male,52,165,68,Ectomorph,Fat Loss,2103,147,262,58,Vegetable Upma,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,31,184,57,Ectomorph,Fat Loss,2511,112,313,69,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Female,26,176,89,Mesomorph,Maintenance,1917,175,239,53,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Male,34,151,84,Endomorph,Fat Loss,2017,170,252,56,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,46,164,70,Mesomorph,Lean Bulk,2991,138,373,83,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Female,41,159,80,Ectomorph,Maintenance,2171,150,271,60,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,36,151,69,Ectomorph,Lean Bulk,2607,138,325,72,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Female,33,179,91,Mesomorph,Lean Bulk,2878,153,359,79,Idli & Sambar,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,19,157,50,Endomorph,Lean Bulk,2070,87,258,57,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Male,18,156,84,Endomorph,Maintenance,1974,144,246,54,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,39,180,59,Ectomorph,Lean Bulk,2913,118,364,80,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,52,168,56,Endomorph,Maintenance,2090,89,261,58,Oats with Milk,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Female,27,172,91,Mesomorph,Lean Bulk,2587,183,323,71,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,24,168,72,Ectomorph,Fat Loss,2483,120,310,68,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,45,183,71,Endomorph,Lean Bulk,2670,119,333,74,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Male,35,181,92,Mesomorph,Maintenance,1956,190,244,54,Oats with Milk,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,46,180,54,Ectomorph,Fat Loss,2675,117,334,74,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Male,29,174,72,Mesomorph,Maintenance,2668,135,333,74,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Male,42,176,85,Mesomorph,Fat Loss,2893,161,361,80,Poha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,51,186,99,Endomorph,Fat Loss,2249,200,281,62,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Male,41,185,80,Ectomorph,Lean Bulk,1922,171,240,53,Vegetable Upma,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Male,53,176,65,Ectomorph,Lean Bulk,1914,133,239,53,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,41,153,94,Ectomorph,Fat Loss,2991,154,373,83,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,27,155,65,Ectomorph,Lean Bulk,2965,136,370,82,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,51,169,80,Mesomorph,Fat Loss,2490,149,311,69,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Male,20,188,98,Ectomorph,Fat Loss,2128,157,266,59,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,32,177,60,Mesomorph,Lean Bulk,2868,109,358,79,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Male,32,175,61,Endomorph,Fat Loss,1958,127,244,54,Paneer Paratha,Curd Rice,Khichdi,Peanut Chaat
+Female,28,153,73,Endomorph,Maintenance,2198,128,274,61,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,19,165,68,Ectomorph,Fat Loss,2018,111,252,56,Poha,"Rice, Dal & Veg Curry",Khichdi,Roasted Chana
+Male,20,165,67,Ectomorph,Fat Loss,2956,109,369,82,Paneer Paratha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,37,150,72,Mesomorph,Maintenance,2824,123,353,78,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Female,44,182,56,Endomorph,Lean Bulk,1848,109,231,51,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,28,159,93,Mesomorph,Lean Bulk,1991,201,248,55,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,46,158,71,Mesomorph,Maintenance,2682,115,335,74,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Protein Shake
+Male,27,186,90,Mesomorph,Lean Bulk,1830,151,228,50,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Male,47,170,60,Mesomorph,Lean Bulk,1939,106,242,53,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Male,47,166,80,Mesomorph,Maintenance,2087,173,260,57,Poha,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,43,176,89,Endomorph,Lean Bulk,2702,161,337,75,Poha,Rajma Chawal,Khichdi,Fruit Bowl
+Female,50,178,66,Endomorph,Lean Bulk,1916,134,239,53,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Male,36,174,60,Endomorph,Maintenance,1949,104,243,54,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,52,179,56,Ectomorph,Lean Bulk,2021,120,252,56,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,22,170,71,Endomorph,Maintenance,2235,143,279,62,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,52,159,80,Ectomorph,Fat Loss,2237,143,279,62,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Female,45,180,63,Ectomorph,Lean Bulk,1846,136,230,51,Paneer Paratha,Rajma Chawal,Khichdi,Roasted Chana
+Male,27,154,67,Mesomorph,Lean Bulk,2410,142,301,66,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Roasted Chana
+Female,29,153,55,Mesomorph,Maintenance,2408,93,301,66,Vegetable Upma,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,45,172,94,Endomorph,Maintenance,1820,182,227,50,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,38,170,50,Ectomorph,Maintenance,2102,94,262,58,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,46,158,90,Mesomorph,Fat Loss,2984,149,373,82,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Male,42,163,72,Ectomorph,Lean Bulk,2981,156,372,82,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Female,50,157,94,Mesomorph,Fat Loss,2733,173,341,75,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,25,161,79,Mesomorph,Maintenance,2162,152,270,60,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Female,45,190,68,Endomorph,Fat Loss,2003,149,250,55,Idli & Sambar,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Protein Shake
+Female,24,181,97,Endomorph,Fat Loss,2004,192,250,55,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Boiled Eggs
+Female,31,164,99,Mesomorph,Fat Loss,2580,165,322,71,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,43,150,73,Ectomorph,Fat Loss,2380,128,297,66,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Male,44,152,50,Ectomorph,Lean Bulk,2566,105,320,71,Poha,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Male,54,177,65,Endomorph,Maintenance,2194,128,274,60,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Male,42,161,75,Mesomorph,Fat Loss,2124,139,265,59,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Female,34,185,60,Mesomorph,Lean Bulk,1990,99,248,55,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,52,155,86,Mesomorph,Lean Bulk,2067,188,258,57,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,30,184,65,Endomorph,Maintenance,2333,129,291,64,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Male,25,179,88,Ectomorph,Lean Bulk,2090,155,261,58,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Peanut Chaat
+Female,31,175,56,Mesomorph,Lean Bulk,2647,92,330,73,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Peanut Chaat
+Female,46,160,61,Mesomorph,Lean Bulk,2165,121,270,60,Poha,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,48,189,88,Endomorph,Lean Bulk,2124,168,265,59,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Male,52,151,83,Endomorph,Lean Bulk,2242,175,280,62,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Male,32,155,96,Endomorph,Lean Bulk,2348,169,293,65,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,47,181,77,Endomorph,Maintenance,2195,134,274,60,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Fruit Bowl
+Female,28,163,96,Mesomorph,Maintenance,2713,178,339,75,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Female,45,162,86,Mesomorph,Maintenance,1931,160,241,53,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Female,36,188,91,Endomorph,Maintenance,2615,147,326,72,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,33,154,63,Endomorph,Maintenance,2561,106,320,71,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Male,39,163,79,Endomorph,Maintenance,2276,153,284,63,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Male,24,185,67,Endomorph,Fat Loss,1953,130,244,54,Paneer Paratha,Curd Rice,Khichdi,Boiled Eggs
+Male,30,153,81,Mesomorph,Lean Bulk,2362,150,295,65,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Female,55,174,65,Endomorph,Lean Bulk,2383,104,297,66,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Boiled Eggs
+Male,43,152,84,Endomorph,Lean Bulk,2490,166,311,69,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Peanut Chaat
+Female,35,170,98,Mesomorph,Maintenance,1963,189,245,54,Vegetable Upma,Curd Rice,Vegetable Stir Fry,Fruit Bowl
+Female,37,179,81,Endomorph,Lean Bulk,2565,175,320,71,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Male,26,156,70,Endomorph,Fat Loss,2692,121,336,74,Idli & Sambar,Chicken Curry with Rice,Khichdi,Protein Shake
+Male,21,166,100,Ectomorph,Lean Bulk,1898,216,237,52,Idli & Sambar,Rajma Chawal,Khichdi,Protein Shake
+Female,35,160,58,Endomorph,Maintenance,2045,97,255,56,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,51,183,65,Endomorph,Maintenance,2803,142,350,77,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,36,155,72,Endomorph,Lean Bulk,2221,145,277,61,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Male,31,179,74,Ectomorph,Maintenance,2014,133,251,55,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,47,159,82,Ectomorph,Lean Bulk,2248,176,281,62,Paneer Paratha,Curd Rice,Vegetable Stir Fry,Protein Shake
+Male,43,162,54,Mesomorph,Maintenance,2136,108,267,59,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,25,165,51,Mesomorph,Lean Bulk,2346,82,293,65,Poha,Curd Rice,Khichdi,Boiled Eggs
+Male,53,155,72,Mesomorph,Lean Bulk,2108,132,263,58,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Female,35,173,56,Ectomorph,Fat Loss,2583,114,322,71,Paneer Paratha,Chicken Curry with Rice,Khichdi,Roasted Chana
+Female,29,188,67,Endomorph,Fat Loss,2810,128,351,78,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Male,25,153,52,Endomorph,Maintenance,2288,85,286,63,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Female,43,175,56,Ectomorph,Fat Loss,2349,106,293,65,Oats with Milk,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Female,18,156,61,Endomorph,Fat Loss,2776,124,347,77,Oats with Milk,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,29,171,79,Ectomorph,Lean Bulk,2771,146,346,76,Idli & Sambar,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,18,188,72,Mesomorph,Fat Loss,1802,136,225,50,Oats with Milk,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,54,168,64,Endomorph,Fat Loss,2142,131,267,59,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Female,49,172,84,Mesomorph,Fat Loss,2796,147,349,77,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Female,51,188,80,Ectomorph,Maintenance,2863,162,357,79,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,40,181,51,Ectomorph,Fat Loss,2682,92,335,74,Idli & Sambar,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,52,178,83,Ectomorph,Maintenance,2514,177,314,69,Paneer Paratha,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Female,30,152,87,Endomorph,Fat Loss,2503,182,312,69,Idli & Sambar,Curd Rice,Fish Curry with Rice,Protein Shake
+Female,36,157,50,Mesomorph,Fat Loss,2101,93,262,58,Oats with Milk,"Roti, Sabzi & Dal",Khichdi,Protein Shake
+Male,37,181,68,Ectomorph,Maintenance,1831,127,228,50,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Male,49,169,50,Mesomorph,Maintenance,1801,81,225,50,Oats with Milk,Rajma Chawal,Khichdi,Protein Shake
+Male,23,167,59,Endomorph,Lean Bulk,2684,115,335,74,Idli & Sambar,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Female,40,165,93,Endomorph,Maintenance,2665,171,333,74,Idli & Sambar,Rajma Chawal,Khichdi,Protein Shake
+Female,29,186,77,Endomorph,Maintenance,2984,129,373,82,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Peanut Chaat
+Male,37,169,55,Mesomorph,Fat Loss,2744,106,343,76,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Roasted Chana
+Female,38,182,93,Endomorph,Maintenance,2759,168,344,76,Paneer Paratha,Curd Rice,Fish Curry with Rice,Peanut Chaat
+Male,53,151,99,Mesomorph,Lean Bulk,2087,194,260,57,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,26,189,84,Endomorph,Maintenance,1909,172,238,53,Paneer Paratha,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Female,51,179,53,Ectomorph,Lean Bulk,2353,111,294,65,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Female,54,180,94,Mesomorph,Lean Bulk,2048,192,256,56,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Male,53,181,58,Ectomorph,Fat Loss,2116,103,264,58,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Protein Shake
+Male,25,154,50,Ectomorph,Fat Loss,2047,95,255,56,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Peanut Chaat
+Male,50,178,75,Ectomorph,Lean Bulk,2414,138,301,67,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,25,177,59,Endomorph,Lean Bulk,2178,99,272,60,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Male,48,180,68,Mesomorph,Fat Loss,2004,147,250,55,Paneer Paratha,Rajma Chawal,Khichdi,Peanut Chaat
+Female,24,179,76,Mesomorph,Lean Bulk,1857,134,232,51,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Fruit Bowl
+Female,20,189,78,Ectomorph,Maintenance,2085,146,260,57,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Female,50,182,63,Mesomorph,Fat Loss,2875,115,359,79,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,47,158,67,Endomorph,Maintenance,2606,109,325,72,Paneer Paratha,Curd Rice,Fish Curry with Rice,Protein Shake
+Male,54,182,99,Endomorph,Fat Loss,2330,166,291,64,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,22,152,51,Endomorph,Lean Bulk,2274,84,284,63,Idli & Sambar,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,33,156,61,Endomorph,Maintenance,2660,131,332,73,Idli & Sambar,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Male,22,178,98,Mesomorph,Fat Loss,1860,211,232,51,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Peanut Chaat
+Male,54,185,62,Ectomorph,Maintenance,2805,115,350,77,Vegetable Upma,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,51,162,55,Endomorph,Lean Bulk,1997,94,249,55,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,39,161,93,Endomorph,Fat Loss,2881,176,360,80,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Protein Shake
+Female,40,189,85,Ectomorph,Lean Bulk,2698,157,337,74,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,51,169,56,Ectomorph,Maintenance,2272,91,284,63,Poha,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Female,34,174,95,Mesomorph,Lean Bulk,2123,207,265,58,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Female,43,189,53,Endomorph,Fat Loss,2027,103,253,56,Vegetable Upma,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Boiled Eggs
+Female,34,162,71,Ectomorph,Lean Bulk,2218,136,277,61,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,54,189,94,Ectomorph,Maintenance,1944,203,243,54,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Female,26,167,96,Ectomorph,Lean Bulk,1872,182,234,52,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Female,32,151,53,Ectomorph,Lean Bulk,2894,104,361,80,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Male,42,174,94,Ectomorph,Maintenance,2674,181,334,74,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Protein Shake
+Female,40,162,71,Mesomorph,Lean Bulk,2287,123,285,63,Poha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,18,165,53,Ectomorph,Lean Bulk,2059,98,257,57,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Male,36,158,88,Mesomorph,Maintenance,2050,175,256,56,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Roasted Chana
+Female,40,164,78,Endomorph,Maintenance,2551,161,318,70,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,52,182,56,Ectomorph,Maintenance,2641,113,330,73,Poha,Curd Rice,Khichdi,Fruit Bowl
+Male,26,183,64,Mesomorph,Fat Loss,2932,110,366,81,Vegetable Upma,Chicken Curry with Rice,Roti & Paneer Curry,Roasted Chana
+Female,47,157,51,Mesomorph,Lean Bulk,2353,90,294,65,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Female,42,181,51,Mesomorph,Maintenance,2709,82,338,75,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,37,152,84,Mesomorph,Lean Bulk,2488,180,311,69,Vegetable Upma,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Fruit Bowl
+Female,45,177,100,Endomorph,Fat Loss,1916,208,239,53,Poha,Curd Rice,Khichdi,Protein Shake
+Female,45,186,96,Endomorph,Fat Loss,2332,162,291,64,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,35,167,55,Ectomorph,Fat Loss,2405,99,300,66,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Boiled Eggs
+Female,35,166,100,Endomorph,Fat Loss,1825,167,228,50,Poha,Rajma Chawal,Khichdi,Roasted Chana
+Female,47,151,78,Ectomorph,Maintenance,1875,170,234,52,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Male,55,155,67,Endomorph,Fat Loss,2443,145,305,67,Paneer Paratha,Chicken Curry with Rice,Khichdi,Boiled Eggs
+Female,49,158,64,Endomorph,Lean Bulk,2100,135,262,58,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Fruit Bowl
+Male,50,178,87,Mesomorph,Lean Bulk,2933,176,366,81,Idli & Sambar,Rajma Chawal,Khichdi,Fruit Bowl
+Female,52,152,88,Ectomorph,Maintenance,2023,144,252,56,Paneer Paratha,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Fruit Bowl
+Male,31,170,86,Mesomorph,Fat Loss,2651,141,331,73,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Fruit Bowl
+Female,41,171,76,Endomorph,Maintenance,2763,164,345,76,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Female,20,168,59,Endomorph,Lean Bulk,2017,115,252,56,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Protein Shake
+Female,31,174,87,Ectomorph,Fat Loss,2107,159,263,58,Idli & Sambar,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Protein Shake
+Female,52,157,83,Ectomorph,Fat Loss,2767,165,345,76,Poha,Curd Rice,Khichdi,Boiled Eggs
+Male,54,168,65,Mesomorph,Lean Bulk,2541,113,317,70,Vegetable Upma,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Female,41,155,72,Endomorph,Fat Loss,1956,154,244,54,Paneer Paratha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Female,32,186,58,Endomorph,Lean Bulk,2634,116,329,73,Oats with Milk,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Female,38,157,55,Mesomorph,Maintenance,2834,120,354,78,Poha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,18,160,57,Mesomorph,Maintenance,2935,115,366,81,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Fruit Bowl
+Female,19,160,54,Ectomorph,Fat Loss,2884,116,360,80,Paneer Paratha,Rajma Chawal,Grilled Chicken & Veggies,Peanut Chaat
+Male,36,157,71,Mesomorph,Fat Loss,2020,155,252,56,Idli & Sambar,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Female,46,177,68,Mesomorph,Fat Loss,2075,138,259,57,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Male,55,187,73,Endomorph,Fat Loss,2728,133,341,75,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Protein Shake
+Female,24,164,69,Mesomorph,Maintenance,1898,133,237,52,Poha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Female,38,174,70,Ectomorph,Lean Bulk,1885,146,235,52,Oats with Milk,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,24,172,68,Ectomorph,Lean Bulk,2389,119,298,66,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,24,164,92,Mesomorph,Lean Bulk,1996,158,249,55,Poha,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Male,52,184,62,Ectomorph,Maintenance,1852,112,231,51,Vegetable Upma,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,47,168,57,Endomorph,Fat Loss,2045,106,255,56,Paneer Paratha,Curd Rice,Khichdi,Fruit Bowl
+Male,35,157,72,Ectomorph,Fat Loss,2255,146,281,62,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Female,47,190,97,Endomorph,Fat Loss,1951,196,243,54,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Female,30,185,92,Endomorph,Lean Bulk,1816,160,227,50,Poha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,48,159,81,Ectomorph,Fat Loss,2817,143,352,78,Oats with Milk,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,45,154,81,Endomorph,Fat Loss,2227,164,278,61,Idli & Sambar,Curd Rice,Khichdi,Protein Shake
+Female,55,165,90,Mesomorph,Maintenance,2886,179,360,80,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Boiled Eggs
+Female,49,190,75,Endomorph,Maintenance,2912,141,364,80,Idli & Sambar,Chicken Curry with Rice,Roti & Paneer Curry,Boiled Eggs
+Female,46,170,65,Endomorph,Maintenance,2037,110,254,56,Vegetable Upma,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,48,181,88,Mesomorph,Fat Loss,2280,142,285,63,Vegetable Upma,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Male,53,170,66,Endomorph,Maintenance,2642,121,330,73,Paneer Paratha,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Male,35,181,96,Ectomorph,Maintenance,1893,171,236,52,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Roasted Chana
+Male,25,189,89,Mesomorph,Lean Bulk,2905,143,363,80,Idli & Sambar,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,53,154,91,Ectomorph,Fat Loss,2231,165,278,61,Oats with Milk,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,36,160,73,Mesomorph,Maintenance,2241,141,280,62,Oats with Milk,"Rice, Dal & Veg Curry",Roti & Paneer Curry,Fruit Bowl
+Male,50,175,100,Mesomorph,Lean Bulk,2121,176,265,58,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Fruit Bowl
+Female,25,174,91,Mesomorph,Lean Bulk,2352,192,294,65,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Peanut Chaat
+Male,18,184,88,Ectomorph,Lean Bulk,2601,151,325,72,Poha,Rajma Chawal,Khichdi,Peanut Chaat
+Male,37,167,79,Ectomorph,Lean Bulk,2341,172,292,65,Poha,Curd Rice,Fish Curry with Rice,Boiled Eggs
+Female,23,164,76,Endomorph,Maintenance,2789,134,348,77,Poha,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Peanut Chaat
+Male,49,175,73,Endomorph,Fat Loss,2021,136,252,56,Poha,"Rice, Dal & Veg Curry",Fish Curry with Rice,Roasted Chana
+Female,41,180,86,Ectomorph,Fat Loss,2436,154,304,67,Idli & Sambar,"Rice, Dal & Veg Curry",Vegetable Stir Fry,Roasted Chana
+Male,49,187,65,Ectomorph,Lean Bulk,2625,128,328,72,Paneer Paratha,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,49,166,76,Mesomorph,Fat Loss,2491,159,311,69,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Female,18,167,94,Ectomorph,Fat Loss,2800,181,350,77,Vegetable Upma,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,50,185,97,Endomorph,Lean Bulk,2015,179,251,55,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Fruit Bowl
+Male,51,157,60,Ectomorph,Maintenance,2032,97,254,56,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Female,26,185,76,Mesomorph,Lean Bulk,2407,126,300,66,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Female,54,160,59,Mesomorph,Fat Loss,2218,122,277,61,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Boiled Eggs
+Female,47,163,71,Endomorph,Fat Loss,2077,120,259,57,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,27,180,54,Ectomorph,Maintenance,2184,92,273,60,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Boiled Eggs
+Male,21,189,79,Endomorph,Lean Bulk,1936,143,242,53,Poha,Chicken Curry with Rice,Khichdi,Fruit Bowl
+Male,35,168,77,Endomorph,Fat Loss,2426,140,303,67,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Protein Shake
+Male,22,187,59,Ectomorph,Fat Loss,2243,104,280,62,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Roasted Chana
+Female,39,186,99,Endomorph,Fat Loss,2367,215,295,65,Poha,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Male,32,163,55,Endomorph,Lean Bulk,2093,93,261,58,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Fruit Bowl
+Male,50,178,77,Endomorph,Maintenance,2469,137,308,68,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,42,180,72,Mesomorph,Fat Loss,2449,138,306,68,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,45,185,78,Mesomorph,Fat Loss,2313,156,289,64,Poha,Curd Rice,Khichdi,Roasted Chana
+Male,41,179,99,Endomorph,Maintenance,2668,171,333,74,Poha,Chicken Curry with Rice,Fish Curry with Rice,Boiled Eggs
+Male,18,162,78,Mesomorph,Fat Loss,2199,125,274,61,Vegetable Upma,Rajma Chawal,Roti & Paneer Curry,Boiled Eggs
+Female,50,150,88,Mesomorph,Lean Bulk,2363,174,295,65,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Boiled Eggs
+Male,54,151,95,Mesomorph,Fat Loss,2730,179,341,75,Paneer Paratha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Fruit Bowl
+Female,19,189,95,Ectomorph,Fat Loss,2162,201,270,60,Oats with Milk,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,46,190,95,Ectomorph,Maintenance,1999,200,249,55,Vegetable Upma,Chicken Curry with Rice,Vegetable Stir Fry,Fruit Bowl
+Female,38,160,87,Endomorph,Maintenance,2857,139,357,79,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Fruit Bowl
+Male,50,159,96,Mesomorph,Lean Bulk,2153,179,269,59,Vegetable Upma,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Protein Shake
+Female,29,190,97,Ectomorph,Maintenance,2360,187,295,65,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Male,54,179,55,Ectomorph,Lean Bulk,2173,112,271,60,Oats with Milk,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Male,18,163,90,Mesomorph,Maintenance,1966,191,245,54,Oats with Milk,Rajma Chawal,Grilled Chicken & Veggies,Roasted Chana
+Female,21,174,95,Mesomorph,Lean Bulk,2371,160,296,65,Vegetable Upma,Curd Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,30,161,68,Mesomorph,Fat Loss,2700,119,337,75,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Female,51,178,90,Endomorph,Lean Bulk,1875,195,234,52,Poha,Curd Rice,Grilled Chicken & Veggies,Protein Shake
+Male,45,172,91,Endomorph,Maintenance,2224,164,278,61,Poha,"Roti, Sabzi & Dal",Khichdi,Fruit Bowl
+Male,34,163,79,Mesomorph,Lean Bulk,2036,150,254,56,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,41,186,74,Endomorph,Fat Loss,1869,132,233,51,Idli & Sambar,Rajma Chawal,Roti & Paneer Curry,Roasted Chana
+Female,48,171,71,Endomorph,Lean Bulk,2183,152,272,60,Vegetable Upma,Chicken Curry with Rice,Fish Curry with Rice,Protein Shake
+Male,19,178,89,Mesomorph,Fat Loss,2979,179,372,82,Paneer Paratha,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Female,39,180,93,Mesomorph,Maintenance,1882,202,235,52,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,35,186,75,Endomorph,Lean Bulk,2135,143,266,59,Vegetable Upma,"Roti, Sabzi & Dal",Vegetable Stir Fry,Roasted Chana
+Male,26,171,100,Ectomorph,Lean Bulk,2433,207,304,67,Oats with Milk,Rajma Chawal,Fish Curry with Rice,Peanut Chaat
+Male,47,150,92,Ectomorph,Lean Bulk,2152,163,269,59,Idli & Sambar,Chicken Curry with Rice,Grilled Chicken & Veggies,Roasted Chana
+Female,23,165,59,Endomorph,Fat Loss,2566,94,320,71,Oats with Milk,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Female,31,180,92,Mesomorph,Maintenance,2297,189,287,63,Idli & Sambar,Curd Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,43,170,68,Endomorph,Fat Loss,2669,133,333,74,Poha,"Rice, Dal & Veg Curry",Khichdi,Peanut Chaat
+Male,32,188,61,Ectomorph,Maintenance,2541,110,317,70,Idli & Sambar,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,32,158,81,Ectomorph,Lean Bulk,2232,144,279,62,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,27,168,69,Mesomorph,Fat Loss,2784,111,348,77,Paneer Paratha,Chicken Curry with Rice,Grilled Chicken & Veggies,Peanut Chaat
+Male,47,155,72,Endomorph,Fat Loss,2007,143,250,55,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Boiled Eggs
+Male,54,182,74,Endomorph,Maintenance,1823,139,227,50,Paneer Paratha,Curd Rice,Roti & Paneer Curry,Boiled Eggs
+Female,34,190,57,Endomorph,Maintenance,2828,103,353,78,Paneer Paratha,Rajma Chawal,Vegetable Stir Fry,Boiled Eggs
+Male,29,177,84,Mesomorph,Fat Loss,1963,141,245,54,Vegetable Upma,"Roti, Sabzi & Dal",Khichdi,Roasted Chana
+Female,45,153,79,Mesomorph,Lean Bulk,2048,167,256,56,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Protein Shake
+Female,34,177,71,Endomorph,Maintenance,1848,136,231,51,Oats with Milk,Rajma Chawal,Khichdi,Peanut Chaat
+Male,46,170,69,Endomorph,Lean Bulk,2028,125,253,56,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,23,184,56,Ectomorph,Fat Loss,2096,110,262,58,Paneer Paratha,Rajma Chawal,Khichdi,Peanut Chaat
+Male,51,186,79,Ectomorph,Lean Bulk,2468,144,308,68,Oats with Milk,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Male,39,190,97,Mesomorph,Maintenance,2620,156,327,72,Vegetable Upma,"Rice, Dal & Veg Curry",Fish Curry with Rice,Fruit Bowl
+Male,54,166,69,Endomorph,Fat Loss,2904,145,363,80,Oats with Milk,"Rice, Dal & Veg Curry",Khichdi,Protein Shake
+Female,31,177,67,Endomorph,Fat Loss,2180,118,272,60,Idli & Sambar,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Female,35,150,76,Ectomorph,Lean Bulk,2648,151,331,73,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,24,164,64,Ectomorph,Fat Loss,2464,110,308,68,Poha,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Female,39,184,74,Mesomorph,Fat Loss,1825,133,228,50,Vegetable Upma,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Female,49,163,84,Endomorph,Lean Bulk,2598,147,324,72,Idli & Sambar,"Roti, Sabzi & Dal",Roti & Paneer Curry,Peanut Chaat
+Female,23,163,97,Endomorph,Maintenance,2422,172,302,67,Vegetable Upma,Curd Rice,Fish Curry with Rice,Fruit Bowl
+Male,55,160,89,Mesomorph,Fat Loss,2683,164,335,74,Idli & Sambar,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,42,184,58,Mesomorph,Fat Loss,2052,96,256,57,Oats with Milk,Chicken Curry with Rice,Roti & Paneer Curry,Protein Shake
+Female,29,160,99,Endomorph,Maintenance,2926,182,365,81,Oats with Milk,Curd Rice,Vegetable Stir Fry,Boiled Eggs
+Female,41,190,56,Endomorph,Fat Loss,2450,106,306,68,Poha,Curd Rice,Grilled Chicken & Veggies,Peanut Chaat
+Female,47,168,78,Ectomorph,Lean Bulk,2619,138,327,72,Poha,Rajma Chawal,Fish Curry with Rice,Roasted Chana
+Male,42,187,91,Mesomorph,Maintenance,2640,155,330,73,Idli & Sambar,"Roti, Sabzi & Dal",Grilled Chicken & Veggies,Roasted Chana
+Male,54,176,51,Mesomorph,Fat Loss,2311,86,288,64,Paneer Paratha,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Female,53,182,62,Ectomorph,Maintenance,2555,126,319,70,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Female,26,168,54,Ectomorph,Lean Bulk,2982,101,372,82,Oats with Milk,"Roti, Sabzi & Dal",Fish Curry with Rice,Roasted Chana
+Male,47,182,91,Ectomorph,Fat Loss,2478,193,309,68,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Fruit Bowl
+Male,20,176,83,Mesomorph,Maintenance,1944,171,243,54,Vegetable Upma,"Roti, Sabzi & Dal",Roti & Paneer Curry,Protein Shake
+Male,46,180,96,Ectomorph,Maintenance,2615,201,326,72,Idli & Sambar,Rajma Chawal,Fish Curry with Rice,Protein Shake
+Female,45,157,56,Ectomorph,Maintenance,2987,114,373,82,Idli & Sambar,Chicken Curry with Rice,Khichdi,Peanut Chaat
+Female,27,165,100,Mesomorph,Lean Bulk,2341,165,292,65,Idli & Sambar,Curd Rice,Fish Curry with Rice,Roasted Chana
+Female,39,168,94,Mesomorph,Maintenance,2722,189,340,75,Poha,Rajma Chawal,Vegetable Stir Fry,Fruit Bowl
+Male,27,183,68,Ectomorph,Lean Bulk,2559,131,319,71,Vegetable Upma,Rajma Chawal,Grilled Chicken & Veggies,Protein Shake
+Female,48,178,93,Mesomorph,Lean Bulk,2063,156,257,57,Vegetable Upma,Curd Rice,Khichdi,Roasted Chana
+Male,31,187,69,Ectomorph,Fat Loss,1824,121,228,50,Poha,"Roti, Sabzi & Dal",Fish Curry with Rice,Peanut Chaat
+Male,40,159,87,Endomorph,Maintenance,2871,158,358,79,Paneer Paratha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Male,48,174,50,Endomorph,Lean Bulk,2501,86,312,69,Oats with Milk,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,30,172,81,Mesomorph,Fat Loss,1824,170,228,50,Poha,Chicken Curry with Rice,Grilled Chicken & Veggies,Boiled Eggs
+Male,43,190,56,Mesomorph,Fat Loss,1937,98,242,53,Poha,"Roti, Sabzi & Dal",Roti & Paneer Curry,Fruit Bowl
+Female,54,183,65,Ectomorph,Maintenance,2174,130,271,60,Oats with Milk,Chicken Curry with Rice,Fish Curry with Rice,Roasted Chana
+Male,35,185,67,Ectomorph,Fat Loss,2189,136,273,60,Idli & Sambar,Chicken Curry with Rice,Vegetable Stir Fry,Boiled Eggs
+Male,31,164,65,Endomorph,Fat Loss,2777,122,347,77,Poha,"Rice, Dal & Veg Curry",Khichdi,Fruit Bowl
+Male,48,157,78,Ectomorph,Maintenance,2204,129,275,61,Poha,Chicken Curry with Rice,Vegetable Stir Fry,Peanut Chaat
+Female,54,150,87,Mesomorph,Lean Bulk,2706,179,338,75,Oats with Milk,"Roti, Sabzi & Dal",Vegetable Stir Fry,Peanut Chaat
+Male,34,176,88,Mesomorph,Maintenance,2161,158,270,60,Paneer Paratha,"Roti, Sabzi & Dal",Khichdi,Boiled Eggs
+Female,52,165,71,Mesomorph,Fat Loss,2949,135,368,81,Paneer Paratha,"Rice, Dal & Veg Curry",Grilled Chicken & Veggies,Peanut Chaat
+Male,38,182,80,Mesomorph,Lean Bulk,2166,131,270,60,Paneer Paratha,Rajma Chawal,Roti & Paneer Curry,Peanut Chaat
+Female,52,161,62,Ectomorph,Lean Bulk,2236,110,279,62,Vegetable Upma,Rajma Chawal,Vegetable Stir Fry,Peanut Chaat
+Male,37,189,63,Endomorph,Fat Loss,2116,113,264,58,Oats with Milk,Curd Rice,Grilled Chicken & Veggies,Roasted Chana

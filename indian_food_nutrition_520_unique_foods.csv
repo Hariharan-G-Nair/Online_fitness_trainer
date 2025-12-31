@@ -1,0 +1,521 @@
+Food_Name,Category,Veg_NonVeg,Serving_Size,Calories_kcal,Protein_g,Carbs_g,Fats_g,Fiber_g,Sugar_g,Sodium_mg,Iron_mg,Calcium_mg,Potassium_mg
+Jowar (Boiled),Grains & Cereals,Veg,100g,468.3,9.7,62.89,48.12,5.69,11.25,102.9,0.52,41.4,397.1
+Fish Rohu (Steamed),Meat & Eggs,Non-Veg,100g,31.0,15.55,6.57,32.87,1.05,6.31,135.0,9.05,28.7,108.1
+Almonds (Roasted),Nuts & Seeds,Veg,100g,549.4,20.28,19.9,46.08,11.53,6.87,240.6,2.07,183.1,373.7
+Sunflower Seeds (Raw),Nuts & Seeds,Veg,100g,257.0,27.04,38.46,37.67,9.58,13.33,267.1,4.86,200.9,268.4
+Little Millet (Steamed),Grains & Cereals,Veg,100g,443.7,3.35,36.52,14.4,5.02,11.08,265.3,7.23,116.9,547.3
+Red Rice (Boiled),Grains & Cereals,Veg,100g,504.0,13.04,67.21,54.87,6.09,10.02,247.4,0.6,87.0,351.4
+Walnuts (Dry Roasted),Nuts & Seeds,Veg,100g,589.0,5.8,40.23,20.82,6.92,0.2,137.4,0.21,239.9,482.6
+Chikoo (Fried),Fruits,Veg,100g,30.2,21.81,38.27,38.89,1.24,17.95,238.9,3.77,164.4,448.2
+Bajra (Roasted),Grains & Cereals,Veg,100g,574.8,1.64,42.12,22.77,0.36,12.72,50.0,9.63,20.2,610.1
+Rajma (Cooked),Pulses & Legumes,Veg,100g,454.1,28.95,47.06,41.69,5.81,6.12,274.2,7.72,88.1,586.6
+Spinach (Grilled),Vegetables,Veg,100g,324.7,22.22,60.17,21.24,0.93,2.72,200.9,3.5,261.5,520.7
+Egg White (Roasted),Meat & Eggs,Non-Veg,100g,274.5,27.21,11.89,17.87,7.75,11.13,103.7,1.05,218.2,165.2
+Paneer (Boiled),Dairy,Veg,100g,184.9,17.97,15.25,17.71,5.97,18.77,25.0,1.97,60.7,696.7
+Red Rice (Roasted),Grains & Cereals,Veg,100g,351.8,3.44,23.78,18.76,8.07,18.59,242.9,5.34,236.0,343.9
+Egg Whole (Raw),Meat & Eggs,Non-Veg,100g,176.4,29.23,43.35,26.74,5.94,4.48,150.9,1.26,190.8,629.8
+Chia Seeds (Dry Roasted),Nuts & Seeds,Veg,100g,225.7,20.67,51.85,19.84,6.91,19.15,256.9,3.16,65.8,319.8
+Walnuts (Steamed),Nuts & Seeds,Veg,100g,248.0,28.31,63.12,20.64,3.98,18.49,257.0,3.76,21.7,214.2
+Onion (Raw),Vegetables,Veg,100g,568.2,2.28,29.13,5.91,8.6,19.26,98.1,6.47,80.5,313.1
+Paneer (Cooked),Dairy,Veg,100g,570.8,16.21,43.12,50.77,5.06,0.98,37.9,4.28,149.4,101.0
+Milk (Dry Roasted),Dairy,Veg,100g,598.9,5.38,65.29,49.03,3.31,17.28,139.6,9.0,266.4,544.3
+Potato (Grilled),Vegetables,Veg,100g,446.0,8.35,66.58,47.94,4.28,19.91,107.9,0.43,4.9,474.9
+Toor Dal (Roasted),Pulses & Legumes,Veg,100g,329.1,26.85,69.52,46.18,4.54,17.31,140.8,2.82,28.6,315.5
+Cheese (Roasted),Dairy,Veg,100g,490.2,18.46,69.16,34.95,5.89,15.96,135.1,0.6,130.4,461.3
+Paneer (Steamed),Dairy,Veg,100g,311.1,7.21,15.87,13.27,0.56,18.2,23.0,9.27,4.3,462.8
+Milk (Raw),Dairy,Veg,100g,557.1,9.01,66.51,46.91,10.48,18.54,92.0,2.83,193.3,234.1
+Milk (Grilled),Dairy,Veg,100g,478.1,16.57,31.07,28.08,13.8,7.81,57.5,0.77,271.3,609.2
+Spinach (Dry Roasted),Vegetables,Veg,100g,446.8,31.99,9.45,25.31,12.93,11.04,6.2,5.21,87.3,157.2
+Brown Rice (Boiled),Grains & Cereals,Veg,100g,367.9,11.71,6.21,36.78,14.39,3.6,38.7,4.75,255.6,13.7
+Cashews (Grilled),Nuts & Seeds,Veg,100g,48.4,5.55,34.32,51.53,9.92,1.19,46.4,4.61,28.0,471.2
+Ridge Gourd (Cooked),Vegetables,Veg,100g,495.6,8.61,32.35,36.94,1.34,0.19,98.9,4.01,236.3,572.1
+Barley (Boiled),Grains & Cereals,Veg,100g,92.9,9.11,17.59,30.65,0.01,17.7,268.5,6.41,263.5,384.8
+Watermelon (Grilled),Fruits,Veg,100g,241.2,4.99,31.26,1.83,4.34,6.27,252.7,8.0,152.4,12.0
+Carrot (Fried),Vegetables,Veg,100g,440.2,21.55,33.35,5.75,8.94,14.91,60.4,6.35,22.1,151.7
+Bottle Gourd (Dry Roasted),Vegetables,Veg,100g,191.5,31.22,73.73,8.98,0.4,14.57,229.5,9.01,202.1,548.3
+Fenugreek Leaves (Boiled),Vegetables,Veg,100g,107.7,25.15,7.6,6.67,13.71,7.22,274.5,3.61,76.4,74.0
+Beetroot (Boiled),Vegetables,Veg,100g,585.8,11.88,59.94,35.09,11.43,13.16,132.4,2.35,29.0,88.1
+Little Millet (Dry Roasted),Grains & Cereals,Veg,100g,507.3,28.71,66.36,19.73,10.11,16.41,40.6,0.0,63.7,641.9
+Pumpkin Seeds (Steamed),Nuts & Seeds,Veg,100g,487.7,3.39,40.21,23.17,11.66,7.8,92.4,8.74,37.5,402.6
+Sweet Potato (Cooked),Vegetables,Veg,100g,528.8,11.24,41.06,36.4,14.9,13.31,93.1,8.8,60.8,156.3
+Ragi (Boiled),Grains & Cereals,Veg,100g,523.7,28.12,11.55,36.63,8.25,17.95,19.8,5.78,57.8,402.8
+Pumpkin Seeds (Grilled),Nuts & Seeds,Veg,100g,72.5,29.17,16.21,24.16,14.08,18.52,210.7,2.08,11.7,600.2
+Pumpkin Seeds (Dry Roasted),Nuts & Seeds,Veg,100g,380.7,12.01,13.68,36.18,14.61,13.16,32.1,0.44,46.5,564.0
+Soybeans (Roasted),Pulses & Legumes,Veg,100g,237.9,15.02,19.74,22.6,2.76,10.58,198.6,5.5,297.4,648.3
+Cheese (Steamed),Dairy,Veg,100g,326.3,21.09,49.79,5.56,13.66,4.93,239.8,5.51,9.8,214.4
+Sesame Seeds (Grilled),Nuts & Seeds,Veg,100g,399.3,10.31,40.39,30.95,8.8,15.72,102.2,1.69,113.1,414.3
+Orange (Fried),Fruits,Veg,100g,408.1,31.7,73.27,33.99,3.47,7.67,41.6,6.8,30.7,656.2
+Butter (Cooked),Dairy,Veg,100g,531.4,27.95,37.31,17.34,9.07,16.88,235.8,8.98,194.9,194.5
+Egg White (Steamed),Meat & Eggs,Non-Veg,100g,164.1,25.64,63.05,38.0,10.67,2.87,280.1,1.4,242.4,125.4
+Egg Whole (Steamed),Meat & Eggs,Non-Veg,100g,469.7,30.89,38.15,35.97,11.58,9.72,200.9,4.71,83.7,691.1
+Ghee (Dry Roasted),Dairy,Veg,100g,158.1,15.23,63.65,25.98,4.78,12.76,259.6,6.97,294.1,316.0
+Brown Rice (Raw),Grains & Cereals,Veg,100g,436.8,12.67,24.02,13.11,10.51,13.9,276.6,4.76,230.8,416.1
+Cauliflower (Raw),Vegetables,Veg,100g,135.3,23.04,15.17,37.24,7.03,12.79,5.3,9.46,278.8,195.7
+Tomato (Boiled),Vegetables,Veg,100g,227.2,27.93,8.86,7.07,7.76,12.0,155.1,4.0,150.4,561.0
+Pumpkin (Boiled),Vegetables,Veg,100g,141.7,3.59,9.08,9.62,1.24,1.31,245.6,6.55,135.1,514.0
+Pear (Raw),Fruits,Veg,100g,266.3,3.74,22.43,27.91,5.65,16.88,100.4,3.49,100.6,137.9
+Wheat (Fried),Grains & Cereals,Veg,100g,315.0,1.64,15.35,15.79,10.54,3.03,181.9,3.61,160.8,607.3
+Buttermilk (Steamed),Dairy,Veg,100g,148.6,8.8,35.69,12.19,4.68,15.53,59.9,4.82,99.9,442.2
+Guava (Fried),Fruits,Veg,100g,440.2,10.62,48.85,47.65,14.75,18.13,183.6,3.22,170.3,432.8
+Urad Dal (Raw),Pulses & Legumes,Veg,100g,121.8,14.86,38.19,37.24,4.09,4.7,87.9,9.08,72.0,491.3
+Cashews (Fried),Nuts & Seeds,Veg,100g,342.2,13.2,52.07,51.55,14.83,6.89,176.8,1.4,290.1,220.0
+Masoor Dal (Dry Roasted),Pulses & Legumes,Veg,100g,182.9,8.5,61.24,16.32,8.82,0.98,260.3,9.29,230.6,431.7
+Basmati Rice (Steamed),Grains & Cereals,Veg,100g,469.9,21.98,60.12,17.92,1.51,0.83,65.4,1.75,139.1,128.7
+Cheese (Raw),Dairy,Veg,100g,375.4,8.68,7.65,49.0,3.56,6.14,135.7,1.28,111.3,285.9
+Oats (Dry Roasted),Grains & Cereals,Veg,100g,207.2,15.4,45.08,50.29,2.16,4.58,223.5,7.91,152.2,692.7
+Ghee (Cooked),Dairy,Veg,100g,120.5,6.32,37.4,40.97,1.42,12.56,210.5,4.99,230.1,648.9
+Papaya (Cooked),Fruits,Veg,100g,482.0,15.4,53.85,47.7,11.86,5.03,89.8,2.36,46.3,151.0
+Toor Dal (Boiled),Pulses & Legumes,Veg,100g,263.7,10.94,36.62,10.2,4.85,1.44,163.8,0.96,135.8,26.8
+Onion (Steamed),Vegetables,Veg,100g,281.4,26.32,35.08,16.63,10.45,9.6,105.9,8.51,70.0,257.3
+Fish Salmon (Roasted),Meat & Eggs,Non-Veg,100g,357.3,3.68,0.69,39.25,5.61,9.0,116.8,1.78,54.7,475.9
+Kabuli Chana (Steamed),Pulses & Legumes,Veg,100g,495.1,23.8,18.29,44.32,5.58,3.22,298.0,3.66,264.1,539.8
+Ghee (Fried),Dairy,Veg,100g,421.7,0.7,69.08,54.11,3.38,11.96,47.3,5.99,134.0,502.1
+Potato (Dry Roasted),Vegetables,Veg,100g,222.0,34.39,4.06,1.26,2.0,5.42,148.0,6.7,196.3,119.8
+Curd (Steamed),Dairy,Veg,100g,397.3,27.52,41.03,3.1,8.45,5.19,234.6,6.61,238.3,61.8
+Bajra (Steamed),Grains & Cereals,Veg,100g,579.8,10.08,57.43,29.89,7.22,0.81,72.5,4.64,129.0,81.0
+Apple (Grilled),Fruits,Veg,100g,586.8,5.03,14.48,1.09,14.39,1.45,161.8,4.8,188.3,210.8
+Rajma (Fried),Pulses & Legumes,Veg,100g,489.3,22.89,38.73,11.74,2.89,13.27,155.5,1.94,259.4,203.0
+Guava (Steamed),Fruits,Veg,100g,337.2,13.99,9.48,8.39,14.25,12.68,287.2,1.06,132.0,48.8
+Almonds (Grilled),Nuts & Seeds,Veg,100g,380.0,29.75,3.14,34.27,14.33,15.47,102.4,1.06,191.0,578.2
+Pistachios (Fried),Nuts & Seeds,Veg,100g,170.2,20.8,23.27,32.39,4.23,9.63,210.7,6.76,273.3,345.0
+Cheese (Grilled),Dairy,Veg,100g,120.2,17.65,4.87,7.31,9.6,14.81,200.3,3.93,148.4,155.6
+Potato (Cooked),Vegetables,Veg,100g,400.8,6.4,46.07,14.42,6.53,18.37,154.6,3.79,57.9,13.8
+Toor Dal (Dry Roasted),Pulses & Legumes,Veg,100g,224.5,7.53,29.37,30.93,13.64,10.75,94.0,7.75,293.7,488.2
+Chia Seeds (Fried),Nuts & Seeds,Veg,100g,129.6,8.28,40.14,32.12,10.22,3.7,131.8,3.42,138.0,549.4
+Rice (Dry Roasted),Grains & Cereals,Veg,100g,40.5,32.74,4.28,3.45,10.74,1.91,101.4,1.9,77.4,140.9
+Kabuli Chana (Raw),Pulses & Legumes,Veg,100g,50.7,17.99,35.78,30.4,10.39,14.71,149.8,4.79,295.9,439.2
+Banana (Grilled),Fruits,Veg,100g,513.0,23.31,5.42,50.34,8.77,4.62,167.2,2.49,74.3,68.7
+Fish Salmon (Grilled),Meat & Eggs,Non-Veg,100g,552.9,33.99,8.66,28.28,4.68,16.07,211.0,7.08,24.6,472.6
+Rajma (Grilled),Pulses & Legumes,Veg,100g,551.1,30.18,15.7,24.03,0.58,15.65,17.5,1.08,270.2,279.6
+Butter (Raw),Dairy,Veg,100g,553.1,25.51,15.27,19.08,13.57,2.59,209.9,8.8,50.0,610.7
+Wheat (Raw),Grains & Cereals,Veg,100g,523.2,9.97,37.6,14.4,9.99,16.02,139.5,1.23,139.9,105.1
+Ghee (Grilled),Dairy,Veg,100g,533.9,22.33,65.23,31.64,4.33,3.97,68.0,6.48,95.1,74.6
+Papaya (Fried),Fruits,Veg,100g,206.4,19.01,68.5,38.78,4.22,17.56,177.8,7.33,217.9,84.2
+Mutton (Steamed),Meat & Eggs,Non-Veg,100g,303.9,15.29,72.52,54.17,10.84,2.43,263.1,1.4,75.1,78.4
+Chia Seeds (Roasted),Nuts & Seeds,Veg,100g,222.6,11.4,51.49,16.26,3.7,19.56,170.5,0.54,157.8,266.0
+Walnuts (Roasted),Nuts & Seeds,Veg,100g,293.2,19.18,34.28,11.55,13.08,3.37,259.5,3.01,94.8,205.5
+Orange (Cooked),Fruits,Veg,100g,268.3,25.68,33.67,8.73,4.35,12.34,257.7,2.22,131.3,571.5
+Tomato (Raw),Vegetables,Veg,100g,443.8,8.64,72.82,24.32,0.0,0.8,88.7,9.69,262.7,302.1
+Chia Seeds (Boiled),Nuts & Seeds,Veg,100g,140.2,16.36,12.63,44.71,2.22,2.91,288.8,5.54,164.8,378.6
+Red Rice (Dry Roasted),Grains & Cereals,Veg,100g,569.4,23.57,71.03,42.43,7.9,7.17,208.5,8.73,29.1,593.1
+Egg Whole (Grilled),Meat & Eggs,Non-Veg,100g,453.8,20.38,40.19,9.53,13.55,15.72,150.4,4.02,42.6,430.8
+Flax Seeds (Dry Roasted),Nuts & Seeds,Veg,100g,440.1,29.38,60.19,42.32,12.04,9.44,98.3,0.76,62.2,473.2
+Pumpkin Seeds (Boiled),Nuts & Seeds,Veg,100g,353.7,21.3,25.94,35.96,2.96,4.39,233.9,6.42,242.9,376.3
+Bottle Gourd (Roasted),Vegetables,Veg,100g,460.0,26.28,14.03,5.67,4.68,5.21,200.1,0.14,200.4,290.7
+Chia Seeds (Grilled),Nuts & Seeds,Veg,100g,354.0,33.49,74.09,52.7,5.82,19.29,233.1,9.42,275.2,473.6
+Cabbage (Raw),Vegetables,Veg,100g,430.6,29.29,68.02,54.52,9.1,18.54,31.2,3.1,110.4,528.2
+Curd (Roasted),Dairy,Veg,100g,335.5,18.47,74.83,30.2,4.52,5.68,9.9,0.64,18.9,513.1
+Carrot (Cooked),Vegetables,Veg,100g,54.7,33.81,74.66,27.94,9.17,10.37,39.1,2.65,101.4,296.6
+Curd (Cooked),Dairy,Veg,100g,539.8,7.92,43.33,53.67,3.69,3.38,81.8,6.18,16.7,243.3
+Ghee (Raw),Dairy,Veg,100g,142.5,5.14,47.23,38.17,5.57,17.3,295.1,8.7,291.3,42.3
+Mutton (Grilled),Meat & Eggs,Non-Veg,100g,175.0,18.17,25.11,36.67,9.93,9.45,212.6,7.5,168.8,404.4
+Sunflower Seeds (Dry Roasted),Nuts & Seeds,Veg,100g,465.4,12.5,55.16,38.42,11.37,9.77,17.9,6.16,31.3,271.5
+Green Peas (Roasted),Pulses & Legumes,Veg,100g,575.6,32.02,5.15,15.79,1.86,19.19,107.8,9.61,188.8,496.1
+Fish Rohu (Grilled),Meat & Eggs,Non-Veg,100g,74.0,4.32,69.41,35.96,0.82,8.8,210.1,5.15,268.5,51.4
+Green Peas (Steamed),Pulses & Legumes,Veg,100g,132.3,22.76,0.32,52.35,14.83,15.57,74.4,0.36,218.9,631.9
+Pineapple (Grilled),Fruits,Veg,100g,134.9,2.14,32.18,13.02,7.78,16.26,183.7,0.65,190.6,379.8
+Flax Seeds (Fried),Nuts & Seeds,Veg,100g,288.9,2.3,4.91,9.14,12.9,15.38,269.8,2.09,227.7,571.0
+Sweet Potato (Fried),Vegetables,Veg,100g,297.0,19.1,34.46,17.14,1.38,8.42,223.5,2.35,180.1,302.6
+Curd (Fried),Dairy,Veg,100g,216.3,5.1,7.68,3.39,11.6,16.3,223.4,4.66,82.3,266.8
+Egg White (Boiled),Meat & Eggs,Non-Veg,100g,346.0,31.5,13.82,22.34,10.82,14.64,157.4,3.09,231.5,641.4
+Buttermilk (Cooked),Dairy,Veg,100g,359.5,12.09,28.29,15.18,3.57,15.39,277.9,7.08,103.1,652.2
+Mango (Dry Roasted),Fruits,Veg,100g,558.0,2.64,33.97,16.93,5.97,2.72,56.1,2.8,278.4,464.5
+Foxtail Millet (Steamed),Grains & Cereals,Veg,100g,548.8,2.95,72.72,18.19,13.96,12.19,114.3,9.82,93.4,156.7
+Jowar (Roasted),Grains & Cereals,Veg,100g,110.0,27.35,20.4,45.48,14.95,0.97,37.7,6.2,242.7,46.5
+Chikoo (Boiled),Fruits,Veg,100g,547.7,11.55,8.83,2.97,13.87,10.95,52.7,6.65,168.6,508.7
+Onion (Fried),Vegetables,Veg,100g,385.9,9.73,5.17,42.97,4.45,4.02,240.7,4.21,102.6,270.1
+Peanuts (Steamed),Nuts & Seeds,Veg,100g,381.7,11.17,73.61,22.74,7.92,16.33,167.2,8.43,155.3,256.5
+Sunflower Seeds (Cooked),Nuts & Seeds,Veg,100g,60.1,27.35,28.07,0.97,12.01,9.12,45.6,0.3,247.9,152.0
+Little Millet (Cooked),Grains & Cereals,Veg,100g,335.4,17.92,1.14,52.32,12.05,3.43,34.3,6.83,67.4,146.4
+Chikoo (Grilled),Fruits,Veg,100g,510.6,33.83,52.88,5.15,8.45,7.63,125.5,3.36,12.2,494.7
+Fish Salmon (Dry Roasted),Meat & Eggs,Non-Veg,100g,182.2,31.16,51.75,43.74,4.91,7.64,6.4,3.64,136.1,390.5
+Peanuts (Raw),Nuts & Seeds,Veg,100g,263.5,1.22,13.07,47.75,0.14,14.91,137.3,5.13,277.4,123.7
+Egg White (Grilled),Meat & Eggs,Non-Veg,100g,478.5,13.36,45.98,48.64,13.39,10.9,157.2,8.68,197.9,527.6
+Chia Seeds (Steamed),Nuts & Seeds,Veg,100g,369.0,1.52,73.75,51.29,12.32,16.28,233.6,7.94,213.0,698.6
+Jowar (Grilled),Grains & Cereals,Veg,100g,470.9,4.06,46.27,47.66,11.45,5.59,108.1,4.75,295.2,390.4
+Spinach (Fried),Vegetables,Veg,100g,449.3,30.54,55.53,33.55,9.92,10.56,289.8,2.73,196.5,405.6
+Drumstick (Boiled),Vegetables,Veg,100g,425.9,27.43,65.49,26.02,4.87,12.58,175.6,5.98,193.8,647.9
+Carrot (Roasted),Vegetables,Veg,100g,369.3,15.48,72.96,12.6,9.98,2.03,151.2,2.66,180.8,681.9
+Cauliflower (Grilled),Vegetables,Veg,100g,78.8,17.16,7.38,16.54,13.63,11.67,24.6,0.98,216.0,663.0
+Pineapple (Boiled),Fruits,Veg,100g,71.4,29.82,21.96,22.17,8.22,7.63,138.7,8.83,224.5,519.5
+Black Chana (Grilled),Pulses & Legumes,Veg,100g,278.5,3.06,29.5,16.02,1.88,8.8,151.3,5.19,90.4,14.1
+Muskmelon (Boiled),Fruits,Veg,100g,220.1,2.93,44.42,2.04,0.36,13.81,93.4,2.02,253.4,111.0
+Milk (Cooked),Dairy,Veg,100g,448.1,22.33,34.55,47.88,12.27,18.5,132.8,1.74,23.6,630.8
+Foxtail Millet (Grilled),Grains & Cereals,Veg,100g,453.2,26.36,20.2,47.63,2.88,1.43,149.7,8.35,33.2,471.8
+Pumpkin (Dry Roasted),Vegetables,Veg,100g,379.2,34.66,14.93,4.52,1.71,4.76,68.9,0.75,191.1,38.8
+Pear (Fried),Fruits,Veg,100g,502.0,30.85,32.62,20.45,8.91,11.72,231.6,1.85,228.3,276.6
+Orange (Roasted),Fruits,Veg,100g,599.1,14.19,71.41,50.37,3.69,17.18,261.6,1.39,75.3,340.1
+Curd (Dry Roasted),Dairy,Veg,100g,223.9,17.64,16.9,42.56,13.06,6.74,242.0,7.51,235.4,194.0
+Cashews (Cooked),Nuts & Seeds,Veg,100g,329.8,8.61,43.49,9.92,3.45,14.38,23.2,8.43,144.8,401.9
+Cheese (Dry Roasted),Dairy,Veg,100g,440.1,11.79,10.45,39.76,8.17,1.0,99.2,2.45,211.4,294.6
+Butter (Roasted),Dairy,Veg,100g,514.0,24.48,10.69,6.45,6.39,14.03,257.8,5.5,239.0,124.0
+Soybeans (Cooked),Pulses & Legumes,Veg,100g,394.9,25.27,45.62,40.89,8.68,0.25,270.9,8.68,190.4,590.2
+Pomegranate (Grilled),Fruits,Veg,100g,46.6,15.76,49.34,7.22,10.42,19.57,164.5,3.24,213.6,179.7
+Peanuts (Cooked),Nuts & Seeds,Veg,100g,184.3,32.76,68.75,45.51,4.82,19.09,19.2,4.73,76.7,19.6
+Oats (Boiled),Grains & Cereals,Veg,100g,395.3,23.32,29.87,8.87,13.15,5.38,56.5,5.34,18.9,504.3
+Potato (Steamed),Vegetables,Veg,100g,241.7,0.91,32.14,12.08,13.98,5.8,19.8,3.84,64.6,105.2
+Soybeans (Fried),Pulses & Legumes,Veg,100g,445.2,19.6,69.43,39.9,11.55,18.84,215.6,0.44,36.1,467.1
+Almonds (Cooked),Nuts & Seeds,Veg,100g,417.8,13.95,48.39,12.39,11.34,8.89,234.4,1.82,177.8,565.4
+Fish Salmon (Steamed),Meat & Eggs,Non-Veg,100g,479.9,9.45,73.67,1.19,11.05,1.89,212.4,2.05,264.9,29.0
+Papaya (Steamed),Fruits,Veg,100g,349.1,22.53,60.48,26.99,12.15,0.46,264.2,7.03,62.1,99.8
+Cauliflower (Cooked),Vegetables,Veg,100g,383.9,28.5,65.9,51.75,9.74,1.01,65.6,4.79,295.2,514.4
+Paneer (Raw),Dairy,Veg,100g,461.4,9.66,12.63,12.37,6.73,9.62,163.6,0.97,145.1,265.5
+Buttermilk (Boiled),Dairy,Veg,100g,485.5,2.04,59.44,28.17,11.79,14.26,289.1,9.96,123.5,135.3
+Urad Dal (Steamed),Pulses & Legumes,Veg,100g,97.8,5.65,70.02,32.57,4.41,1.55,172.1,4.54,64.8,208.6
+Milk (Roasted),Dairy,Veg,100g,560.8,26.0,32.23,1.25,6.64,14.41,163.7,4.81,242.2,56.2
+Apple (Dry Roasted),Fruits,Veg,100g,63.7,8.07,73.77,3.17,14.17,5.31,72.7,1.71,214.8,506.2
+Masoor Dal (Cooked),Pulses & Legumes,Veg,100g,212.6,23.67,30.91,42.76,8.81,14.59,6.5,0.96,64.8,66.1
+Wheat (Steamed),Grains & Cereals,Veg,100g,316.6,14.6,46.2,10.65,8.07,14.38,275.1,0.61,9.9,266.0
+Drumstick (Steamed),Vegetables,Veg,100g,120.6,27.48,62.93,21.17,8.18,3.83,167.0,9.43,121.9,656.3
+Capsicum (Raw),Vegetables,Veg,100g,86.5,17.84,41.19,29.97,3.58,5.95,93.0,3.96,260.9,646.9
+Fish Rohu (Roasted),Meat & Eggs,Non-Veg,100g,506.4,10.85,24.36,35.88,7.26,13.72,12.2,7.71,15.8,458.1
+Oats (Steamed),Grains & Cereals,Veg,100g,326.0,5.53,68.39,2.72,3.24,14.95,174.7,8.41,132.1,474.4
+Pomegranate (Cooked),Fruits,Veg,100g,65.9,5.35,7.59,31.27,2.34,13.5,81.9,0.91,296.7,592.3
+Oats (Roasted),Grains & Cereals,Veg,100g,537.6,14.43,13.86,26.01,11.73,16.73,28.8,3.05,126.4,275.0
+Muskmelon (Grilled),Fruits,Veg,100g,460.3,11.53,30.19,28.38,12.53,3.91,19.6,9.6,96.5,45.7
+Bottle Gourd (Grilled),Vegetables,Veg,100g,182.6,26.35,39.95,0.24,3.52,2.99,187.0,1.25,134.9,562.1
+Rice (Steamed),Grains & Cereals,Veg,100g,502.8,10.99,29.95,17.13,0.21,4.73,244.9,5.01,222.5,322.1
+Guava (Boiled),Fruits,Veg,100g,56.3,22.12,53.56,52.45,0.71,13.75,10.3,0.7,42.8,651.5
+Orange (Boiled),Fruits,Veg,100g,101.4,15.92,66.11,15.12,6.57,6.08,94.1,5.88,23.2,12.1
+Mutton (Boiled),Meat & Eggs,Non-Veg,100g,45.7,34.0,27.2,16.88,3.37,18.9,30.2,4.42,34.3,656.6
+Chikoo (Cooked),Fruits,Veg,100g,123.6,17.96,11.59,5.47,5.73,15.5,167.6,7.67,70.9,689.9
+Pistachios (Raw),Nuts & Seeds,Veg,100g,95.9,22.32,21.9,50.33,3.33,6.13,90.5,9.16,269.1,13.6
+Green Peas (Grilled),Pulses & Legumes,Veg,100g,530.4,8.27,15.72,22.85,6.98,6.21,167.6,6.81,7.2,240.2
+Pumpkin Seeds (Raw),Nuts & Seeds,Veg,100g,68.9,23.38,32.51,4.47,2.76,7.63,55.9,0.28,7.1,45.7
+Sesame Seeds (Dry Roasted),Nuts & Seeds,Veg,100g,497.8,32.62,59.13,0.84,9.9,3.9,28.0,4.25,250.9,361.5
+Tomato (Steamed),Vegetables,Veg,100g,254.0,24.66,63.92,2.46,0.24,14.57,170.7,0.14,208.7,285.3
+Mango (Fried),Fruits,Veg,100g,62.2,4.44,55.7,40.96,0.32,2.31,5.6,2.4,121.0,192.8
+Pear (Cooked),Fruits,Veg,100g,330.9,24.68,31.59,20.66,9.88,17.23,180.7,0.08,117.2,472.4
+Ridge Gourd (Boiled),Vegetables,Veg,100g,361.5,24.52,44.43,54.07,0.41,0.9,62.0,6.33,192.2,613.3
+Capsicum (Cooked),Vegetables,Veg,100g,171.2,9.49,58.99,27.19,12.38,4.87,231.8,9.98,33.2,639.4
+Red Rice (Cooked),Grains & Cereals,Veg,100g,262.3,28.44,44.6,36.72,10.06,3.84,173.4,5.51,295.8,51.6
+Ridge Gourd (Grilled),Vegetables,Veg,100g,115.1,20.45,36.05,16.17,12.03,5.36,138.4,0.39,292.2,35.1
+Pistachios (Steamed),Nuts & Seeds,Veg,100g,434.6,12.91,50.3,8.27,0.02,14.28,92.9,3.6,217.5,107.6
+Bajra (Fried),Grains & Cereals,Veg,100g,201.5,16.55,20.94,54.97,1.48,15.96,85.1,6.75,42.3,54.2
+Masoor Dal (Raw),Pulses & Legumes,Veg,100g,252.0,11.41,15.93,11.1,3.01,7.39,44.5,9.07,151.5,103.9
+Black Chana (Boiled),Pulses & Legumes,Veg,100g,407.1,28.4,67.68,38.28,13.48,14.26,27.2,7.77,127.8,208.6
+Egg White (Raw),Meat & Eggs,Non-Veg,100g,346.9,7.2,22.17,14.16,10.95,18.01,245.4,5.58,292.1,224.0
+Kabuli Chana (Cooked),Pulses & Legumes,Veg,100g,372.1,15.97,11.68,51.31,5.72,14.45,111.3,5.4,126.3,330.8
+Little Millet (Roasted),Grains & Cereals,Veg,100g,220.4,6.73,3.28,22.34,13.98,4.72,174.3,3.16,293.7,497.9
+Basmati Rice (Cooked),Grains & Cereals,Veg,100g,135.4,31.83,8.87,45.49,11.19,12.98,123.2,1.16,12.4,131.5
+Peanuts (Grilled),Nuts & Seeds,Veg,100g,529.8,31.39,9.03,25.38,5.95,19.23,243.0,2.89,180.5,209.6
+Egg White (Cooked),Meat & Eggs,Non-Veg,100g,298.3,12.7,40.59,29.51,13.65,13.78,93.8,0.16,177.3,448.2
+Egg White (Fried),Meat & Eggs,Non-Veg,100g,31.3,15.99,64.53,11.51,8.84,16.77,23.2,0.12,280.9,238.2
+Soybeans (Boiled),Pulses & Legumes,Veg,100g,138.4,17.45,2.63,17.33,6.9,16.02,84.1,7.22,219.3,539.7
+Muskmelon (Dry Roasted),Fruits,Veg,100g,416.8,3.64,14.47,27.96,5.09,7.78,298.6,5.96,225.7,409.5
+Cauliflower (Steamed),Vegetables,Veg,100g,443.1,31.93,55.68,9.86,0.75,16.3,109.4,8.89,158.8,326.7
+Quinoa (Cooked),Grains & Cereals,Veg,100g,43.3,4.5,60.26,2.03,14.5,4.06,253.3,0.75,16.5,473.2
+Fish Salmon (Cooked),Meat & Eggs,Non-Veg,100g,501.7,16.18,28.37,53.97,11.61,4.8,111.3,6.7,169.2,480.6
+Mutton (Dry Roasted),Meat & Eggs,Non-Veg,100g,151.4,19.77,46.75,19.24,8.56,4.02,45.9,0.24,213.5,187.7
+Green Peas (Raw),Pulses & Legumes,Veg,100g,284.9,22.26,7.66,45.76,6.29,16.05,148.2,9.54,295.9,476.4
+Tomato (Cooked),Vegetables,Veg,100g,397.9,19.53,16.4,54.28,1.58,1.95,161.8,2.02,142.7,616.3
+Cashews (Raw),Nuts & Seeds,Veg,100g,371.4,7.1,40.65,9.1,13.54,10.59,5.6,7.11,72.7,315.8
+Brown Rice (Dry Roasted),Grains & Cereals,Veg,100g,280.3,19.02,9.58,19.49,9.75,5.89,101.9,0.98,227.0,528.3
+Wheat (Dry Roasted),Grains & Cereals,Veg,100g,100.8,24.93,35.48,30.27,1.24,5.57,150.0,4.97,63.8,629.1
+Fenugreek Leaves (Dry Roasted),Vegetables,Veg,100g,87.2,10.66,56.37,13.3,6.77,8.43,35.4,2.17,298.9,332.6
+Peanuts (Roasted),Nuts & Seeds,Veg,100g,464.7,17.96,65.72,47.07,9.91,15.41,44.6,4.63,128.2,219.0
+Pear (Dry Roasted),Fruits,Veg,100g,564.1,20.5,6.15,29.62,0.54,14.61,135.6,6.85,40.6,537.9
+Chicken Thigh (Grilled),Meat & Eggs,Non-Veg,100g,571.0,19.07,34.55,44.07,14.44,9.91,28.4,9.21,252.5,527.8
+Brown Rice (Fried),Grains & Cereals,Veg,100g,170.6,11.8,38.05,32.04,0.41,13.8,281.3,4.92,92.1,227.7
+Barley (Grilled),Grains & Cereals,Veg,100g,203.2,29.55,60.19,24.33,14.68,2.85,243.8,5.24,161.6,196.0
+Prawns (Fried),Meat & Eggs,Non-Veg,100g,425.3,33.61,35.63,18.99,7.37,6.03,117.5,6.02,293.8,58.6
+Chicken Breast (Cooked),Meat & Eggs,Non-Veg,100g,468.0,34.57,33.33,23.06,5.73,10.84,154.1,8.45,33.0,108.7
+Pomegranate (Dry Roasted),Fruits,Veg,100g,434.9,14.57,40.55,36.02,0.8,17.56,259.7,5.34,72.0,160.2
+Tomato (Dry Roasted),Vegetables,Veg,100g,488.0,24.61,56.56,37.76,6.7,0.77,122.3,8.06,114.2,42.3
+Butter (Grilled),Dairy,Veg,100g,527.6,13.69,65.06,40.79,11.81,11.39,163.9,8.47,252.3,161.5
+Chana Dal (Boiled),Pulses & Legumes,Veg,100g,440.6,5.01,30.17,33.96,1.88,4.74,47.2,3.84,214.2,66.3
+Ghee (Boiled),Dairy,Veg,100g,427.6,21.17,31.27,14.76,6.12,1.53,47.0,0.87,33.2,175.8
+Pistachios (Boiled),Nuts & Seeds,Veg,100g,516.0,30.67,53.41,10.06,13.84,17.94,28.7,7.65,244.4,651.4
+Potato (Fried),Vegetables,Veg,100g,388.2,30.14,72.01,50.65,3.2,11.91,135.3,7.05,127.5,263.7
+Watermelon (Fried),Fruits,Veg,100g,537.5,8.67,31.88,46.91,10.73,7.7,120.8,9.35,209.3,115.8
+Rajma (Raw),Pulses & Legumes,Veg,100g,91.9,12.69,57.44,47.93,5.42,3.6,140.0,4.21,168.0,674.2
+Cheese (Boiled),Dairy,Veg,100g,294.6,9.74,7.19,19.21,3.97,15.67,173.7,2.25,180.0,221.8
+Beetroot (Raw),Vegetables,Veg,100g,157.6,15.27,72.06,48.2,11.77,6.55,24.8,5.3,168.9,312.3
+Pear (Grilled),Fruits,Veg,100g,334.9,29.01,61.18,43.8,1.55,11.41,43.2,8.16,25.1,222.0
+Beetroot (Cooked),Vegetables,Veg,100g,254.4,7.43,28.1,30.59,6.69,6.85,240.0,3.91,258.1,446.3
+Egg Whole (Roasted),Meat & Eggs,Non-Veg,100g,329.7,32.52,21.67,11.66,1.93,0.4,66.3,9.89,163.1,266.0
+Beetroot (Dry Roasted),Vegetables,Veg,100g,564.5,24.76,21.31,16.95,11.28,0.71,87.6,4.94,40.6,191.2
+Drumstick (Grilled),Vegetables,Veg,100g,222.4,4.96,66.71,4.39,3.19,0.77,226.3,5.72,57.9,463.9
+Drumstick (Raw),Vegetables,Veg,100g,74.4,27.96,18.09,20.31,6.57,15.88,119.7,7.96,20.1,41.7
+Tomato (Grilled),Vegetables,Veg,100g,219.0,19.61,50.13,39.06,2.55,18.47,87.3,9.98,219.6,442.3
+Chicken Thigh (Raw),Meat & Eggs,Non-Veg,100g,419.5,26.46,41.96,17.08,7.15,3.5,203.9,0.06,30.6,273.0
+Green Peas (Cooked),Pulses & Legumes,Veg,100g,550.0,4.87,70.88,54.68,4.35,2.04,280.1,6.1,11.0,284.9
+Pineapple (Roasted),Fruits,Veg,100g,361.7,20.88,55.3,51.08,6.71,0.31,251.8,2.86,8.0,547.8
+Chicken Thigh (Cooked),Meat & Eggs,Non-Veg,100g,320.0,15.21,18.52,13.8,12.23,1.17,72.9,7.99,77.6,332.5
+Sesame Seeds (Fried),Nuts & Seeds,Veg,100g,53.6,18.41,63.59,45.07,8.57,12.8,275.8,8.67,65.7,210.2
+Barley (Raw),Grains & Cereals,Veg,100g,279.6,11.82,13.21,49.04,12.65,18.49,181.1,9.46,16.3,524.9
+Brinjal (Roasted),Vegetables,Veg,100g,551.6,28.8,29.65,9.73,10.62,1.01,52.8,1.0,135.7,373.0
+Bottle Gourd (Cooked),Vegetables,Veg,100g,318.5,3.19,23.36,23.63,2.43,7.21,260.2,8.05,49.9,274.1
+Egg Whole (Boiled),Meat & Eggs,Non-Veg,100g,69.6,15.95,56.39,0.02,10.67,12.38,262.0,3.62,101.5,389.5
+Guava (Cooked),Fruits,Veg,100g,289.5,12.71,43.05,47.57,2.91,19.05,168.0,7.44,81.8,585.2
+Fenugreek Leaves (Fried),Vegetables,Veg,100g,444.1,27.16,17.62,2.7,7.51,5.81,24.3,2.93,85.0,269.5
+Watermelon (Dry Roasted),Fruits,Veg,100g,146.3,17.75,32.92,40.91,0.05,17.52,281.4,0.84,223.1,629.6
+Potato (Raw),Vegetables,Veg,100g,267.6,9.45,65.9,1.23,8.85,18.57,268.9,6.58,202.8,557.6
+Toor Dal (Fried),Pulses & Legumes,Veg,100g,174.9,8.67,72.47,31.61,11.6,6.85,166.5,0.02,1.3,392.7
+Spinach (Cooked),Vegetables,Veg,100g,547.1,24.76,50.8,10.49,10.14,19.49,164.5,6.81,16.0,18.7
+Chikoo (Roasted),Fruits,Veg,100g,346.7,17.39,37.08,32.38,12.15,1.52,135.7,1.11,297.3,195.8
+Brinjal (Raw),Vegetables,Veg,100g,309.4,5.91,5.99,34.16,13.44,15.33,222.1,0.81,178.5,545.0
+Capsicum (Roasted),Vegetables,Veg,100g,555.4,5.56,52.55,36.95,11.66,10.81,245.8,2.62,118.5,587.2
+Rice (Grilled),Grains & Cereals,Veg,100g,552.7,22.46,17.52,27.44,1.32,12.69,41.3,3.41,208.3,27.6
+Mutton (Raw),Meat & Eggs,Non-Veg,100g,69.6,10.35,29.9,21.93,2.69,16.04,297.6,8.71,265.3,649.7
+Sesame Seeds (Raw),Nuts & Seeds,Veg,100g,171.8,18.49,11.63,2.0,9.24,16.85,254.3,2.88,196.1,141.7
+Masoor Dal (Grilled),Pulses & Legumes,Veg,100g,211.1,24.12,50.66,27.82,3.37,16.13,230.0,4.63,43.0,677.1
+Potato (Roasted),Vegetables,Veg,100g,387.7,1.32,18.77,10.15,0.99,7.11,63.8,7.35,203.0,447.0
+Soybeans (Grilled),Pulses & Legumes,Veg,100g,569.2,31.82,23.56,51.25,11.38,3.46,167.5,9.97,229.5,555.0
+Mango (Raw),Fruits,Veg,100g,69.9,10.34,69.37,30.7,14.76,3.52,296.8,2.72,229.0,664.3
+Almonds (Dry Roasted),Nuts & Seeds,Veg,100g,509.4,23.5,67.97,20.74,8.69,14.44,125.2,3.59,197.6,514.4
+Curd (Boiled),Dairy,Veg,100g,324.2,33.81,57.52,11.75,5.01,7.17,102.7,8.46,104.4,111.3
+Guava (Dry Roasted),Fruits,Veg,100g,580.4,23.32,17.37,38.77,8.74,7.53,93.2,5.92,11.7,48.0
+Capsicum (Dry Roasted),Vegetables,Veg,100g,506.6,8.24,40.36,9.12,9.96,16.89,214.2,2.02,106.6,513.7
+Kabuli Chana (Roasted),Pulses & Legumes,Veg,100g,140.2,30.18,61.28,43.36,6.49,2.94,65.5,2.51,68.9,671.1
+Pear (Steamed),Fruits,Veg,100g,110.5,21.3,43.38,18.56,7.87,13.57,73.8,3.1,249.8,474.3
+Curd (Raw),Dairy,Veg,100g,455.2,22.94,40.26,51.33,0.49,16.61,160.0,0.38,205.5,36.2
+Cashews (Steamed),Nuts & Seeds,Veg,100g,365.5,11.01,2.56,31.16,10.16,19.07,284.6,5.37,243.4,309.1
+Kabuli Chana (Dry Roasted),Pulses & Legumes,Veg,100g,273.5,8.32,74.1,28.52,5.56,8.27,79.8,6.9,220.3,622.8
+Chicken Breast (Dry Roasted),Meat & Eggs,Non-Veg,100g,342.5,7.05,2.37,27.22,2.48,2.6,169.9,0.45,24.6,623.1
+Bottle Gourd (Fried),Vegetables,Veg,100g,97.6,1.65,8.66,18.52,8.69,1.32,295.2,8.83,238.8,383.2
+Ridge Gourd (Dry Roasted),Vegetables,Veg,100g,465.1,5.87,28.7,20.18,5.77,9.05,33.8,1.8,234.8,312.1
+Guava (Raw),Fruits,Veg,100g,432.4,10.94,40.08,19.71,12.46,5.61,194.2,5.19,192.2,580.5
+Paneer (Dry Roasted),Dairy,Veg,100g,422.6,10.45,38.64,11.69,1.88,18.78,223.8,5.89,29.7,569.2
+Toor Dal (Raw),Pulses & Legumes,Veg,100g,347.9,31.8,34.9,42.8,14.21,11.66,180.9,3.07,210.4,582.2
+Prawns (Cooked),Meat & Eggs,Non-Veg,100g,391.1,33.59,41.75,31.1,8.54,4.26,171.8,3.2,229.7,605.8
+Spinach (Boiled),Vegetables,Veg,100g,134.4,13.03,40.63,44.48,14.02,9.33,221.1,4.45,240.3,127.0
+Chana Dal (Dry Roasted),Pulses & Legumes,Veg,100g,188.0,34.4,8.83,21.48,0.35,13.58,218.4,6.53,164.1,332.1
+Cashews (Dry Roasted),Nuts & Seeds,Veg,100g,153.5,19.36,46.06,7.34,4.16,0.06,153.0,3.33,177.8,633.6
+Rice (Cooked),Grains & Cereals,Veg,100g,344.7,27.68,25.69,48.47,6.45,11.41,49.8,4.72,120.4,269.9
+Peanuts (Boiled),Nuts & Seeds,Veg,100g,521.9,5.81,6.87,5.35,10.45,4.71,260.7,3.78,90.2,471.2
+Moong Dal (Boiled),Pulses & Legumes,Veg,100g,242.2,34.22,19.16,7.25,4.76,13.57,253.1,1.13,97.4,222.5
+Beetroot (Steamed),Vegetables,Veg,100g,576.2,22.88,72.65,54.5,8.79,18.68,277.4,4.89,127.2,87.3
+Flax Seeds (Steamed),Nuts & Seeds,Veg,100g,88.8,2.5,14.73,4.54,3.33,12.02,6.4,6.87,179.5,183.9
+Ridge Gourd (Fried),Vegetables,Veg,100g,88.3,29.4,41.73,0.67,0.86,15.08,127.2,8.67,182.8,542.4
+Almonds (Raw),Nuts & Seeds,Veg,100g,186.1,21.11,51.5,43.32,8.05,5.92,102.6,0.02,102.0,680.4
+Mango (Roasted),Fruits,Veg,100g,543.3,26.36,5.02,46.01,6.18,0.71,185.7,8.55,144.1,161.2
+Rajma (Dry Roasted),Pulses & Legumes,Veg,100g,364.4,7.31,35.56,11.64,11.47,7.83,25.3,8.89,173.9,551.7
+Fenugreek Leaves (Grilled),Vegetables,Veg,100g,234.1,8.89,70.75,41.61,4.19,19.37,92.7,9.76,126.0,338.1
+Black Chana (Cooked),Pulses & Legumes,Veg,100g,428.7,12.79,63.28,52.49,3.44,15.52,180.8,0.44,153.0,328.2
+Moong Dal (Cooked),Pulses & Legumes,Veg,100g,170.6,19.85,22.43,25.22,5.42,7.84,277.6,8.09,206.5,310.3
+Banana (Roasted),Fruits,Veg,100g,322.9,23.9,55.73,53.57,6.83,11.45,155.5,8.34,244.9,230.1
+Peanuts (Fried),Nuts & Seeds,Veg,100g,275.9,13.98,60.88,37.16,3.12,19.67,137.0,8.14,221.2,58.3
+Ridge Gourd (Steamed),Vegetables,Veg,100g,261.3,7.14,50.42,33.2,11.19,13.34,40.0,9.45,22.0,546.9
+Green Peas (Dry Roasted),Pulses & Legumes,Veg,100g,402.8,5.41,55.1,19.65,8.31,17.64,273.3,6.08,291.4,269.6
+Pumpkin Seeds (Fried),Nuts & Seeds,Veg,100g,219.1,34.76,63.85,26.03,5.55,14.08,281.7,4.78,131.3,80.1
+Chana Dal (Raw),Pulses & Legumes,Veg,100g,34.1,25.54,63.11,53.02,3.34,9.85,165.6,5.88,280.2,590.4
+Fish Salmon (Raw),Meat & Eggs,Non-Veg,100g,202.7,27.26,38.12,2.24,8.82,7.96,91.6,4.75,237.9,342.5
+Fish Salmon (Fried),Meat & Eggs,Non-Veg,100g,62.1,27.66,74.12,13.8,13.84,2.09,152.7,4.9,225.2,685.2
+Urad Dal (Cooked),Pulses & Legumes,Veg,100g,193.7,34.93,70.89,13.2,9.23,0.84,195.8,7.85,273.3,298.7
+Ghee (Roasted),Dairy,Veg,100g,566.4,18.18,38.69,39.06,1.05,18.03,40.5,7.33,261.3,168.6
+Sweet Potato (Boiled),Vegetables,Veg,100g,41.8,28.75,64.48,16.17,14.77,1.04,226.8,6.71,187.6,93.4
+Cauliflower (Boiled),Vegetables,Veg,100g,186.0,28.27,64.16,16.6,2.61,2.6,209.8,3.9,53.7,258.9
+Flax Seeds (Raw),Nuts & Seeds,Veg,100g,499.5,23.87,32.5,22.34,12.77,6.91,147.6,0.05,193.9,52.6
+Drumstick (Cooked),Vegetables,Veg,100g,402.1,13.27,0.35,41.07,9.78,16.23,191.6,0.94,240.0,98.4
+Black Chana (Steamed),Pulses & Legumes,Veg,100g,177.3,2.31,8.71,14.8,8.38,15.47,232.2,9.79,40.9,472.1
+Quinoa (Raw),Grains & Cereals,Veg,100g,482.7,19.72,59.77,43.15,1.8,6.87,167.8,5.25,9.5,533.6
+Barley (Dry Roasted),Grains & Cereals,Veg,100g,545.1,7.85,10.28,19.45,3.76,14.05,282.6,5.76,42.9,449.6
+Ghee (Steamed),Dairy,Veg,100g,168.8,22.79,28.29,14.4,1.77,10.11,210.0,8.02,257.3,591.4
+Buttermilk (Fried),Dairy,Veg,100g,305.8,22.35,43.99,9.13,6.86,6.07,143.0,8.0,110.0,456.0
+Moong Dal (Steamed),Pulses & Legumes,Veg,100g,485.5,13.32,48.15,6.54,7.3,15.52,187.3,2.45,147.0,663.4
+Chana Dal (Cooked),Pulses & Legumes,Veg,100g,187.7,3.82,10.37,14.53,11.35,9.88,169.7,2.88,213.5,218.6
+Prawns (Steamed),Meat & Eggs,Non-Veg,100g,294.5,11.77,68.21,52.86,14.08,19.38,211.9,1.12,75.8,422.7
+Chikoo (Dry Roasted),Fruits,Veg,100g,386.3,1.0,1.73,46.04,13.57,9.63,64.6,8.08,261.8,189.7
+Brown Rice (Grilled),Grains & Cereals,Veg,100g,69.9,13.58,12.0,53.89,13.79,11.24,60.9,5.1,298.2,643.3
+Muskmelon (Fried),Fruits,Veg,100g,375.7,12.88,4.08,32.31,3.32,11.66,143.1,0.22,127.9,548.2
+Orange (Steamed),Fruits,Veg,100g,176.0,13.59,68.22,34.34,12.69,14.03,97.9,1.31,213.9,528.6
+Masoor Dal (Steamed),Pulses & Legumes,Veg,100g,45.2,8.86,64.33,7.75,11.59,12.2,25.9,9.0,295.9,670.1
+Buttermilk (Raw),Dairy,Veg,100g,72.5,26.58,16.75,45.84,3.21,10.74,13.7,1.27,43.6,297.8
+Walnuts (Fried),Nuts & Seeds,Veg,100g,289.9,4.31,51.52,10.37,11.39,17.81,208.8,3.87,41.1,25.3
+Capsicum (Grilled),Vegetables,Veg,100g,224.7,32.57,32.74,2.89,11.59,11.39,232.5,4.89,276.8,23.9
+Chicken Thigh (Boiled),Meat & Eggs,Non-Veg,100g,493.9,14.09,46.49,17.43,2.25,18.88,217.5,8.81,118.3,526.4
+Rajma (Boiled),Pulses & Legumes,Veg,100g,317.9,9.57,25.18,31.84,5.51,14.95,109.6,3.92,48.9,512.4
+Apple (Boiled),Fruits,Veg,100g,390.8,17.04,25.66,3.19,8.94,11.67,62.4,1.17,62.2,482.8
+Kabuli Chana (Boiled),Pulses & Legumes,Veg,100g,539.2,21.94,26.8,34.52,10.02,10.63,206.6,2.93,285.5,275.2
+Basmati Rice (Raw),Grains & Cereals,Veg,100g,423.3,15.07,45.74,37.56,3.09,1.35,211.2,2.91,5.2,629.9
+Pumpkin (Fried),Vegetables,Veg,100g,207.0,0.85,35.34,15.21,6.19,7.77,18.3,9.24,109.8,35.5
+Cauliflower (Dry Roasted),Vegetables,Veg,100g,32.8,33.59,2.29,19.89,9.79,18.91,64.3,9.63,160.1,268.4
+Papaya (Roasted),Fruits,Veg,100g,221.4,20.02,38.8,13.46,3.0,15.03,144.3,2.12,27.1,595.6
+Papaya (Raw),Fruits,Veg,100g,33.7,33.31,74.52,53.44,9.01,3.05,156.7,8.5,176.9,238.4
+Carrot (Boiled),Vegetables,Veg,100g,312.8,13.72,52.26,21.29,5.9,9.53,13.4,7.55,103.3,132.2
+Oats (Raw),Grains & Cereals,Veg,100g,314.7,17.82,4.38,54.85,5.38,6.78,9.3,9.03,153.2,296.6
+Mutton (Roasted),Meat & Eggs,Non-Veg,100g,410.8,26.38,2.44,8.38,5.05,0.88,60.8,4.52,237.4,557.6
+Almonds (Steamed),Nuts & Seeds,Veg,100g,307.7,29.12,36.42,25.94,10.99,8.73,81.3,9.66,175.0,519.9
+Cheese (Cooked),Dairy,Veg,100g,169.7,14.89,3.63,51.34,7.3,8.73,157.1,2.63,62.2,459.2
+Egg Whole (Fried),Meat & Eggs,Non-Veg,100g,68.7,6.21,70.12,30.75,5.29,16.57,259.1,9.81,280.6,248.3
+Flax Seeds (Cooked),Nuts & Seeds,Veg,100g,540.2,30.96,69.48,26.97,10.84,11.82,25.7,1.59,220.6,92.5
+Jowar (Raw),Grains & Cereals,Veg,100g,118.6,11.34,14.68,50.56,12.96,18.51,123.2,7.7,239.3,81.9
+Quinoa (Dry Roasted),Grains & Cereals,Veg,100g,428.3,23.39,48.18,47.89,10.1,2.93,114.8,3.14,197.4,101.3
+Pomegranate (Fried),Fruits,Veg,100g,516.8,2.39,16.54,46.03,11.42,12.67,58.4,6.57,184.1,631.5
+Chicken Thigh (Steamed),Meat & Eggs,Non-Veg,100g,202.4,28.41,68.62,35.48,2.06,13.49,52.4,9.4,214.5,281.0
+Almonds (Fried),Nuts & Seeds,Veg,100g,253.5,23.03,21.52,39.35,3.46,1.9,195.6,3.13,104.0,572.6
+Ragi (Dry Roasted),Grains & Cereals,Veg,100g,45.8,32.86,18.28,1.17,10.52,16.1,75.3,2.58,160.2,614.3
+Spinach (Raw),Vegetables,Veg,100g,354.4,5.58,74.41,24.52,12.37,18.24,193.6,0.11,89.8,30.0
+Soybeans (Raw),Pulses & Legumes,Veg,100g,239.3,10.61,70.94,35.58,11.94,10.29,271.8,2.06,78.5,109.1
+Chia Seeds (Raw),Nuts & Seeds,Veg,100g,472.0,9.05,65.6,40.3,10.54,10.95,274.2,7.21,257.2,664.5
+Sesame Seeds (Roasted),Nuts & Seeds,Veg,100g,240.8,34.02,56.56,47.34,9.8,16.94,88.8,8.56,62.6,398.8
+Brinjal (Steamed),Vegetables,Veg,100g,584.5,28.87,0.21,44.49,6.6,2.49,280.3,8.19,30.7,597.7
+Basmati Rice (Boiled),Grains & Cereals,Veg,100g,238.8,8.58,20.71,11.7,12.97,18.52,216.1,5.58,53.9,610.9
+Sweet Potato (Roasted),Vegetables,Veg,100g,480.1,8.29,27.72,32.55,7.02,3.18,192.2,3.0,78.9,195.9
+Pomegranate (Boiled),Fruits,Veg,100g,333.0,24.48,54.06,25.07,8.79,1.35,245.1,5.25,161.7,395.6
+Pear (Roasted),Fruits,Veg,100g,358.2,20.7,6.38,31.05,0.03,4.87,55.3,7.82,221.6,607.9
+Flax Seeds (Boiled),Nuts & Seeds,Veg,100g,212.8,8.41,31.26,42.68,0.46,11.46,64.8,6.35,182.5,334.9
+Muskmelon (Roasted),Fruits,Veg,100g,208.6,28.76,69.33,33.25,10.01,17.47,228.2,4.78,224.2,224.2
+Pomegranate (Roasted),Fruits,Veg,100g,485.5,21.26,18.24,45.88,4.77,5.97,194.6,6.19,56.1,691.4
+Onion (Grilled),Vegetables,Veg,100g,550.1,18.01,63.43,26.98,14.22,4.23,160.1,6.15,50.0,147.0
+Urad Dal (Roasted),Pulses & Legumes,Veg,100g,443.7,14.83,42.86,33.58,3.11,6.68,64.1,9.48,152.6,680.2
+Papaya (Grilled),Fruits,Veg,100g,531.7,26.75,16.74,52.88,11.79,16.4,62.8,7.68,272.7,614.4
+Foxtail Millet (Dry Roasted),Grains & Cereals,Veg,100g,107.8,13.66,45.43,53.77,9.93,4.6,193.8,2.02,62.4,599.1
+Barley (Roasted),Grains & Cereals,Veg,100g,60.1,9.46,52.34,53.98,2.13,18.96,297.5,5.05,164.7,561.3
+Chicken Breast (Steamed),Meat & Eggs,Non-Veg,100g,442.8,22.31,17.21,42.19,12.76,14.14,218.1,5.98,31.3,435.1
+Pistachios (Cooked),Nuts & Seeds,Veg,100g,400.8,7.64,52.03,21.17,13.06,13.01,179.4,6.94,281.0,121.4
+Prawns (Dry Roasted),Meat & Eggs,Non-Veg,100g,481.7,16.74,2.03,26.68,11.11,5.11,245.7,5.98,84.0,441.1
+Pineapple (Dry Roasted),Fruits,Veg,100g,181.8,2.94,13.6,33.44,12.02,7.13,132.3,4.57,271.5,55.5
+Bottle Gourd (Boiled),Vegetables,Veg,100g,434.4,11.47,23.88,7.42,5.27,5.68,33.8,7.72,14.8,168.8
+Toor Dal (Grilled),Pulses & Legumes,Veg,100g,271.8,29.95,56.67,30.86,5.94,11.51,35.7,0.5,121.8,656.2
+Walnuts (Grilled),Nuts & Seeds,Veg,100g,456.5,8.09,57.6,2.74,14.62,3.4,97.1,9.98,192.4,206.7
+Wheat (Boiled),Grains & Cereals,Veg,100g,426.7,19.46,8.15,24.37,5.66,15.55,181.7,8.63,75.5,364.2
+Egg White (Dry Roasted),Meat & Eggs,Non-Veg,100g,348.9,4.25,40.56,12.3,1.67,5.63,116.1,5.74,167.1,133.7
+Orange (Raw),Fruits,Veg,100g,356.4,23.94,59.03,44.64,9.0,8.11,226.9,1.83,185.0,279.6
+Urad Dal (Fried),Pulses & Legumes,Veg,100g,468.6,28.3,53.45,34.7,5.33,10.8,94.6,5.39,292.2,573.3
+Pumpkin (Grilled),Vegetables,Veg,100g,584.2,28.17,33.68,14.01,10.58,19.7,4.6,0.75,110.6,583.6
+Brown Rice (Cooked),Grains & Cereals,Veg,100g,79.1,18.88,23.06,51.07,12.22,14.99,279.7,3.76,145.2,332.5
+Apple (Steamed),Fruits,Veg,100g,63.8,5.43,5.8,35.46,8.83,2.89,224.0,6.13,175.5,441.2
+Sunflower Seeds (Roasted),Nuts & Seeds,Veg,100g,529.1,25.83,65.85,14.01,13.7,3.5,291.3,7.33,182.3,498.6
+Muskmelon (Steamed),Fruits,Veg,100g,233.0,9.63,36.58,40.32,0.79,17.14,121.9,6.26,11.5,486.4
+Chana Dal (Roasted),Pulses & Legumes,Veg,100g,419.5,22.25,7.72,50.34,13.24,16.82,294.2,5.88,120.2,185.2
+Rice (Raw),Grains & Cereals,Veg,100g,168.8,1.89,41.83,8.1,11.99,13.87,61.5,6.78,142.6,599.3
+Fish Rohu (Cooked),Meat & Eggs,Non-Veg,100g,158.2,15.51,34.76,33.61,8.81,15.98,231.2,3.64,121.8,584.4
+Peanuts (Dry Roasted),Nuts & Seeds,Veg,100g,328.9,13.74,29.88,54.39,8.89,17.71,215.5,3.39,278.2,645.5
+Pumpkin (Raw),Vegetables,Veg,100g,192.7,30.59,11.02,22.27,12.98,14.72,181.3,5.02,199.8,569.4
+Chicken Thigh (Fried),Meat & Eggs,Non-Veg,100g,45.8,3.65,44.47,21.52,14.18,15.94,10.1,2.18,157.9,53.2
+Brown Rice (Steamed),Grains & Cereals,Veg,100g,386.0,18.46,49.77,44.76,5.24,9.36,107.0,9.3,218.6,119.5
+Milk (Fried),Dairy,Veg,100g,417.6,12.07,51.7,20.8,3.84,19.77,210.3,6.57,166.4,150.0
+Prawns (Grilled),Meat & Eggs,Non-Veg,100g,500.4,8.6,20.81,39.22,11.25,7.04,138.0,5.44,209.1,572.4
+Quinoa (Steamed),Grains & Cereals,Veg,100g,420.1,16.23,55.65,32.3,11.35,10.8,72.5,9.7,284.2,241.1
+Sweet Potato (Grilled),Vegetables,Veg,100g,560.2,14.92,3.33,52.73,3.73,13.51,66.9,2.53,272.3,471.9
+Brown Rice (Roasted),Grains & Cereals,Veg,100g,294.4,16.48,49.32,30.24,14.62,15.94,264.2,6.35,3.8,427.9
+Spinach (Roasted),Vegetables,Veg,100g,555.2,13.47,48.47,29.42,0.03,8.21,241.6,2.7,80.8,427.9
+Buttermilk (Grilled),Dairy,Veg,100g,138.9,1.01,8.79,26.1,4.22,11.05,292.9,1.56,91.8,189.6
+Pumpkin Seeds (Cooked),Nuts & Seeds,Veg,100g,312.5,4.49,50.8,51.4,12.94,4.32,298.5,9.87,30.8,440.5
+Buttermilk (Roasted),Dairy,Veg,100g,172.7,34.66,32.81,13.97,0.42,11.09,160.9,6.54,192.9,232.7
+Quinoa (Roasted),Grains & Cereals,Veg,100g,475.0,21.58,42.0,33.82,6.18,18.64,145.1,4.04,145.3,493.2
+Guava (Roasted),Fruits,Veg,100g,449.3,6.17,16.03,27.62,11.52,0.11,143.1,6.91,176.3,570.4
+Tomato (Roasted),Vegetables,Veg,100g,561.6,6.08,34.13,34.87,2.02,17.96,1.6,9.25,64.2,505.4
+Bajra (Dry Roasted),Grains & Cereals,Veg,100g,366.5,8.81,60.35,8.14,6.86,4.48,134.8,3.22,279.7,392.7
+Spinach (Steamed),Vegetables,Veg,100g,60.5,18.71,42.62,30.94,1.41,15.4,97.9,2.66,146.9,409.4
+Papaya (Dry Roasted),Fruits,Veg,100g,214.5,23.02,34.06,16.56,0.11,9.76,151.0,7.33,150.5,75.7
+Chicken Thigh (Roasted),Meat & Eggs,Non-Veg,100g,91.3,14.82,52.51,13.01,3.7,15.43,32.7,3.46,169.8,400.6
+Oats (Fried),Grains & Cereals,Veg,100g,38.0,34.55,43.38,13.22,7.27,19.13,216.1,9.79,122.5,431.1
+Sunflower Seeds (Boiled),Nuts & Seeds,Veg,100g,226.2,3.99,18.29,49.5,3.3,14.73,174.8,2.86,296.6,419.2
+Apple (Cooked),Fruits,Veg,100g,490.7,21.76,21.54,47.44,8.03,19.96,203.2,0.45,28.0,587.2
+Watermelon (Boiled),Fruits,Veg,100g,125.8,10.49,45.75,28.32,13.88,13.59,81.9,0.62,39.8,538.2
+Red Rice (Fried),Grains & Cereals,Veg,100g,306.5,12.39,61.86,5.11,4.55,0.05,222.3,0.35,71.8,164.0
+Carrot (Grilled),Vegetables,Veg,100g,188.0,29.11,27.86,32.73,9.11,12.04,131.6,2.58,110.3,179.8
+Little Millet (Grilled),Grains & Cereals,Veg,100g,157.8,4.4,40.62,28.46,6.41,7.98,105.4,1.77,273.2,562.3
+Cabbage (Roasted),Vegetables,Veg,100g,52.5,20.24,59.98,32.61,7.61,1.92,169.8,6.43,6.1,555.0
+Brinjal (Boiled),Vegetables,Veg,100g,474.4,32.81,51.87,10.25,9.41,0.51,260.6,5.23,138.5,358.5
+Cashews (Roasted),Nuts & Seeds,Veg,100g,519.5,23.3,42.3,38.06,4.5,11.35,180.4,9.97,79.4,186.2
+Green Peas (Boiled),Pulses & Legumes,Veg,100g,155.8,6.15,30.21,53.59,5.29,9.33,217.5,2.54,174.0,274.5
+Walnuts (Cooked),Nuts & Seeds,Veg,100g,457.2,32.8,40.97,13.21,12.35,12.96,240.1,0.71,169.9,348.7
+Butter (Boiled),Dairy,Veg,100g,306.2,31.07,3.15,40.42,5.64,14.44,38.4,2.41,31.2,296.6
+Drumstick (Fried),Vegetables,Veg,100g,388.1,28.12,39.13,53.39,13.11,13.8,198.6,4.75,191.7,77.4
+Orange (Grilled),Fruits,Veg,100g,427.4,19.18,17.53,24.82,4.42,14.47,166.5,5.1,74.7,450.3
+Pomegranate (Steamed),Fruits,Veg,100g,291.1,9.66,31.43,3.08,6.17,10.21,285.9,6.47,9.8,619.2
+Wheat (Roasted),Grains & Cereals,Veg,100g,93.2,5.78,20.34,18.73,5.35,6.16,145.2,6.44,87.9,299.2
+Barley (Steamed),Grains & Cereals,Veg,100g,33.6,29.24,1.24,29.72,3.57,1.38,47.9,3.13,250.0,152.0
+Flax Seeds (Grilled),Nuts & Seeds,Veg,100g,570.5,34.68,14.58,3.09,4.67,18.67,89.4,3.31,12.9,625.6
+Chana Dal (Steamed),Pulses & Legumes,Veg,100g,349.3,4.74,21.11,16.51,9.89,5.86,57.5,9.14,156.6,658.0
+Oats (Cooked),Grains & Cereals,Veg,100g,491.1,11.57,22.72,37.21,12.26,19.64,193.8,8.45,4.3,140.4
+Prawns (Boiled),Meat & Eggs,Non-Veg,100g,411.0,22.46,0.97,2.99,10.39,15.02,44.0,8.02,282.9,370.7
+Quinoa (Grilled),Grains & Cereals,Veg,100g,400.9,22.88,64.89,31.94,4.86,6.97,14.5,7.48,197.0,95.2
+Paneer (Fried),Dairy,Veg,100g,583.6,4.16,71.71,43.8,10.26,12.4,272.5,9.15,213.3,161.7
+Chicken Breast (Boiled),Meat & Eggs,Non-Veg,100g,589.8,2.04,47.18,35.95,9.99,16.2,79.7,7.76,284.4,684.6
+Pineapple (Fried),Fruits,Veg,100g,215.3,3.55,5.75,46.45,8.13,14.14,271.7,4.7,184.1,669.4
+Paneer (Grilled),Dairy,Veg,100g,110.4,8.15,28.06,45.67,0.31,17.79,148.3,5.2,30.3,578.3
+Fish Rohu (Boiled),Meat & Eggs,Non-Veg,100g,480.7,27.35,63.53,4.62,2.48,7.72,173.3,3.89,223.9,301.4
+Chicken Breast (Fried),Meat & Eggs,Non-Veg,100g,372.8,19.52,74.47,2.09,1.05,6.96,140.9,3.23,247.3,417.5
+Soybeans (Steamed),Pulses & Legumes,Veg,100g,304.9,23.13,39.96,39.53,5.47,9.71,90.6,3.36,25.2,410.8
+Ragi (Cooked),Grains & Cereals,Veg,100g,540.9,4.79,33.98,34.18,3.72,0.29,149.9,6.21,249.3,364.3
+Chicken Breast (Raw),Meat & Eggs,Non-Veg,100g,478.1,30.2,21.73,17.49,3.98,0.75,201.9,7.71,239.1,98.3
+Quinoa (Fried),Grains & Cereals,Veg,100g,305.1,22.15,24.29,12.72,11.66,1.02,236.3,0.71,58.2,229.4
+Orange (Dry Roasted),Fruits,Veg,100g,537.8,31.93,61.19,24.33,13.16,11.51,192.8,1.14,91.2,657.4
+Watermelon (Steamed),Fruits,Veg,100g,455.8,25.3,73.32,4.14,1.47,6.16,187.0,6.87,253.7,121.8
+Moong Dal (Dry Roasted),Pulses & Legumes,Veg,100g,51.3,29.05,21.92,23.06,7.59,9.41,134.6,8.61,91.0,385.1
+Mutton (Cooked),Meat & Eggs,Non-Veg,100g,399.8,1.61,21.75,27.43,13.31,17.82,113.2,8.09,139.2,189.4
+Paneer (Roasted),Dairy,Veg,100g,353.9,2.16,46.82,36.57,10.73,12.67,63.3,1.75,20.7,208.7
+Toor Dal (Cooked),Pulses & Legumes,Veg,100g,335.4,30.4,12.42,42.87,8.3,11.89,121.2,2.51,294.2,320.2
+Pineapple (Raw),Fruits,Veg,100g,419.0,12.92,26.74,10.48,8.51,14.36,8.4,2.11,184.9,79.1
+Watermelon (Cooked),Fruits,Veg,100g,551.1,33.69,13.09,25.7,0.93,19.72,5.2,8.97,103.1,50.5
+Flax Seeds (Roasted),Nuts & Seeds,Veg,100g,498.1,10.21,65.75,45.02,8.76,15.28,219.3,9.61,235.9,127.0
+Jowar (Cooked),Grains & Cereals,Veg,100g,37.3,15.91,60.19,6.34,10.75,12.85,11.7,6.22,48.1,398.2
+Chia Seeds (Cooked),Nuts & Seeds,Veg,100g,233.9,14.63,30.64,40.3,11.47,3.66,124.7,2.51,245.4,450.0
+Apple (Raw),Fruits,Veg,100g,479.8,29.55,64.84,16.29,1.66,16.94,60.1,1.45,270.8,187.6
+Rajma (Roasted),Pulses & Legumes,Veg,100g,134.9,22.67,64.26,17.82,7.76,4.45,267.7,5.45,87.4,693.0
+Butter (Fried),Dairy,Veg,100g,588.0,14.54,46.43,32.59,3.1,19.39,170.2,0.94,191.9,12.3
+Basmati Rice (Dry Roasted),Grains & Cereals,Veg,100g,370.7,11.19,71.57,16.36,9.05,5.33,186.3,9.59,132.7,93.6
+Little Millet (Raw),Grains & Cereals,Veg,100g,252.1,7.02,29.95,41.06,2.4,18.37,101.6,2.15,69.9,514.8
+Jowar (Steamed),Grains & Cereals,Veg,100g,426.9,9.14,54.68,10.73,2.55,11.88,13.1,7.04,26.8,497.9
+Milk (Steamed),Dairy,Veg,100g,372.4,33.31,70.21,31.27,8.15,10.79,154.8,7.89,177.7,48.7
+Egg Whole (Cooked),Meat & Eggs,Non-Veg,100g,449.0,27.09,12.84,47.58,12.6,4.14,146.2,1.46,38.3,137.9
+Apple (Fried),Fruits,Veg,100g,526.2,34.44,34.25,53.06,4.81,0.18,15.8,8.76,267.4,383.9
+Beetroot (Roasted),Vegetables,Veg,100g,443.0,4.39,1.72,23.59,9.32,6.61,266.8,7.06,193.7,90.3
+Masoor Dal (Roasted),Pulses & Legumes,Veg,100g,397.7,7.6,42.07,8.91,11.89,3.29,291.6,7.4,160.6,465.4
+Banana (Steamed),Fruits,Veg,100g,565.0,3.54,30.25,51.99,0.36,18.33,298.4,5.2,20.9,348.9
+Rice (Roasted),Grains & Cereals,Veg,100g,431.6,1.04,68.86,30.18,4.75,17.49,80.4,9.56,153.4,459.1
+Pineapple (Steamed),Fruits,Veg,100g,63.0,29.44,60.64,48.6,2.02,16.29,185.1,2.15,105.9,237.2
+Black Chana (Dry Roasted),Pulses & Legumes,Veg,100g,166.0,10.42,41.78,29.14,9.02,11.31,266.0,1.1,256.2,516.4
+Sunflower Seeds (Steamed),Nuts & Seeds,Veg,100g,161.0,18.56,36.7,18.81,12.95,10.59,233.2,1.2,219.7,547.4
+Butter (Steamed),Dairy,Veg,100g,43.4,12.4,25.04,35.98,7.97,12.35,52.2,9.95,197.3,190.0
+Sweet Potato (Dry Roasted),Vegetables,Veg,100g,514.4,30.26,63.39,45.65,1.38,18.87,252.6,6.05,294.1,162.1
+Sunflower Seeds (Grilled),Nuts & Seeds,Veg,100g,316.6,10.8,19.16,12.11,12.58,6.67,64.6,0.96,63.6,380.4
+Drumstick (Roasted),Vegetables,Veg,100g,68.2,12.99,7.29,12.84,4.52,15.63,32.2,2.24,243.8,289.2
+Cabbage (Grilled),Vegetables,Veg,100g,492.3,20.37,12.94,27.19,7.35,18.66,6.7,5.2,152.3,312.0
+Basmati Rice (Fried),Grains & Cereals,Veg,100g,520.4,20.14,21.02,29.81,4.16,3.33,48.6,1.02,9.6,329.1
+Moong Dal (Raw),Pulses & Legumes,Veg,100g,486.7,8.4,1.77,19.34,7.3,15.59,278.2,5.63,24.5,262.7
+Rice (Fried),Grains & Cereals,Veg,100g,173.1,22.17,51.08,10.03,14.07,17.92,117.2,3.6,282.0,563.6
+Capsicum (Steamed),Vegetables,Veg,100g,399.3,28.05,50.54,52.41,13.88,18.9,55.2,8.41,299.7,275.9
+Egg Whole (Dry Roasted),Meat & Eggs,Non-Veg,100g,172.8,9.87,40.62,35.9,6.13,0.12,113.3,0.11,293.2,150.5
+Toor Dal (Steamed),Pulses & Legumes,Veg,100g,444.7,10.44,40.04,45.35,13.89,4.08,133.2,3.0,295.8,655.5
+Foxtail Millet (Cooked),Grains & Cereals,Veg,100g,480.5,2.95,2.58,8.09,14.5,14.72,143.0,4.84,240.1,175.3
+Chicken Thigh (Dry Roasted),Meat & Eggs,Non-Veg,100g,389.4,18.93,5.91,20.78,1.8,15.86,147.4,7.71,209.3,571.1
+Bajra (Boiled),Grains & Cereals,Veg,100g,186.6,12.97,52.62,29.75,12.73,12.9,291.9,4.85,117.5,596.9
+Kabuli Chana (Grilled),Pulses & Legumes,Veg,100g,244.9,33.56,6.63,38.63,5.07,13.47,109.9,7.34,279.2,584.0
+Chicken Breast (Roasted),Meat & Eggs,Non-Veg,100g,423.2,30.93,37.93,26.41,14.8,16.21,136.2,5.04,245.4,216.7
+Chicken Breast (Grilled),Meat & Eggs,Non-Veg,100g,594.0,32.94,54.66,25.7,2.97,11.31,76.1,4.01,136.8,559.9
+Moong Dal (Fried),Pulses & Legumes,Veg,100g,241.0,30.28,33.66,48.87,6.23,14.51,279.5,5.49,121.6,636.0
+Papaya (Boiled),Fruits,Veg,100g,245.1,13.81,9.29,14.65,0.9,14.51,225.8,3.01,39.5,193.2
+Cauliflower (Roasted),Vegetables,Veg,100g,200.4,34.58,56.93,23.97,1.77,8.59,112.9,4.38,6.9,652.0
+Sweet Potato (Raw),Vegetables,Veg,100g,448.7,34.53,1.54,29.41,14.66,17.87,3.1,2.66,213.9,678.7
+Little Millet (Fried),Grains & Cereals,Veg,100g,395.8,12.45,13.72,2.35,2.79,5.57,107.0,3.37,166.9,83.1
+Carrot (Dry Roasted),Vegetables,Veg,100g,378.5,28.18,40.14,19.19,5.99,16.17,8.1,9.07,134.0,351.0
+Ragi (Fried),Grains & Cereals,Veg,100g,32.7,28.89,63.23,32.56,12.3,19.8,108.5,4.27,117.1,89.5
+Black Chana (Fried),Pulses & Legumes,Veg,100g,264.0,1.12,1.61,36.92,5.19,2.81,24.0,8.12,214.7,239.1
+Fish Rohu (Dry Roasted),Meat & Eggs,Non-Veg,100g,508.9,20.58,66.89,17.56,1.91,6.43,151.1,6.73,94.6,471.6
+Carrot (Steamed),Vegetables,Veg,100g,574.1,1.93,31.71,6.81,4.02,1.32,215.0,8.9,251.7,104.8
+Sunflower Seeds (Fried),Nuts & Seeds,Veg,100g,580.5,11.58,43.39,8.71,0.63,6.27,34.2,4.71,185.0,437.7
+Fenugreek Leaves (Raw),Vegetables,Veg,100g,338.0,0.76,16.83,13.94,11.65,14.12,176.6,7.15,273.5,257.4
+Pumpkin (Cooked),Vegetables,Veg,100g,246.5,18.82,18.95,25.33,1.01,7.73,15.4,9.59,77.0,101.9
+Beetroot (Fried),Vegetables,Veg,100g,471.6,21.34,44.12,9.74,3.47,16.18,52.9,0.39,270.0,660.0
+Watermelon (Roasted),Fruits,Veg,100g,98.3,22.91,54.01,20.97,8.48,8.23,216.0,7.01,53.6,536.7
+Muskmelon (Raw),Fruits,Veg,100g,508.0,14.93,43.81,35.16,7.24,17.63,261.8,0.07,287.2,503.4
+Milk (Boiled),Dairy,Veg,100g,412.2,8.63,73.37,2.85,4.06,1.49,109.5,5.77,16.1,45.7
+Rice (Boiled),Grains & Cereals,Veg,100g,457.3,11.75,2.82,52.06,8.72,5.68,27.1,2.06,294.5,500.0
+Barley (Fried),Grains & Cereals,Veg,100g,383.3,12.8,25.49,13.72,3.63,6.44,46.9,6.34,152.8,397.2
+Muskmelon (Cooked),Fruits,Veg,100g,227.5,26.54,6.25,23.97,1.3,5.79,143.5,2.06,133.1,413.5
+Mango (Boiled),Fruits,Veg,100g,308.3,7.13,35.86,17.09,4.12,13.11,184.2,8.67,167.9,359.4
+Chana Dal (Grilled),Pulses & Legumes,Veg,100g,441.0,17.06,8.26,23.68,3.43,11.66,53.6,9.35,237.4,530.9
+Beetroot (Grilled),Vegetables,Veg,100g,318.7,6.48,46.44,3.6,14.48,1.93,164.3,5.92,147.9,478.9
+Banana (Fried),Fruits,Veg,100g,31.6,13.79,2.93,51.78,9.14,18.46,26.5,6.08,67.5,330.4
+Bajra (Grilled),Grains & Cereals,Veg,100g,311.2,10.46,36.08,28.4,0.75,9.3,95.2,6.36,184.8,27.3
+Banana (Cooked),Fruits,Veg,100g,308.3,14.26,26.14,47.01,1.98,12.88,212.9,8.25,47.3,99.6
+Drumstick (Dry Roasted),Vegetables,Veg,100g,298.8,15.94,30.46,32.88,3.32,14.52,17.6,3.51,227.5,269.7
+Foxtail Millet (Boiled),Grains & Cereals,Veg,100g,353.0,4.31,4.88,41.52,0.47,10.37,279.5,9.62,39.7,273.5
+Rajma (Steamed),Pulses & Legumes,Veg,100g,587.0,5.51,53.03,39.87,5.62,12.4,274.1,7.75,255.2,298.9
+Butter (Dry Roasted),Dairy,Veg,100g,559.0,12.51,49.62,25.48,5.88,13.82,138.4,7.63,166.1,649.3
+Pumpkin (Steamed),Vegetables,Veg,100g,237.0,20.24,72.92,32.33,5.0,17.9,181.9,4.12,197.7,38.9
+Urad Dal (Boiled),Pulses & Legumes,Veg,100g,347.3,20.43,49.83,17.95,11.51,10.77,123.3,3.99,140.7,621.4
+Masoor Dal (Fried),Pulses & Legumes,Veg,100g,347.6,20.81,29.26,22.91,11.26,0.81,6.0,9.11,84.7,260.5
+Brinjal (Fried),Vegetables,Veg,100g,532.8,27.89,68.84,48.81,13.87,6.77,255.8,1.93,297.5,475.6
+Chikoo (Raw),Fruits,Veg,100g,212.8,24.65,57.23,44.48,13.67,18.91,278.6,0.71,245.1,654.0
+Onion (Roasted),Vegetables,Veg,100g,115.3,19.66,31.01,1.89,3.47,3.51,271.8,0.72,178.0,187.7
+Apple (Roasted),Fruits,Veg,100g,485.5,5.42,8.73,1.86,12.17,3.52,254.0,4.91,260.4,533.2
+Basmati Rice (Grilled),Grains & Cereals,Veg,100g,124.3,31.9,53.1,39.72,13.86,18.77,266.0,5.06,164.8,594.6
+Masoor Dal (Boiled),Pulses & Legumes,Veg,100g,466.6,16.89,66.89,33.04,14.13,17.98,272.2,8.07,145.1,37.7
+Red Rice (Grilled),Grains & Cereals,Veg,100g,197.2,1.92,70.3,46.48,13.42,16.25,127.8,8.26,67.5,25.9
