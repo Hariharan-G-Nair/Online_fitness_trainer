@@ -5,7 +5,7 @@ The application answers fitness, workout, and nutrition-related queries by retri
 Unlike traditional chatbots that rely solely on pre-trained knowledge, this system dynamically retrieves domain-specific data using FAISS vector search, injects the retrieved context into the LLM prompt, and maintains conversation history to deliver coherent, multi-turn interactions.
 This project demonstrates a practical, end-to-end implementation of a production-style RAG pipeline with a clean web interface and real-world applicability.
 
-🚀 Features
+**🚀 Features**
 
 📄 CSV-based knowledge source
 
@@ -24,7 +24,7 @@ This project demonstrates a practical, end-to-end implementation of a production
 
 
 
-🏗️ Tech Stack
+**🏗️ Tech Stack**
 
 Backend: Flask
 
@@ -43,7 +43,7 @@ Language: Python 3.11
 
 
 
-📁 Project Structure
+1**📁 Project Structure**
 Fitness_trainer_app/
 │
 ├── app.py                 # Flask server
@@ -57,7 +57,7 @@ Fitness_trainer_app/
 
 
 
-🔑 Prerequisites
+**🔑 Prerequisites**
 
 Python 3.11
 
@@ -66,7 +66,7 @@ Get one from: https://console.groq.com
 
 
 
-⚙️ Setup Instructions:
+**⚙️ Setup Instructions:**
 
 1️⃣ Clone the repository
 git clone https://github.com/your-username/fitness-trainer-chatbot.git
@@ -101,7 +101,7 @@ Open your browser:
 http://127.0.0.1:5000
 
 
-⚠️ Notes
+**⚠️ Notes**
 
 FAISS index is rebuilt on app start
 
@@ -112,7 +112,7 @@ First run may be slow due to embedding model download
 favicon.ico 404 is normal and harmless
 
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 💾 Persist FAISS index to disk
 
@@ -127,18 +127,18 @@ favicon.ico 404 is normal and harmless
 📱 Mobile-friendly UI
 
 
-🤝 Contributing
+**🤝 Contributing**
 
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
 
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
 
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Hariharan G
 Data Scientist | Fitness  | AI Developer
