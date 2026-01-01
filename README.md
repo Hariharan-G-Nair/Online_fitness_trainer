@@ -1,4 +1,4 @@
-
+# AI Fitness Trainer — Retrieval-Augmented Generation (RAG) Chatbot with Llama 3
 
 
 Fitness Trainer Chatbot is a conversational Retrieval-Augmented Generation (RAG) system built using Flask, LangChain, and Groq-hosted Llama 3.
