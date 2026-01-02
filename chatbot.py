@@ -30,8 +30,12 @@ file_paths = [
     "training_types.csv",
     "cardio_hiit_workouts_500_plus.csv",
     "workout_theory_nutrition_guide.csv",
+    "Injury prevention and rehab.csv",
+    "Supplement guide.csv",
+    "Warm_up.csv"
 
 ]
+
 
 documents = []
 
